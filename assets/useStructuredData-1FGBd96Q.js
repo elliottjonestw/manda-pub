@@ -1,0 +1,1 @@
+import{h as e,p as t}from"./storage-CbKLCJV5.js";var n=e(t(),1);function r(e){(0,n.useEffect)(()=>{let t=document.createElement(`script`);return t.type=`application/ld+json`,t.textContent=JSON.stringify(e),document.head.appendChild(t),()=>{document.head.removeChild(t)}},[e])}export{r as t};

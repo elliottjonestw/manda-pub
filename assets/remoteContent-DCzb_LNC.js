@@ -1,0 +1,1 @@
+import{G as e}from"./index-fCCOeVPT.js";var t=`https://mandachinese.com/`;function n(){return e()&&typeof navigator<`u`&&navigator.onLine!==!1}async function r(e,t=4e3){let n=new AbortController,r=setTimeout(()=>n.abort(),t);try{return await fetch(e,{signal:n.signal,cache:`no-cache`})}finally{clearTimeout(r)}}export{r as n,n as r,t};

@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "animals",
+    "file": "animals.txt",
+    "name": "Animals",
+    "count": 111
+  },
+  {
+    "slug": "body-parts",
+    "file": "body-parts.txt",
+    "name": "Body Parts",
+    "count": 77
+  },
+  {
+    "slug": "colors",
+    "file": "colors.txt",
+    "name": "Colors",
+    "count": 40
+  },
+  {
+    "slug": "country-names",
+    "file": "country-names.txt",
+    "name": "Countries",
+    "count": 239
+  },
+  {
+    "slug": "dog-breeds",
+    "file": "dog-breeds.txt",
+    "name": "Dog Breeds",
+    "count": 25
+  },
+  {
+    "slug": "education",
+    "file": "education.txt",
+    "name": "Education",
+    "count": 103
+  },
+  {
+    "slug": "emotions",
+    "file": "emotions.txt",
+    "name": "Emotions",
+    "count": 81
+  },
+  {
+    "slug": "famous-people",
+    "file": "famous-people.txt",
+    "name": "Famous People",
+    "count": 143
+  },
+  {
+    "slug": "finance",
+    "file": "finance.txt",
+    "name": "Finance",
+    "count": 98
+  },
+  {
+    "slug": "foods",
+    "file": "foods.txt",
+    "name": "Foods",
+    "count": 197
+  },
+  {
+    "slug": "furniture",
+    "file": "furniture.txt",
+    "name": "Furniture",
+    "count": 44
+  },
+  {
+    "slug": "health",
+    "file": "health.txt",
+    "name": "Health",
+    "count": 95
+  },
+  {
+    "slug": "jobs",
+    "file": "jobs.txt",
+    "name": "Jobs",
+    "count": 91
+  },
+  {
+    "slug": "nature",
+    "file": "nature.txt",
+    "name": "Nature",
+    "count": 102
+  },
+  {
+    "slug": "shapes",
+    "file": "shapes.txt",
+    "name": "Shapes",
+    "count": 51
+  },
+  {
+    "slug": "sports",
+    "file": "sports.txt",
+    "name": "Sports",
+    "count": 103
+  },
+  {
+    "slug": "technology",
+    "file": "technology.txt",
+    "name": "Technology",
+    "count": 79
+  },
+  {
+    "slug": "travel",
+    "file": "travel.txt",
+    "name": "Travel",
+    "count": 123
+  },
+  {
+    "slug": "vehicles",
+    "file": "vehicles.txt",
+    "name": "Vehicles",
+    "count": 72
+  },
+  {
+    "slug": "weather",
+    "file": "weather.txt",
+    "name": "Weather",
+    "count": 90
+  }
+]

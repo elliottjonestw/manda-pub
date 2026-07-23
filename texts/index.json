@@ -1,0 +1,378 @@
+[
+  {
+    "filename": "the-charm-of-bonsai.json",
+    "name": "The Charm of Bonsai",
+    "category": "Plants & Gardening",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 6",
+    "image": "/texts/images/the-charm-of-bonsai.webp"
+  },
+  {
+    "filename": "the-journey-to-mars.json",
+    "name": "The Journey to Mars",
+    "category": "Space & Astronomy",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 4",
+    "image": "/texts/images/the-journey-to-mars.webp"
+  },
+  {
+    "filename": "the-rise-of-smart-homes.json",
+    "name": "The Rise of Smart Homes",
+    "category": "Technology",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-rise-of-smart-homes.webp"
+  },
+  {
+    "filename": "the-legend-of-qu-yuan.json",
+    "name": "The Legend of Qu Yuan",
+    "category": "Literature & Poetry",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-legend-of-qu-yuan.webp"
+  },
+  {
+    "filename": "the-enigmatic-terracotta-army.json",
+    "name": "The Enigmatic Terracotta Army",
+    "category": "Travel",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-enigmatic-terracotta-army.webp"
+  },
+  {
+    "filename": "the-story-of-tofu.json",
+    "name": "The Story of Tofu",
+    "category": "Food",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-story-of-tofu.webp"
+  },
+  {
+    "filename": "the-vibrant-night-markets.json",
+    "name": "The Vibrant Night Markets",
+    "category": "City & Urban Life",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-vibrant-night-markets.webp"
+  },
+  {
+    "filename": "wonders-of-the-yangtze-river.json",
+    "name": "The Wonders of the Yangtze River",
+    "category": "Geography",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/wonders-of-the-yangtze-river.webp"
+  },
+  {
+    "filename": "the-evolution-of-family-roles.json",
+    "name": "The Evolution of Family Roles",
+    "category": "Family & Relationships",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 5",
+    "image": "/texts/images/the-evolution-of-family-roles.webp"
+  },
+  {
+    "filename": "the-song-of-the-seasons.json",
+    "name": "The Song of the Seasons",
+    "category": "Literature & Poetry",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 4",
+    "image": "/texts/images/the-song-of-the-seasons.webp"
+  },
+  {
+    "filename": "spirit-of-neighborhood-festivals.json",
+    "name": "The Spirit of Neighborhood Festivals",
+    "category": "Community & Neighbours",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/spirit-of-neighborhood-festivals.webp"
+  },
+  {
+    "filename": "the-life-of-an-astronaut.json",
+    "name": "The Life of an Astronaut",
+    "category": "Space & Astronomy",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 5",
+    "image": "/texts/images/the-life-of-an-astronaut.webp"
+  },
+  {
+    "filename": "a-ride-on-the-city-bus.json",
+    "name": "A Ride on the City Bus",
+    "category": "City & Urban Life",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 3",
+    "image": "/texts/images/a-ride-on-the-city-bus.webp"
+  },
+  {
+    "filename": "the-benefits-of-walking.json",
+    "name": "The Benefits of Walking",
+    "category": "Health",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 3",
+    "image": "/texts/images/the-benefits-of-walking.webp"
+  },
+  {
+    "filename": "the-art-of-chinese-calligraphy.json",
+    "name": "The Art of Chinese Calligraphy",
+    "category": "Culture",
+    "date": "2026-07-11",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-art-of-chinese-calligraphy.webp"
+  },
+  {
+    "filename": "the-journey-of-tea-leaves.json",
+    "name": "The Journey of Tea Leaves",
+    "category": "Food",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-journey-of-tea-leaves.webp"
+  },
+  {
+    "filename": "healing-power-of-ginseng.json",
+    "name": "The Healing Power of Ginseng",
+    "category": "Traditional Medicine",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/healing-power-of-ginseng.webp"
+  },
+  {
+    "filename": "impact-social-media-communication.json",
+    "name": "The Impact of Social Media on Communication",
+    "category": "Social Media & Internet",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 6",
+    "image": "/texts/images/impact-social-media-communication.webp"
+  },
+  {
+    "filename": "the-quest-for-immortality.json",
+    "name": "The Quest for Immortality",
+    "category": "Dreams & Aspirations",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-quest-for-immortality.webp"
+  },
+  {
+    "filename": "life-in-a-chinese-village.json",
+    "name": "Life in a Chinese Village",
+    "category": "Modern China",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 3",
+    "image": "/texts/images/life-in-a-chinese-village.webp"
+  },
+  {
+    "filename": "a-visit-to-the-zoo.json",
+    "name": "A Visit to the Zoo",
+    "category": "Travel",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 5",
+    "image": "/texts/images/a-visit-to-the-zoo.webp"
+  },
+  {
+    "filename": "the-beauty-of-chrysanthemums.json",
+    "name": "The Beauty of Chrysanthemums",
+    "category": "Plants & Gardening",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 4",
+    "image": "/texts/images/the-beauty-of-chrysanthemums.webp"
+  },
+  {
+    "filename": "a-friend-from-another-land.json",
+    "name": "A Friend from Another Land",
+    "category": "Friendship",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 4",
+    "image": "/texts/images/a-friend-from-another-land.webp"
+  },
+  {
+    "filename": "ancient-bridges-of-china.json",
+    "name": "The Ancient Bridges of China",
+    "category": "Architecture & Landmarks",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 4",
+    "image": "/texts/images/ancient-bridges-of-china.webp"
+  },
+  {
+    "filename": "the-joy-of-table-tennis.json",
+    "name": "The Joy of Table Tennis",
+    "category": "Sports",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 5",
+    "image": "/texts/images/the-joy-of-table-tennis.webp"
+  },
+  {
+    "filename": "the-art-of-chinese-poetry.json",
+    "name": "The Art of Chinese Poetry",
+    "category": "Literature & Poetry",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-art-of-chinese-poetry.webp"
+  },
+  {
+    "filename": "the-art-of-fermented-foods.json",
+    "name": "The Art of Fermented Foods",
+    "category": "Food",
+    "date": "2026-07-10",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-art-of-fermented-foods.webp"
+  },
+  {
+    "filename": "healthy-habits-for-a-busy-life.json",
+    "name": "Healthy Habits for a Busy Life",
+    "category": "Health",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 4",
+    "image": "/texts/images/healthy-habits-for-a-busy-life.webp"
+  },
+  {
+    "filename": "the-wonders-of-guilin.json",
+    "name": "The Wonders of Guilin",
+    "category": "Travel",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-wonders-of-guilin.webp"
+  },
+  {
+    "filename": "a-day-at-the-market.json",
+    "name": "A Day at the Market",
+    "category": "Daily Life",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 3",
+    "image": "/texts/images/a-day-at-the-market.webp"
+  },
+  {
+    "filename": "a-day-with-my-family.json",
+    "name": "A Day with My Family",
+    "category": "Culture",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 2",
+    "image": "/texts/images/a-day-with-my-family.webp"
+  },
+  {
+    "filename": "the-wisdom-of-time.json",
+    "name": "The Wisdom of Time",
+    "category": "Aging & Elderly",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 6",
+    "image": "/texts/images/the-wisdom-of-time.webp"
+  },
+  {
+    "filename": "a-day-at-the-office.json",
+    "name": "A Day at the Office",
+    "category": "Daily Life",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 4",
+    "image": "/texts/images/a-day-at-the-office.webp"
+  },
+  {
+    "filename": "a-walk-in-the-park.json",
+    "name": "A Walk in the Park",
+    "category": "Nature",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 6",
+    "image": "/texts/images/a-walk-in-the-park.webp"
+  },
+  {
+    "filename": "my-familys-new-house.json",
+    "name": "My Family's New House",
+    "category": "Housing & Home",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 3",
+    "image": "/texts/images/my-familys-new-house.webp"
+  },
+  {
+    "filename": "the-unforgettable-encounter.json",
+    "name": "The Unforgettable Encounter",
+    "category": "Love & Romance",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-unforgettable-encounter.webp"
+  },
+  {
+    "filename": "exploring-city-life.json",
+    "name": "Exploring City Life",
+    "category": "City & Urban Life",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 4",
+    "image": "/texts/images/exploring-city-life.webp"
+  },
+  {
+    "filename": "the-little-kung-fu-master.json",
+    "name": "The Little Kung Fu Master",
+    "category": "Martial Arts",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 3",
+    "image": "/texts/images/the-little-kung-fu-master.webp"
+  },
+  {
+    "filename": "the-secret-life-of-bamboo.json",
+    "name": "The Secret Life of Bamboo",
+    "category": "Plants & Gardening",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-secret-life-of-bamboo.webp"
+  },
+  {
+    "filename": "the-art-of-chinese-dumplings.json",
+    "name": "The Art of Chinese Dumplings",
+    "category": "Cooking & Recipes",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-art-of-chinese-dumplings.webp"
+  },
+  {
+    "filename": "the-mysteries-of-dark-matter.json",
+    "name": "The Mysteries of Dark Matter",
+    "category": "Space & Astronomy",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 7-9",
+    "image": "/texts/images/the-mysteries-of-dark-matter.webp"
+  },
+  {
+    "filename": "healthy-eating.json",
+    "name": "Healthy Eating",
+    "category": "Health",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 3",
+    "image": "/texts/images/healthy-eating.webp"
+  },
+  {
+    "filename": "great-wall.json",
+    "name": "The Story of the Great Wall",
+    "category": "History",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 5",
+    "image": "/texts/images/great-wall.webp"
+  },
+  {
+    "filename": "shopping-mall.json",
+    "name": "A Trip to the Mall",
+    "category": "Daily Life",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 2",
+    "image": "/texts/images/shopping-mall.webp"
+  },
+  {
+    "filename": "chinese-new-year.json",
+    "name": "Chinese New Year Traditions",
+    "category": "Culture",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 4",
+    "image": "/texts/images/chinese-new-year.webp"
+  },
+  {
+    "filename": "morning-routine.json",
+    "name": "My Morning Routine",
+    "category": "Daily Life",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 2",
+    "image": "/texts/images/morning-routine.webp"
+  },
+  {
+    "filename": "beijing-tourism.json",
+    "name": "Beijing Tourism",
+    "category": "Travel",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 3",
+    "image": "/texts/images/beijing-tourism.webp"
+  }
+]

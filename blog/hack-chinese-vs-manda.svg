@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Hack Chinese vs Manda">
+  <defs>
+    <linearGradient id="hcm-l" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#334155"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="hcm-r" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="hcm-glow" cx="0.5" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="hcm-clip"><rect width="800" height="450"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#hcm-clip)">
+    <!-- Panels -->
+    <rect x="0" y="0" width="400" height="450" fill="url(#hcm-l)"/>
+    <rect x="400" y="0" width="400" height="450" fill="url(#hcm-r)"/>
+    <rect x="400" y="0" width="400" height="450" fill="url(#hcm-glow)"/>
+
+    <!-- Oversized watermark characters, bleeding off the edges -->
+    <text x="-18" y="470" font-family="system-ui, 'PingFang SC', sans-serif" font-size="300" font-weight="700" fill="#ffffff" opacity="0.05">学</text>
+    <text x="600" y="210" font-family="system-ui, 'PingFang SC', sans-serif" font-size="300" font-weight="700" fill="#ffffff" opacity="0.07">读</text>
+
+    <!-- Left side: Hack Chinese, centred in the visible panel (clear of the badge) -->
+    <text x="180" y="214" text-anchor="middle" font-family="system-ui, sans-serif" font-size="40" font-weight="800" fill="#ffffff">Hack Chinese</text>
+    <text x="180" y="246" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="500" fill="#ffffff" opacity="0.65">Vocabulary SRS</text>
+
+    <!-- Right side: Manda -->
+    <text x="620" y="214" text-anchor="middle" font-family="system-ui, sans-serif" font-size="40" font-weight="800" fill="#ffffff">Manda</text>
+    <text x="620" y="246" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="500" fill="#ffffff" opacity="0.8">Read real texts</text>
+
+    <!-- Centre "vs" badge -->
+    <circle cx="400" cy="225" r="42" fill="#0f172a" stroke="#ffffff" stroke-width="3"/>
+    <text x="400" y="225" text-anchor="middle" dominant-baseline="central" font-family="system-ui, sans-serif" font-size="28" font-weight="700" font-style="italic" fill="#ffffff">vs</text>
+  </g>
+</svg>

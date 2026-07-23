@@ -1,0 +1,1 @@
+import{h as e,p as t}from"./storage-CbKLCJV5.js";import{v as n,w as r}from"./GlobalSearch-C-_tpIUt.js";var i=e(t(),1);function a(){let[e,t]=(0,i.useState)(n);return(0,i.useEffect)(()=>{e||r(()=>t(!0))},[e]),e}export{a as t};

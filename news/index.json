@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "norwegian-airs-bet.json",
+    "name": "Norwegian Air's Bet",
+    "category": "Football",
+    "date": "2026-07-12",
+    "hskLevel": "HSK 7-9",
+    "image": "/news/images/norwegian-airs-bet.webp"
+  },
+  {
+    "filename": "samsung-profit-surge.json",
+    "name": "Samsung Profit Surge",
+    "category": "Business",
+    "date": "2026-07-07",
+    "hskLevel": "HSK 7-9",
+    "image": "/news/images/samsung-profit-surge.webp"
+  },
+  {
+    "filename": "prince-harry-uk-visit.json",
+    "name": "Prince Harry UK Visit",
+    "category": "Society",
+    "date": "2026-07-07",
+    "hskLevel": "HSK 7-9",
+    "image": "/news/images/prince-harry-uk-visit.webp"
+  },
+  {
+    "filename": "japanese-mayors-maternity-leave.json",
+    "name": "Japanese Mayor's Maternity Leave",
+    "category": "Society",
+    "date": "2026-07-07",
+    "hskLevel": "HSK 7-9",
+    "image": "/news/images/japanese-mayors-maternity-leave.webp"
+  },
+  {
+    "filename": "punjabi-soldiers-recognized.json",
+    "name": "Punjabi Soldiers Recognized",
+    "category": "Conflict",
+    "date": "2026-07-07",
+    "hskLevel": "HSK 7-9",
+    "image": "/news/images/punjabi-soldiers-recognized.webp"
+  },
+  {
+    "filename": "west-bengal-school-lunch-controversy.json",
+    "name": "School Lunch Controversy",
+    "category": "Food",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 7-9",
+    "image": "/news/images/west-bengal-school-lunch-controversy.webp"
+  },
+  {
+    "filename": "uk-heatwave-alert.json",
+    "name": "UK Heatwave Alert",
+    "category": "Environment",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 7-9",
+    "image": "/news/images/uk-heatwave-alert.webp"
+  },
+  {
+    "filename": "cape-verde-world-cup-journey.json",
+    "name": "Cape Verde's World Cup Journey",
+    "category": "Football",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 7-9",
+    "image": "/news/images/cape-verde-world-cup-journey.webp"
+  }
+]

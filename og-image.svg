@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ffffff"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="8" height="630" fill="#4f46e5"/>
+
+  <!-- Large background character -->
+  <text x="900" y="520" font-family="serif" font-size="520" fill="#f5f3ff" text-anchor="middle">读</text>
+
+  <!-- Logo / wordmark -->
+  <text x="80" y="120" font-family="system-ui, -apple-system, sans-serif" font-size="56" font-weight="700" fill="#111827">Manda</text>
+
+  <!-- Tagline -->
+  <text x="80" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="700" fill="#111827">Read any Chinese text.</text>
+  <text x="80" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="700" fill="#4f46e5">Understand every word.</text>
+
+  <!-- Description -->
+  <text x="80" y="390" font-family="system-ui, -apple-system, sans-serif" font-size="32" fill="#6b7280">Instant pinyin · Offline dictionary · Spaced repetition</text>
+
+  <!-- URL -->
+  <text x="80" y="570" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="#9ca3af">mandachinese.com</text>
+</svg>

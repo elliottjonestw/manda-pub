@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#4f46e5" />
+    <!-- Standard tag (Chrome/Android); the apple-prefixed one below is still
+         required for iOS Safari standalone mode. -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Manda" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Manda: Interactive Chinese Reader &amp; Learning App</title>
+    <meta
+      name="description"
+      content="Learn Chinese by reading real texts. Paste any article or story and get instant pinyin, definitions, and flashcards, all offline, free, and in your browser."
+    />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://mandachinese.com" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Manda" />
+    <meta property="og:url" content="https://mandachinese.com" />
+    <meta property="og:title" content="Manda: Interactive Chinese Reader &amp; Learning App" />
+    <meta
+      property="og:description"
+      content="Learn Chinese by reading real texts. Paste any article or story and get instant pinyin, definitions, and flashcards, all offline, free, and in your browser."
+    />
+    <meta property="og:image" content="https://mandachinese.com/og-image.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@mandachinese" />
+    <meta name="twitter:title" content="Manda: Interactive Chinese Reader &amp; Learning App" />
+    <meta
+      name="twitter:description"
+      content="Learn Chinese by reading real texts. Paste any article or story and get instant pinyin, definitions, and flashcards, all offline, free, and in your browser."
+    />
+    <meta name="twitter:image" content="https://mandachinese.com/og-image.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Structured data (Schema.org) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Manda",
+        "url": "https://mandachinese.com",
+        "description": "Learn Chinese by reading real texts. Paste any article or story and get instant pinyin, definitions, and flashcards, free, and in your browser.",
+        "sameAs": ["https://x.com/mandachinese"],
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://mandachinese.com/dictionary?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Manda",
+        "url": "https://mandachinese.com",
+        "description": "An all-in-one Chinese learning platform: interactive reader, dictionary, graded Stories/News libraries, Learning Path, Chengyu Database, and spaced-repetition study, free, with no account required.",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "Any (runs in any modern web browser)",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        }
+      }
+    </script>
+    <script type="module" crossorigin src="/assets/index-fCCOeVPT.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/storage-CbKLCJV5.js">
+    <link rel="modulepreload" crossorigin href="/assets/GlobalSearch-C-_tpIUt.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-Bs5Jqfp8.css">
+  </head>
+  <body>
+    <style>
+      /* Bootstrap loader shown until React mounts (and across the reload that a
+         Cloud restore triggers), so there is no blank flash. Mirrors PageLoader. */
+      #boot-loader {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+      }
+      html.dark #boot-loader {
+        background: #1f2937;
+      }
+      #boot-loader > div {
+        width: 2.5rem;
+        height: 2.5rem;
+        border-radius: 9999px;
+        border: 4px solid #e5e7eb;
+        border-top-color: #6366f1;
+        animation: boot-spin 0.8s linear infinite;
+      }
+      html.dark #boot-loader > div {
+        border-color: #374151;
+        border-top-color: #6366f1;
+      }
+      @keyframes boot-spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+    </style>
+    <div id="root">
+      <div id="boot-loader"><div></div></div>
+    </div>
+    <script>
+      ;(function () {
+        // App data lives in IndexedDB (async, unavailable pre-paint), so the
+        // theme is mirrored to this localStorage key by useSettings.
+        var theme
+        try {
+          theme = localStorage.getItem('manda-theme')
+        } catch (e) {}
+        var dark =
+          theme === 'dark' ||
+          (theme !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches)
+        if (dark) document.documentElement.classList.add('dark')
+      })()
+    </script>
+    <script>
+      window.addEventListener('error', function (e) {
+        // Ignore cross-origin errors — browser sanitises these as "Script error."
+        // with no filename, so they cannot be diagnosed and are rarely from our code
+        if (!e.filename || e.message === 'Script error.') return
+        document.getElementById('root').innerHTML =
+          '<div style="font-family:monospace;padding:16px;color:#c00;background:#fff;word-break:break-all">' +
+          '<b>JS Error</b><br>' +
+          (e.message || 'unknown') +
+          '<br><small>' +
+          (e.filename || '') +
+          ':' +
+          (e.lineno || '') +
+          '</small></div>'
+      })
+      window.addEventListener('unhandledrejection', function (e) {
+        document.getElementById('root').innerHTML =
+          '<div style="font-family:monospace;padding:16px;color:#c00;background:#fff;word-break:break-all">' +
+          '<b>Unhandled Promise Rejection</b><br>' +
+          (e.reason?.message || String(e.reason) || 'unknown') +
+          '</div>'
+      })
+    </script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('./sw.js').catch(function () {})
+        })
+      }
+    </script>
+  </body>
+</html>

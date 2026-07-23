@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="TOCFL Chinese proficiency exam band levels">
+  <defs>
+    <linearGradient id="tocfl-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c2340"/>
+      <stop offset="0.55" stop-color="#0d3460"/>
+      <stop offset="1" stop-color="#163a72"/>
+    </linearGradient>
+    <radialGradient id="tocfl-glow" cx="0.5" cy="0.28" r="0.65">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tocfl-vig" cx="0.5" cy="0.52" r="0.72">
+      <stop offset="0.45" stop-color="#020912" stop-opacity="0"/>
+      <stop offset="1" stop-color="#020912" stop-opacity="0.52"/>
+    </radialGradient>
+    <clipPath id="tocfl-clip"><rect width="800" height="450"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#tocfl-clip)">
+    <rect width="800" height="450" fill="url(#tocfl-bg)"/>
+    <rect width="800" height="450" fill="url(#tocfl-glow)"/>
+
+    <text x="680" y="148" text-anchor="middle" font-family="system-ui,'PingFang TC',sans-serif" font-size="280" font-weight="700" fill="#ffffff" opacity="0.05">測</text>
+    <text x="62" y="492" text-anchor="middle" font-family="system-ui,'PingFang TC',sans-serif" font-size="240" font-weight="700" fill="#ffffff" opacity="0.04">文</text>
+
+    <text x="400" y="158" text-anchor="middle" font-family="system-ui,sans-serif" font-size="92" font-weight="800" fill="#ffffff" letter-spacing="-3">TOCFL</text>
+    <text x="400" y="196" text-anchor="middle" font-family="system-ui,'PingFang TC',sans-serif" font-size="18" font-weight="400" fill="#7dd3fc" opacity="0.82" letter-spacing="5">華語文能力測驗</text>
+
+    <rect x="170" y="328" width="100" height="37" rx="3" fill="#38bdf8" opacity="0.18"/>
+    <text x="220" y="351" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#7dd3fc">Novice</text>
+
+    <rect x="290" y="292" width="100" height="73" rx="3" fill="#38bdf8" opacity="0.32"/>
+    <text x="340" y="338" text-anchor="middle" font-family="system-ui,sans-serif" font-size="26" font-weight="700" fill="#bae6fd">A</text>
+
+    <rect x="410" y="252" width="100" height="113" rx="3" fill="#38bdf8" opacity="0.50"/>
+    <text x="460" y="315" text-anchor="middle" font-family="system-ui,sans-serif" font-size="26" font-weight="700" fill="#ffffff">B</text>
+
+    <rect x="530" y="210" width="100" height="155" rx="3" fill="#38bdf8" opacity="0.72"/>
+    <text x="580" y="296" text-anchor="middle" font-family="system-ui,sans-serif" font-size="26" font-weight="700" fill="#ffffff">C</text>
+
+    <line x1="158" y1="366" x2="642" y2="366" stroke="#38bdf8" stroke-width="1.5" opacity="0.22"/>
+
+    <text x="220" y="385" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#7dd3fc" opacity="0.50">Pre-A1</text>
+    <text x="340" y="385" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#7dd3fc" opacity="0.62">A1–A2</text>
+    <text x="460" y="385" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#7dd3fc" opacity="0.75">B1–B2</text>
+    <text x="580" y="385" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#7dd3fc" opacity="0.88">C1–C2</text>
+
+    <rect width="800" height="450" fill="url(#tocfl-vig)"/>
+  </g>
+</svg>
