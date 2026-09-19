@@ -1,0 +1,33 @@
+{
+  "name": "Fitzroy River Gets Olympic OK",
+  "category": "Olympics",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/olympic-crocodile-venue.webp",
+  "simplified": "澳大利亚的菲茨罗伊河将办2032年奥运会的划船和皮划艇比赛。一个独立检查说，这条河可以用来比赛。\n\n报道说，这条河是盐水鳄鱼的生活地，大约有500只鳄鱼。检查主要看水位、天气和比赛条件。\n\n世界划船和皮划艇组织都支持这个场地。组织者说，看到鳄鱼时已有安全办法。\n\n有些运动员和当地人仍担心洪水、路程和安全问题。这个场地现在会进入下一步准备工作。",
+  "traditional": "澳大利亞的菲茨羅伊河將辦2032年奧運會的划船和皮划艇比賽。一個獨立檢查說，這條河可以用來比賽。\n\n報導說，這條河是鹽水鱷魚的生活地，大約有500隻鱷魚。檢查主要看水位、天氣和比賽條件。\n\n世界划船和皮划艇組織都支持這個場地。組織者說，看到鱷魚時已有安全辦法。\n\n有些運動員和當地人仍擔心洪水、路程和安全問題。這個場地現在會進入下一步準備工作。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o",
+      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-17T10:03:00+01:00 (updated 2026-09-18; exact update timezone unavailable)",
+      "accessedAt": "2026-09-18T16:47:00+08:00"
+    },
+    {
+      "url": "https://www.aol.com/articles/river-500-crocodiles-used-rowing-112500000.html",
+      "title": "River with 500 crocodiles in it will be used for rowing at Olympics",
+      "outlet": "AOL",
+      "publishedAt": "2026-09-17T11:37:00Z",
+      "accessedAt": "2026-09-18T16:47:00+08:00"
+    },
+    {
+      "url": "https://apnews.com/article/4fde1e702d062d273c867260eff03f16",
+      "title": "Olympic hosts defy 'naysayers' on 2032 Games rowing in Rockhampton",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-10T06:01:30Z",
+      "accessedAt": "2026-09-18T16:47:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

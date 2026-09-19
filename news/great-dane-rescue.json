@@ -1,0 +1,33 @@
+{
+  "name": "Great Dane’s Mountain Ride",
+  "category": "Nature",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/great-dane-rescue.webp",
+  "simplified": "加拿大不列颠哥伦比亚省的搜救人员近日帮助一只大丹犬下山。这只狗在麦克弗森山步道受伤，无法自行走回起点。\n\n搜救队说，这只10岁的狗在9月13日弄伤脚掌。它的主人曾尝试带它离开，但已很疲惫，也没有准备在山区过夜。\n\n救援人员把狗放进带轮子的篮式担架，慢慢送回步道起点。行动持续到次日凌晨1点左右。\n\n搜救队表示，狗和两名主人都安全。夜间的山地气温已接近冰点。",
+  "traditional": "加拿大不列顛哥倫比亞省的搜救人員近日幫助一隻大丹犬下山。這隻狗在麥克弗森山步道受傷，無法自行走回起點。\n\n搜救隊說，這隻10歲的狗在9月13日弄傷腳掌。它的主人曾嘗試帶它離開，但已很疲憊，也沒有準備在山區過夜。\n\n救援人員把狗放進帶輪子的籃式擔架，慢慢送回步道起點。行動持續到次日凌晨1點左右。\n\n搜救隊表示，狗和兩名主人都安全。夜間的山地氣溫已接近冰點。",
+  "sources": [
+    {
+      "url": "https://globalnews.ca/news/12063980/great-dane-rescue-mountain/",
+      "title": "Great Dane stretchered off mountain near Revelstoke, B.C., in unusual rescue",
+      "outlet": "Global News / Canadian Press",
+      "publishedAt": "2026-09-17T21:15:00-07:00",
+      "accessedAt": "2026-09-18T16:28:00+08:00"
+    },
+    {
+      "url": "https://www.cbc.ca/news/canada/british-columbia/great-dane-gets-stretcher-ride-down-b-c-mountain-after-injuring-paws-9.7348313",
+      "title": "Great Dane gets stretcher ride down B.C. mountain after injuring paws",
+      "outlet": "CBC News",
+      "publishedAt": "2026-09-17T16:16:18-04:00",
+      "accessedAt": "2026-09-18T16:28:00+08:00"
+    },
+    {
+      "url": "https://www.kelownanow.com/watercooler/news/news/BC_Interior/Great_Dane_rescued_by_Revelstoke_SAR_after_getting_injured_during_mountain_hike/",
+      "title": "Great Dane rescued by Revelstoke SAR after mountain hike",
+      "outlet": "KelownaNow",
+      "publishedAt": "2026-09-17T12:00:00-07:00",
+      "accessedAt": "2026-09-18T16:28:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

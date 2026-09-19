@@ -1,0 +1,254 @@
+[
+  {
+    "filename": "nigeria-custody-inquiry.json",
+    "name": "Nigeria Opens Custody Inquiry",
+    "category": "World",
+    "date": "2026-09-19",
+    "hskLevel": "HSK 7–9",
+    "image": "/news/images/nigeria-custody-inquiry.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "gemini-security-test.json",
+    "name": "Gemini Security Test",
+    "category": "Technology",
+    "date": "2026-09-19",
+    "hskLevel": "HSK 5",
+    "image": "/news/images/gemini-security-test.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "hodgkinson-athlos-win.json",
+    "name": "Hodgkinson Wins Athlos",
+    "category": "Athletics",
+    "date": "2026-09-19",
+    "hskLevel": "HSK 4",
+    "image": "/news/images/hodgkinson-athlos-win.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "indonesia-carrier-arrival.json",
+    "name": "Indonesia Receives Carrier",
+    "category": "World",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/indonesia-carrier-arrival.webp",
+    "tocflLevel": "5"
+  },
+  {
+    "filename": "uk-retail-sales-rebound.json",
+    "name": "UK Retail Sales Rebound",
+    "category": "Business",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 5",
+    "image": "/news/images/uk-retail-sales-rebound.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "johnny-marr-guitar-auction.json",
+    "name": "Johnny Marr Guitars Sell",
+    "category": "Music",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 7–9",
+    "image": "/news/images/johnny-marr-guitar-auction.webp",
+    "tocflLevel": "5"
+  },
+  {
+    "filename": "olympic-crocodile-venue.json",
+    "name": "Fitzroy River Gets Olympic OK",
+    "category": "Olympics",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/olympic-crocodile-venue.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "spencer-memoir-claim.json",
+    "name": "Memoir Claim Draws Reply",
+    "category": "Society",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 5",
+    "image": "/news/images/spencer-memoir-claim.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "great-dane-rescue.json",
+    "name": "Great Dane’s Mountain Ride",
+    "category": "Nature",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/great-dane-rescue.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "rai-wentworth-lead.json",
+    "name": "Rai Shares Wentworth Lead",
+    "category": "Golf",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 7–9",
+    "image": "/news/images/rai-wentworth-lead.webp",
+    "tocflLevel": null
+  },
+  {
+    "filename": "malawi-rescue.json",
+    "name": "Woman Rescued in Malawi",
+    "category": "World",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/malawi-rescue.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "japan-rate-rise.json",
+    "name": "Japan Raises Rate",
+    "category": "Business",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 7–9",
+    "image": "/news/images/japan-rate-rise.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "abhishek-t20-century.json",
+    "name": "Abhishek’s Fast Century",
+    "category": "Cricket",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/abhishek-t20-century.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "bournemouth-europe-win.json",
+    "name": "Bournemouth Win in Europe",
+    "category": "Football",
+    "date": "2026-09-18",
+    "hskLevel": "",
+    "image": "/news/images/bournemouth-europe-win.webp",
+    "tocflLevel": null
+  },
+  {
+    "filename": "palace-europa-debut.json",
+    "name": "Palace’s European Start",
+    "category": "Football",
+    "date": "2026-09-18",
+    "hskLevel": "",
+    "image": "/news/images/palace-europa-debut.webp",
+    "tocflLevel": null
+  },
+  {
+    "filename": "man-city-samba-debut.json",
+    "name": "Samba’s Dream Debut",
+    "category": "Football",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/man-city-samba-debut.webp",
+    "tocflLevel": null
+  },
+  {
+    "filename": "england-t20-series.json",
+    "name": "England Clinch T20 Series",
+    "category": "Cricket",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/england-t20-series.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "bills-new-home.json",
+    "name": "Bills Open New Home",
+    "category": "American Football",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 4",
+    "image": "/news/images/bills-new-home.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "t-rex-temperature.json",
+    "name": "T. Rex Temperature",
+    "category": "Science",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 7–9",
+    "image": "/news/images/t-rex-temperature.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "tilcayo-tiger-cat.json",
+    "name": "A New Tiger Cat",
+    "category": "Nature",
+    "date": "2026-09-18",
+    "hskLevel": "HSK 5",
+    "image": "/news/images/tilcayo-tiger-cat.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "norwegian-airs-bet.json",
+    "name": "Norwegian Air's Bet",
+    "category": "Football",
+    "date": "2026-07-12",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/norwegian-airs-bet.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "samsung-profit-surge.json",
+    "name": "Samsung Profit Surge",
+    "category": "Business",
+    "date": "2026-07-07",
+    "hskLevel": "HSK 7–9",
+    "image": "/news/images/samsung-profit-surge.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "prince-harry-uk-visit.json",
+    "name": "Prince Harry UK Visit",
+    "category": "Society",
+    "date": "2026-07-07",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/prince-harry-uk-visit.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "japanese-mayors-maternity-leave.json",
+    "name": "Japanese Mayor's Maternity Leave",
+    "category": "Society",
+    "date": "2026-07-07",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/japanese-mayors-maternity-leave.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "punjabi-soldiers-recognized.json",
+    "name": "Punjabi Soldiers Recognized",
+    "category": "Conflict",
+    "date": "2026-07-07",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/punjabi-soldiers-recognized.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "west-bengal-school-lunch-controversy.json",
+    "name": "School Lunch Controversy",
+    "category": "Food",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/west-bengal-school-lunch-controversy.webp",
+    "tocflLevel": "4"
+  },
+  {
+    "filename": "uk-heatwave-alert.json",
+    "name": "UK Heatwave Alert",
+    "category": "Environment",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 7–9",
+    "image": "/news/images/uk-heatwave-alert.webp",
+    "tocflLevel": "5"
+  },
+  {
+    "filename": "cape-verde-world-cup-journey.json",
+    "name": "Cape Verde's World Cup Journey",
+    "category": "Football",
+    "date": "2026-07-04",
+    "hskLevel": "HSK 6",
+    "image": "/news/images/cape-verde-world-cup-journey.webp",
+    "tocflLevel": "5"
+  }
+]

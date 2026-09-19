@@ -1,0 +1,33 @@
+{
+  "name": "UK Retail Sales Rebound",
+  "category": "Business",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/uk-retail-sales-rebound.webp",
+  "simplified": "英国国家统计局9月18日公布，8月零售销售量比7月增加0.5%。这和经济学家原先预测的下降0.2%不同。\n\n7月销售量曾下降0.5%，所以8月结果被视为回升。连续三个月来看，销售量增加0.9%。\n\n网上零售商的销售量月增1.7%，百货公司月增1.8%。衣服和鞋类销售也比7月增加1.1%。\n\n报道同时提醒，通胀、能源和食品价格仍可能影响家庭支出。统计公布的是销售量，不能单独说明每家商店的情况。",
+  "traditional": "英國國家統計局9月18日公布，8月零售銷售量比7月增加0.5%。這和經濟學家原先預測的下降0.2%不同。\n\n7月銷售量曾下降0.5%，所以8月結果被視為回升。連續三個月來看，銷售量增加0.9%。\n\n網上零售商的銷售量月增1.7%，百貨公司月增1.8%。衣服和鞋類銷售也比7月增加1.1%。\n\n報導同時提醒，通膨、能源和食品價格仍可能影響家庭支出。統計公布的是銷售量，不能單獨說明每家商店的情況。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain",
+      "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-18T08:24:39Z",
+      "accessedAt": "2026-09-18T16:44:00+08:00"
+    },
+    {
+      "url": "https://www.lbc.co.uk/article/139269340883449e9807fdb52373dd8c-5Hjdhcp_2/",
+      "title": "Department stores and online shopping drive rebound in UK retail sales",
+      "outlet": "LBC / Press Association",
+      "publishedAt": "2026-09-18T07:34:00+01:00",
+      "accessedAt": "2026-09-18T16:44:00+08:00"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/british-consumers-defy-forecasts-and-up-their-shopping-again-ce785adad98ef526/",
+      "title": "British consumers defy forecasts and up their shopping again",
+      "outlet": "Reuters via MarketScreener",
+      "publishedAt": "2026-09-18T03:21:00-04:00",
+      "accessedAt": "2026-09-18T16:44:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

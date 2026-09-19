@@ -1,0 +1,33 @@
+{
+  "name": "Memoir Claim Draws Reply",
+  "category": "Society",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/spencer-memoir-claim.webp",
+  "simplified": "英国王室近日回应查尔斯·斯宾塞新回忆录中的说法。斯宾塞是戴安娜王妃的弟弟。\n\n这本书回忆了1997年戴安娜去世后的一通电话。斯宾塞对当时的谈话提出了个人说法。\n\n白金汉宫否认相关指控，并表示悲伤可能影响人的判断和记忆。报道没有把这些回忆当作已经证实的事实。\n\n这本书预计下周出版。这场争议仍围绕不同的个人回忆和王室的回应。",
+  "traditional": "英國王室近日回應查爾斯·斯賓塞新回憶錄中的說法。斯賓塞是戴安娜王妃的弟弟。\n\n這本書回憶了1997年戴安娜去世後的一通電話。斯賓塞對當時的談話提出了個人說法。\n\n白金漢宮否認相關指控，並表示悲傷可能影響人的判斷和記憶。報道沒有把這些回憶當作已經證實的事實。\n\n這本書預計下週出版。這場爭議仍圍繞不同的個人回憶和王室的回應。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro",
+      "title": "Charles sounded giddily elated after Diana died, Earl Spencer claims",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-18T16:29:00+08:00"
+    },
+    {
+      "url": "https://apnews.com/article/5fb4e6b16b0903f2e33e34b5169da47f",
+      "title": "Buckingham Palace hits back at claims in a book by Princess Diana's brother",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-17T08:00:52Z",
+      "accessedAt": "2026-09-18T16:29:00+08:00"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-09-18/more-earl-spencer-claims/107168728",
+      "title": "Diana's brother claims Charles was elated after her death",
+      "outlet": "ABC News",
+      "publishedAt": "2026-09-18T12:17:00+10:00",
+      "accessedAt": "2026-09-18T16:29:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

@@ -1,0 +1,1 @@
+import{C as e,T as t,v as n,y as r}from"./storage-CFZxojgm.js";var i=t(e(),1);function a(e,t,a=JSON.stringify){return[(0,i.useMemo)(t,[(0,i.useSyncExternalStore)(r,()=>n.getItem(e)),t]),(0,i.useCallback)(r=>{let i=typeof r==`function`?r(t()):r;n.setItem(e,a(i))},[e,t,a])]}export{a as t};
