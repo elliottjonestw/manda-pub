@@ -1,0 +1,33 @@
+{
+  "name": "Pope Leo Addresses AI in France",
+  "category": "Technology",
+  "date": "2026-09-26",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/pope-leo-ai-france.webp",
+  "simplified": "教宗良十四世9月25日访问法国，并在巴黎的演讲中谈到人工智能。他说，技术应当服务于人，而不应使人失去判断能力。\n\n多家媒体报道，良十四世把人工智能、战争和其他影响人类尊严的问题放在同一场演讲中讨论。他呼吁人们接受伦理判断方面的教育。\n\n这是他以教宗身份对法国进行的首次正式访问。报道说，他将在法国停留数日，并安排在巴黎和卢尔德出席活动。\n\n他的讲话并不是一项新的技术法规，也没有提出具体的法律方案。不过，这次访问再次把人工智能的社会影响带入公开讨论。",
+  "traditional": "教宗良十四世9月25日訪問法國，並在巴黎的演講中談到人工智慧。他說，技術應當服務於人，而不應使人失去判斷能力。\n\n多家媒體報導，良十四世把人工智慧、戰爭和其他影響人類尊嚴的問題放在同一場演講中討論。他呼籲人們接受倫理判斷方面的教育。\n\n這是他以教宗身分對法國進行的首次正式訪問。報導說，他將在法國停留數日，並安排在巴黎和盧爾德出席活動。\n\n他的講話並不是一項新的技術法規，也沒有提出具體的法律方案。不過，這次訪問再次把人工智慧的社會影響帶入公開討論。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-25T12:01:00-04:00",
+      "accessedAt": "2026-09-26T16:02:51+08:00"
+    },
+    {
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+      "outlet": "NPR",
+      "publishedAt": "2026-09-25",
+      "accessedAt": "2026-09-26T16:02:51+08:00"
+    },
+    {
+      "url": "https://amp.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252",
+      "title": "Pope Leo XIV criticizes AI, assisted dying on France arrival",
+      "outlet": "Deutsche Welle",
+      "publishedAt": "2026-09-25",
+      "accessedAt": "2026-09-26T16:02:51+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

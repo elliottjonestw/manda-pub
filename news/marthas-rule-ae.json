@@ -1,0 +1,33 @@
+{
+  "name": "Martha's Rule Reaches A&E",
+  "category": "Health",
+  "date": "2026-09-22",
+  "hskLevel": "HSK 4",
+  "tocflLevel": "4",
+  "image": "/news/images/marthas-rule-ae.webp",
+  "simplified": "英格兰的医院正在把“玛莎规则”用到每一个急诊部。这个安排让病人、家人和医院工作人员可以要求别人再看看病人的情况。\n\n如果病人的情况变差，但是他们觉得自己的担心没有被听见，他们可以打专门的电话。另一个医疗小组会很快来检查，并决定要不要改变治疗。\n\n这个规则已经在所有住院病房开始使用。急诊部的计划会一步一步完成，预计在2028年3月前结束。\n\n七家医院先试用了这个办法八个月，一共收到69个电话。一些病人后来做了紧急手术，或者被送到重症监护室。",
+  "traditional": "英格蘭的醫院正在把「瑪莎規則」用到每一個急診部。這個安排讓病人、家人和醫院工作人員可以要求別人再看看病人的情況。\n\n如果病人的情況變差，但是他們覺得自己的擔心沒有被聽見，他們可以打專門的電話。另一個醫療小組會很快來檢查，並決定要不要改變治療。\n\n這個規則已經在所有住院病房開始使用。急診部的計畫會一步一步完成，預計在2028年3月前結束。\n\n七家醫院先試用了這個辦法八個月，一共收到69個電話。一些病人後來做了緊急手術，或者被送到重症監護室。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo",
+      "title": "Martha's Rule rolled out at every A&E department in England",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-22T06:54:57Z",
+      "accessedAt": "2026-09-22T16:05:00+08:00"
+    },
+    {
+      "url": "https://news.sky.com/story/marthas-rule-to-be-extended-to-ae-departments-in-england-13590576",
+      "title": "Martha's Rule to be extended to A&E departments in England",
+      "outlet": "Sky News",
+      "publishedAt": "2026-09-22T07:37:00Z",
+      "accessedAt": "2026-09-22T16:05:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/society/2026/sep/22/marthas-rule-expanded-nhs-england",
+      "title": "Martha’s rule to be expanded to every A&E in England",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-21T23:01:28Z",
+      "accessedAt": "2026-09-22T16:05:00+08:00"
+    }
+  ]
+}

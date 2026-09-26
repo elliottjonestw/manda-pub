@@ -1,0 +1,33 @@
+{
+  "name": "Moscow Region Hit by Drone Attack",
+  "category": "World",
+  "date": "2026-09-20",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/moscow-drone-attack.webp",
+  "simplified": "俄罗斯官员9月20日称，乌克兰在夜间向俄罗斯发射超过1,000架无人机，其中数百架朝莫斯科方向飞行。俄罗斯国防部称，部队击落了其中1,100架。\n\n莫斯科市长索比亚宁把这次行动称为针对首都的最大规模无人机袭击，并说炼油厂和一栋住宅楼受到波及。\n\n路透社和美联社报道，莫斯科周边地区有两人死亡；地方官员说，一栋21层住宅楼的约400人被疏散。\n\n乌克兰没有立即就这次袭击发表评论。由于交战双方的说法无法在当时全部独立核实，本文把伤亡、拦截数量和损失归于发布这些信息的官员。",
+  "traditional": "俄羅斯官員9月20日稱，烏克蘭在夜間向俄羅斯發射超過1,000架無人機，其中數百架朝莫斯科方向飛行。俄羅斯國防部稱，部隊擊落了其中1,100架。\n\n莫斯科市長索比亞寧把這次行動稱為針對首都的最大規模無人機襲擊，並說煉油廠和一棟住宅樓受到波及。\n\n路透社和美聯社報道，莫斯科周邊地區有兩人死亡；地方官員說，一棟21層住宅樓的約400人被疏散。\n\n烏克蘭沒有立即就這次襲擊發表評論。由於交戰雙方的說法無法在當時全部獨立核實，本文把傷亡、攔截數量和損失歸於發布這些資訊的官員。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
+      "title": "Two killed in massive Ukrainian drone attack on Moscow region, Russia says",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-20T10:45:39Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://apnews.com/article/5f7889d027c0247ca2c2c64425b9ffa9",
+      "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-20T07:23:23Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://currently.att.yahoo.com/att/two-dead-moscow-region-drones-054350643.html",
+      "title": "Two dead in Moscow region, drones hit oil refinery in Russian capital",
+      "outlet": "Reuters via Yahoo",
+      "publishedAt": "2026-09-20T05:43:00Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    }
+  ],
+  "tocflLevel": "5"
+}

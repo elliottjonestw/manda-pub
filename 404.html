@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      ;(function () {
+        // Production prerenders the marketing homepage. Hide that snapshot
+        // before the body can paint, even while the app bundle is downloading.
+        // Keep this detection aligned with App.tsx's root-route fallback.
+        var base = new URL('/', window.location.href).pathname
+        var path = window.location.pathname
+        var standalone =
+          window.matchMedia('(display-mode: standalone)').matches || navigator.standalone === true
+        if (
+          standalone &&
+          (path === base || path === base + 'index.html' || path === base.replace(/\/$/, ''))
+        ) {
+          document.documentElement.dataset.pwaLaunch = base
+        }
+      })()
+    </script>
+    <style>
+      html[data-pwa-launch] #root {
+        visibility: hidden;
+      }
+    </style>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#4f46e5" />
+    <!-- Standard tag (Chrome/Android); the apple-prefixed one below is still
+         required for iOS Safari standalone mode. -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Manda" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Manda: Interactive Chinese Reader &amp; Learning App</title>
+    <meta
+      name="description"
+      content="Learn Chinese by reading real texts. Paste any article or story and get instant pinyin, definitions, and flashcards, free and in your browser."
+    />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://mandachinese.com" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Manda" />
+    <meta property="og:url" content="https://mandachinese.com" />
+    <meta property="og:title" content="Manda: Interactive Chinese Reader &amp; Learning App" />
+    <meta
+      property="og:description"
+      content="Learn Chinese by reading real texts. Paste any article or story and get instant pinyin, definitions, and flashcards, free and in your browser."
+    />
+    <meta property="og:image" content="https://mandachinese.com/og-image.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@mandachinese" />
+    <meta name="twitter:title" content="Manda: Interactive Chinese Reader &amp; Learning App" />
+    <meta
+      name="twitter:description"
+      content="Learn Chinese by reading real texts. Paste any article or story and get instant pinyin, definitions, and flashcards, free and in your browser."
+    />
+    <meta name="twitter:image" content="https://mandachinese.com/og-image.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Structured data (Schema.org) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Manda",
+        "url": "https://mandachinese.com",
+        "description": "Learn Chinese by reading real texts. Paste any article or story and get instant pinyin, definitions, and flashcards, free, and in your browser.",
+        "sameAs": ["https://x.com/mandachinese"],
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://mandachinese.com/dictionary?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Manda",
+        "url": "https://mandachinese.com",
+        "description": "An all-in-one Chinese learning platform: interactive reader, dictionary, graded Stories/News libraries, Learning Path, Chengyu Database, and spaced-repetition study, free, with no account required.",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "Any (runs in any modern web browser)",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        }
+      }
+    </script>
+    <script type="module" crossorigin src="/assets/index-Degg_4-l.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime-BHe-jwch.js">
+    <link rel="modulepreload" crossorigin href="/assets/storage-CcPXkZr9.js">
+    <link rel="modulepreload" crossorigin href="/assets/preload-helper-Czpn1I53.js">
+    <link rel="modulepreload" crossorigin href="/assets/GlobalSearch-BEkat8Wj.js">
+    <link rel="modulepreload" crossorigin href="/assets/wordIdentity-DZ9Bc6Jq.js">
+    <link rel="modulepreload" crossorigin href="/assets/license-CLqgKGFF.js">
+    <link rel="modulepreload" crossorigin href="/assets/supabase-CdmU1aoG.js">
+    <link rel="modulepreload" crossorigin href="/assets/LicenseActivation-DFzJ35J8.js">
+    <link rel="modulepreload" crossorigin href="/assets/opencc-CROBe-Uw.js">
+    <link rel="modulepreload" crossorigin href="/assets/fonts-5DQGbKev.js">
+    <link rel="modulepreload" crossorigin href="/assets/useStoredState-BW4VeWoF.js">
+    <link rel="modulepreload" crossorigin href="/assets/importSchema-vKD3IAYL.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-BiHLnEnK.css">
+  </head>
+  <body>
+    <style>
+      /* Bootstrap loader shown until React mounts (and across the reload that a
+         Cloud restore triggers), so there is no blank flash. Mirrors PageLoader. */
+      #boot-loader {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+      }
+      html.dark #boot-loader {
+        background: #1f2937;
+      }
+      #boot-loader > div {
+        width: 2.5rem;
+        height: 2.5rem;
+        border-radius: 9999px;
+        border: 4px solid #e5e7eb;
+        border-top-color: #6366f1;
+        animation: boot-spin 0.8s linear infinite;
+      }
+      html.dark #boot-loader > div {
+        border-color: #374151;
+        border-top-color: #6366f1;
+      }
+      @keyframes boot-spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+    </style>
+    <div id="root">
+      <div id="boot-loader"><div></div></div>
+    </div>
+    <script>
+      ;(function () {
+        // App data lives in IndexedDB (async, unavailable pre-paint), so the
+        // theme is mirrored to this localStorage key by useSettings.
+        var theme
+        try {
+          theme = localStorage.getItem('manda-theme')
+        } catch (e) {}
+        var dark =
+          theme === 'dark' ||
+          (theme !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches)
+        if (dark) document.documentElement.classList.add('dark')
+
+        var base = document.documentElement.dataset.pwaLaunch
+        if (base) {
+          // Restore the normal bootstrap spinner in place of prerendered HTML.
+          // React replaces it on mount; there is no persistent overlay to clear.
+          var root = document.getElementById('root')
+          var loader = document.createElement('div')
+          loader.id = 'boot-loader'
+          loader.appendChild(document.createElement('div'))
+          root.replaceChildren(loader)
+          root.removeAttribute('data-mounted')
+          try {
+            // Select the initial route without another request or history entry.
+            history.replaceState(
+              history.state,
+              '',
+              base + 'dashboard' + location.search + location.hash,
+            )
+          } catch (e) {
+            // App.tsx still redirects the root if history is unavailable.
+          }
+          delete document.documentElement.dataset.pwaLaunch
+        }
+      })()
+    </script>
+    <script>
+      // Startup diagnostics only. React owns the mounted tree; a background
+      // rejection must not replace it or interpret diagnostic text as HTML.
+      function showStartupError(title, detail) {
+        var root = document.getElementById('root')
+        if (!root || root.dataset.mounted === 'true') return
+        var box = document.createElement('pre')
+        box.style.cssText = 'white-space:pre-wrap;padding:16px;color:#c00'
+        box.textContent = title + '\n' + detail
+        root.replaceChildren(box)
+      }
+      window.addEventListener('error', function (e) {
+        if (!e.filename || e.message === 'Script error.') return
+        showStartupError('JS Error', (e.message || 'unknown') + '\n' + e.filename + ':' + e.lineno)
+      })
+      window.addEventListener('unhandledrejection', function (e) {
+        showStartupError('Unhandled Promise Rejection', e.reason?.message || String(e.reason))
+      })
+    </script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('./sw.js').catch(function () {})
+        })
+      }
+    </script>
+  </body>
+</html>

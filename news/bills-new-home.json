@@ -1,0 +1,40 @@
+{
+  "name": "Bills Open New Home",
+  "category": "American Football",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 4",
+  "image": "/news/images/bills-new-home.webp",
+  "simplified": "9月17日晚，一场美国职业美式足球比赛在美国东部举行。水牛城比尔队在新建的海马克体育场比赛，并以41比31获胜。\n\n这是该体育场举行的第一场常规赛。多家报道说，体育场建在比尔队旧主场附近，造价约22亿美元。\n\n球队的传球手传出三次得分传球，又自己跑出两次得分。比尔队在上半场一度以21比0领先，并在整场比赛中保持领先。\n\n这场胜利让比尔队开季取得两连胜。新体育场迎来首场正式比赛，现场球迷也见证了球队的开门红。",
+  "traditional": "9月17日晚，一場美國職業美式足球比賽在美國東部舉行。水牛城比爾隊在新建的海馬克體育場比賽，並以41比31獲勝。\n\n這是該體育場舉行的第一場常規賽。多家報道說，體育場建在比爾隊舊主場附近，造價約22億美元。\n\n球隊的傳球手傳出三次得分傳球，又自己跑出兩次得分。比爾隊在上半場一度以21比0領先，並在整場比賽中保持領先。\n\n這場勝利讓比爾隊開季取得兩連勝。新體育場迎來首場正式比賽，現場球迷也見證了球隊的開門紅。",
+  "sources": [
+    {
+      "url": "https://www.bbc.com/sport/american-football/articles/cjx2zlv5xz39o",
+      "title": "Allen stars as Bills open new stadium in style",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-18 (page displayed a relative time; timezone not stated)",
+      "accessedAt": "2026-09-18T15:42:00+08:00"
+    },
+    {
+      "url": "https://www-pp.afp.com/en/allen-lights-bills-new-stadium-41-31-win-over-lions",
+      "title": "Allen lights up Bills' new stadium with 41-31 win over Lions",
+      "outlet": "AFP",
+      "publishedAt": "2026-09-18 06:09 (timezone not stated)",
+      "accessedAt": "2026-09-18T15:43:00+08:00"
+    },
+    {
+      "url": "https://www.cbssports.com/nfl/news/bills-vs-lions-live-updates-score-highlights-thursday-night-football/live/",
+      "title": "Bills vs. Lions score: Josh Allen helps Buffalo christen new stadium with win over Detroit",
+      "outlet": "CBS Sports",
+      "publishedAt": "2026-09-18T00:07:00-04:00",
+      "accessedAt": "2026-09-18T15:43:00+08:00"
+    },
+    {
+      "url": "https://www.buffalobills.com/news/bills-41-lions-31-final-score-recap-highlights",
+      "title": "Bills 41, Lions 31 | Final Score, recap + highlights",
+      "outlet": "Buffalo Bills",
+      "publishedAt": "2026-09-18T00:05:00-04:00",
+      "accessedAt": "2026-09-18T15:43:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

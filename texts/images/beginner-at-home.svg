@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="A family breakfast table with four cups">
+  <rect width="640" height="360" fill="#f7e9d9"/>
+  <circle cx="94" cy="64" r="123" fill="#eed4b9"/>
+  <path d="M0 285Q320 260 640 285v75H0Z" fill="#d7b794"/>
+  <g stroke="#715742" stroke-width="7" stroke-linejoin="round">
+    <rect x="385" y="51" width="144" height="129" rx="10" fill="#c1d9d8"/>
+    <path d="M457 53v126M387 116h140" fill="none"/>
+    <path d="M87 239h466v39H87Zm37 39v64m392-64v64" fill="#b98664"/>
+    <path d="M137 171h46v62h-46Zm46 12h15q18 0 18 17t-18 17h-15" fill="#fff9ec"/>
+    <path d="M230 171h46v62h-46Zm46 12h15q18 0 18 17t-18 17h-15" fill="#e6a877"/>
+    <path d="M330 171h46v62h-46Zm46 12h15q18 0 18 17t-18 17h-15" fill="#93b9ac"/>
+    <path d="M429 171h46v62h-46Zm46 12h15q18 0 18 17t-18 17h-15" fill="#fff9ec"/>
+  </g>
+  <path d="M124 144q-13-15 0-29t0-29m31 58q-13-15 0-29" fill="none" stroke="#c6a78d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M294 72c-24-28-54 4-29 27l29 25 29-25c25-23-5-55-29-27Z" fill="#c87968"/>
+</svg>

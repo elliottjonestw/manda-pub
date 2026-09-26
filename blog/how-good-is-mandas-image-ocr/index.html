@@ -1,0 +1,370 @@
+<!DOCTYPE html><html lang="en" style="--chinese-font: inherit; --reader-font-size: 22px; --reader-word-spacing: 6px;"><head>
+    <meta charset="UTF-8">
+    <script>
+      ;(function () {
+        // Production prerenders the marketing homepage. Hide that snapshot
+        // before the body can paint, even while the app bundle is downloading.
+        // Keep this detection aligned with App.tsx's root-route fallback.
+        var base = new URL('/', window.location.href).pathname
+        var path = window.location.pathname
+        var standalone =
+          window.matchMedia('(display-mode: standalone)').matches || navigator.standalone === true
+        if (
+          standalone &&
+          (path === base || path === base + 'index.html' || path === base.replace(/\/$/, ''))
+        ) {
+          document.documentElement.dataset.pwaLaunch = base
+        }
+      })()
+    </script>
+    <style>
+      html[data-pwa-launch] #root {
+        visibility: hidden;
+      }
+    </style>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#4f46e5">
+    <!-- Standard tag (Chrome/Android); the apple-prefixed one below is still
+         required for iOS Safari standalone mode. -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Manda">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>How good is Manda's image OCR? | Manda</title>
+    <meta name="description" content="How well does Manda read Chinese in photos and scans? Explore 10 real images, the exact text extracted from each, and the errors to watch for.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://mandachinese.com/blog/how-good-is-mandas-image-ocr">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Manda">
+    <meta property="og:url" content="https://mandachinese.com/blog/how-good-is-mandas-image-ocr">
+    <meta property="og:title" content="How good is Manda's image OCR? | Manda">
+    <meta property="og:description" content="How well does Manda read Chinese in photos and scans? Explore 10 real images, the exact text extracted from each, and the errors to watch for.">
+    <meta property="og:image" content="https://mandachinese.com/blog/how-good-is-mandas-image-ocr.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="2400">
+    <meta property="og:image:height" content="1350">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@mandachinese">
+    <meta name="twitter:title" content="How good is Manda's image OCR? | Manda">
+    <meta name="twitter:description" content="How well does Manda read Chinese in photos and scans? Explore 10 real images, the exact text extracted from each, and the errors to watch for.">
+    <meta name="twitter:image" content="https://mandachinese.com/blog/how-good-is-mandas-image-ocr.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+
+    <!-- Structured data (Schema.org) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Manda",
+        "url": "https://mandachinese.com",
+        "description": "Learn Chinese by reading real texts. Paste any article or story and get instant pinyin, definitions, and flashcards, free, and in your browser.",
+        "sameAs": ["https://x.com/mandachinese"],
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://mandachinese.com/dictionary?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Manda",
+        "url": "https://mandachinese.com",
+        "description": "An all-in-one Chinese learning platform: interactive reader, dictionary, graded Stories/News libraries, Learning Path, Chengyu Database, and spaced-repetition study, free, with no account required.",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "Any (runs in any modern web browser)",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        }
+      }
+    </script>
+    <script type="module" crossorigin="" src="/assets/index-Degg_4-l.js"></script>
+    <link rel="modulepreload" crossorigin="" href="/assets/rolldown-runtime-BHe-jwch.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/storage-CcPXkZr9.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/preload-helper-Czpn1I53.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/GlobalSearch-BEkat8Wj.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/wordIdentity-DZ9Bc6Jq.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/license-CLqgKGFF.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/supabase-CdmU1aoG.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/LicenseActivation-DFzJ35J8.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/opencc-CROBe-Uw.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/fonts-5DQGbKev.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/useStoredState-BW4VeWoF.js">
+    <link rel="modulepreload" crossorigin="" href="/assets/importSchema-vKD3IAYL.js">
+    <link rel="stylesheet" crossorigin="" href="/assets/index-BiHLnEnK.css">
+  <link rel="modulepreload" as="script" crossorigin="" href="/assets/LandingPage-DNGqhq_C.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/useSeo-DKnk1KTT.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/whatsNewEntries-DMDc--ws.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/BlogPage-D0vYyNI_.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/useStructuredData-uGPosxry.js"><link rel="modulepreload" as="script" crossorigin="" href="/assets/remoteContent-CYqgdjXe.js"><meta property="og:image:alt" content="How good is Manda's image OCR?"><meta property="article:published_time" content="2026-09-20"><meta property="article:author" content="The Manda Team"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"How good is Manda's image OCR?","description":"How well does Manda read Chinese in photos and scans? Explore 10 real images, the exact text extracted from each, and the errors to watch for.","datePublished":"2026-09-20","dateModified":"2026-09-20","inLanguage":"en","author":{"@type":"Organization","name":"The Manda Team","url":"https://mandachinese.com"},"publisher":{"@type":"Organization","name":"Manda","url":"https://mandachinese.com","logo":{"@type":"ImageObject","url":"https://mandachinese.com/icon-512.png"}},"image":"https://mandachinese.com/blog/how-good-is-mandas-image-ocr.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://mandachinese.com/blog/how-good-is-mandas-image-ocr"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mandachinese.com"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://mandachinese.com/blog"},{"@type":"ListItem","position":3,"name":"How good is Manda's image OCR?","item":"https://mandachinese.com/blog/how-good-is-mandas-image-ocr"}]}</script></head>
+  <body>
+    <style>
+      /* Bootstrap loader shown until React mounts (and across the reload that a
+         Cloud restore triggers), so there is no blank flash. Mirrors PageLoader. */
+      #boot-loader {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+      }
+      html.dark #boot-loader {
+        background: #1f2937;
+      }
+      #boot-loader > div {
+        width: 2.5rem;
+        height: 2.5rem;
+        border-radius: 9999px;
+        border: 4px solid #e5e7eb;
+        border-top-color: #6366f1;
+        animation: boot-spin 0.8s linear infinite;
+      }
+      html.dark #boot-loader > div {
+        border-color: #374151;
+        border-top-color: #6366f1;
+      }
+      @keyframes boot-spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+    </style>
+    <div id="root" data-mounted="true"><div id="sidebar-nav" class="hidden sm:block fixed right-0 top-0 h-screen w-56 bg-white dark:bg-gray-800 border-l border-gray-200 dark:border-gray-700 z-30 transition-transform duration-200 ease-out motion-reduce:transition-none translate-x-0"><div class="flex flex-col py-3 h-full overflow-y-auto"><div class="px-3 flex flex-col gap-0.5"><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/get-started" data-discover="true"><span>Get Started</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/dashboard" data-discover="true"><span>Dashboard</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/account" data-discover="true"><span>Account</span></a><p class="px-3 pt-5 pb-1 text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider">Reading</p><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/new-text" data-discover="true"><span>Import Text</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/books" data-discover="true"><span>Books</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/stories" data-discover="true"><span>Stories/Articles</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/news" data-discover="true"><span>News Articles</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/speed-read" data-discover="true"><span>Speed Reading</span></a><p class="px-3 pt-5 pb-1 text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider">Vocabulary</p><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/dictionary" data-discover="true"><span>Dictionary</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/study-list" data-discover="true"><span>Study List</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/known-words" data-discover="true"><span>Known Words</span></a><button class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 transition-colors w-full text-left mt-0.5"><span>HSK Lists</span><span class="text-[10px] opacity-50">▼</span></button><button class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 transition-colors w-full text-left mt-0.5"><span>TOCFL Lists</span><span class="text-[10px] opacity-50">▼</span></button><button class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 transition-colors w-full text-left mt-0.5"><span>Word Lists</span><span class="text-[10px] opacity-50">▼</span></button><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/chengyu" data-discover="true"><span>Chengyu Database</span></a><p class="px-3 pt-5 pb-1 text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider">Study</p><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/learn" data-discover="true"><span>Learning Path</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/due" data-discover="true"><span>Due for Review</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/flashcards" data-discover="true"><span>Flashcards</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/cloze" data-discover="true"><span>Cloze</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/passage" data-discover="true"><span>Passage</span></a><p class="px-3 pt-5 pb-1 text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider">Other</p><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/landing" data-discover="true"><span>What is Manda?</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/whatsnew" data-discover="true"><span>What's New</span></a><a aria-current="page" class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors bg-indigo-50 dark:bg-indigo-500/15 text-indigo-700 dark:text-indigo-300" href="/blog" data-discover="true"><span>Blog</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/faq" data-discover="true"><span>FAQ</span></a><button class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 transition-colors w-full text-left mt-0.5"><span>How it Works</span><span class="text-[10px] opacity-50">▼</span></button><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/install" data-discover="true"><span>Install as App</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/data" data-discover="true"><span>Import/Export Data</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/report-bug" data-discover="true"><span>Report a Bug</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/suggest-feature" data-discover="true"><span>Suggest a Feature</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/contact" data-discover="true"><span>Contact</span></a><p class="px-3 pt-5 pb-1 text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider">Legal</p><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/terms" data-discover="true"><span>Terms &amp; Conditions</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/privacy" data-discover="true"><span>Privacy Policy</span></a><a class="flex items-center justify-between px-3 py-2 rounded-lg text-sm font-medium transition-colors text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100" href="/acknowledgements" data-discover="true"><span>Acknowledgements</span></a></div></div></div><div class="transition-[padding] duration-200 ease-out motion-reduce:transition-none sm:pr-56"><div class="min-h-screen bg-gray-50 dark:bg-gray-900"><div class="sticky top-0 z-40 bg-white/90 dark:bg-gray-900/90 backdrop-blur border-b border-gray-200 dark:border-gray-700 px-4 py-3 flex items-center gap-3"><a class="flex items-center gap-2 text-[1.7rem] leading-none font-semibold text-indigo-600 dark:text-indigo-400 tracking-tight hover:text-indigo-700 dark:hover:text-indigo-300 transition-colors" href="/" data-discover="true"><img alt="" aria-hidden="true" class="h-6 w-6 shrink-0" src="/logo-zoomedout.png">Manda</a><div class="flex-1 ml-4 relative"><input placeholder="Search dictionary…" class="hidden sm:block w-full px-3 py-1.5 text-sm bg-gray-100 dark:bg-gray-700 border border-transparent focus:border-gray-300 dark:focus:border-gray-600 focus:bg-white dark:focus:bg-gray-800 rounded-lg outline-none transition-all placeholder:text-gray-400 dark:placeholder:text-gray-500" value=""></div><div class="flex items-center gap-2 sm:gap-3 shrink-0"><button aria-label="Switch to dark mode" title="Switch to dark mode" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-all shrink-0"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></button><a aria-label="Settings" title="Settings" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-all shrink-0" href="/settings" data-discover="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg></a></div><button class="inline-flex sm:hidden size-10 items-center justify-center rounded-lg bg-gray-100 text-gray-700 transition-all hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600" aria-label="Menu" aria-expanded="false"><svg aria-hidden="true" viewBox="0 0 24 24" class="size-5" fill="none"><path d="M4 6.5h16M4 12h16M4 17.5h16" stroke="currentColor" stroke-width="2"></path></svg></button><button class="hidden sm:inline-flex size-10 items-center justify-center rounded-lg bg-gray-100 text-gray-700 transition-all hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600" aria-label="Hide sidebar" title="Hide sidebar" aria-expanded="true" aria-controls="sidebar-nav"><svg aria-hidden="true" viewBox="0 0 24 24" class="size-5" fill="none"><path d="m5.5 5.5 6.5 6.5-6.5 6.5M12 5.5l6.5 6.5-6.5 6.5" stroke="currentColor" stroke-width="2" stroke-linejoin="miter"></path></svg></button></div><main class="max-w-3xl mx-auto px-4 sm:px-6 pt-5 pb-16 sm:pt-10"><a class="inline-block text-sm text-indigo-600 dark:text-indigo-400 font-medium hover:underline mb-6" href="/blog" data-discover="true">← All posts</a><article><h1 class="text-2xl sm:text-3xl font-bold text-gray-900 dark:text-gray-100 mb-2">How good is Manda's image OCR?</h1><div class="mb-6"><p class="text-sm text-gray-500 dark:text-gray-400">The Manda Team · <time datetime="2026-09-20">September 20, 2026</time> · 5 min read</p></div><img alt="How good is Manda's image OCR?" class="w-full rounded-xl border border-gray-200 dark:border-gray-700 mb-8" src="/blog/how-good-is-mandas-image-ocr.png"><div class="prose-manda"><p>How well can Manda read Chinese from an image? We tried signs, packaging, a notice, a menu, a book page, and a historical newspaper. Manda turns a photo or scan into editable text through <strong>Import Text → Upload → Upload Image</strong>. The examples below show what it extracted and where you may need to check the image yourself.</p>
+<p>We uploaded the <strong>10 images below</strong> through Upload Image. They are real photographs or scans found online, not AI-generated images. Most come from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>; the book page comes from a <a href="https://epigrambookshop.sg/cdn/shop/products/1.49_ai_de_shi_miao_Wu_Wei_Cai_04_3984x2988.jpg?v=1603761656">photograph published by Epigram Bookshop</a>. The images shown are the exact files we uploaded. Most were cropped to focus on the relevant text; the candy package and book page were also rotated to make the text upright. We did not retouch or replace any letters. The cover illustration is separate from the test set.</p>
+<p>The blocks headed <strong>Manda's result</strong> reproduce the Upload Image output verbatim, including errors, extra symbols, and mixed character forms. These are qualitative examples, not an estimate of accuracy across all photos. No words were hand-corrected in the OCR results.</p>
+<h2>1. A clear two-character sign</h2>
+<p>Easy: large Traditional Chinese characters on a plain background.</p>
+<p><img src="/blog/ocr-tests/squat_toilet.jpg" alt="A clear two-character sign, the real image uploaded for OCR" loading="lazy" decoding="async"></p>
+<p><em>Image: <a href="https://commons.wikimedia.org/wiki/File:Chinese_squat_toilet_sign.jpg">Chinese squat toilet sign</a> by Hippietrail, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Cropped from the source photograph.</em></p>
+<p><strong>Manda's result:</strong></p>
+<pre><code class="language-text">蹲式
+</code></pre>
+<p><strong>Assessment:</strong> Exact: <strong>蹲式</strong> is the entire Chinese sign.</p>
+<h2>2. Ingredients on a food can</h2>
+<p>Medium: several lines of Traditional Chinese and English on a photographed label.</p>
+<p><img src="/blog/ocr-tests/packaging_redbean.jpg" alt="Ingredients on a food can, the real image uploaded for OCR" loading="lazy" decoding="async"></p>
+<p><em>Image: <a href="https://commons.wikimedia.org/wiki/File:HK_food_%E7%B4%85%E8%B1%86%E6%B2%99_Chinese_Red_Bean_%E7%B3%96%E6%B0%B4_sweet_sugar_soup_metal_can_%E5%95%86%E7%94%A8%E5%8C%85%E8%A3%9D_%E5%A4%A7%E4%BB%B6%E8%A3%9D_heavy_package_can_August_2025_N13P_01.jpg">File:HK food 紅豆沙 Chinese Red Bean 糖水 sweet sugar soup metal can 商用包裝 大件裝 heavy package can August 2025 N13P 01.jpg</a> by SevenSwords TinSumh, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>. Cropped from the source photograph.</em></p>
+<p><strong>Manda's result:</strong></p>
+<pre><code class="language-text">成份：红豆、水、白砂糖、蔗糖脂肪酸酯(E473)。
+Ingredients: Red Beans, Water, Sugar, Sucrose Fatty
+Acid Ester (E473).
+請存放於陰凉乾爽處及避免陽光直接照射，開罐
+後請即冷藏 / Store in a cool, dry place. Keep away from
+direct sunlight, Refrigerate after opening.
+Best Before: See Can Lid (DD/MM/YYYY)
+此日期前最佳：見罐蓋上(日/月/年)
+</code></pre>
+<p><strong>Assessment:</strong> Nearly all of the Chinese and English label text is readable, including the ingredients, storage directions, and date note. A few Traditional Chinese characters appear in Simplified form, such as <strong>红</strong> in <strong>红豆</strong> and <strong>凉</strong> in <strong>陰凉</strong>.</p>
+<h2>3. A building notice</h2>
+<p>Medium: a multi-line Traditional Chinese notice photographed in place.</p>
+<p><img src="/blog/ocr-tests/notice_taipei.jpg" alt="A building notice, the real image uploaded for OCR" loading="lazy" decoding="async"></p>
+<p><em>Image: <a href="https://commons.wikimedia.org/wiki/File:Taipei_Commercial_Building_important_notice_20190406.jpg">File:Taipei Commercial Building important notice 20190406.jpg</a> by Solomon203, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Cropped from the source photograph.</em></p>
+<p><strong>Manda's result:</strong></p>
+<pre><code class="language-text">嚴重警告
+請勿隨手亂丢菸蒂垃圾
+製造公共區域髒亂
+必要時公布影像張貼
+請菸君子自重
+台北商業大樓公告
+</code></pre>
+<p><strong>Assessment:</strong> The warning and building attribution are recovered in the right order. <strong>丢</strong> is a character-form error where the photographed notice uses Traditional Chinese.</p>
+<h2>4. A distant road sign</h2>
+<p>Medium to hard: small white text on a green sign in a wider roadside photo.</p>
+<p><img src="/blog/ocr-tests/road_xian.jpg" alt="A distant road sign, the real image uploaded for OCR" loading="lazy" decoding="async"></p>
+<p><em>Image: <a href="https://commons.wikimedia.org/wiki/File:Road_sign_Xi%27an-Lintong_China.jpg">File:Road sign Xi'an-Lintong China.jpg</a> by 6-A04-W96-K38-S41-V38, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Cropped from the source photograph.</em></p>
+<p><strong>Manda's result:</strong></p>
+<pre><code class="language-text">高速加油站
+国家
+前方 10
+km 西临高速
+XILIN EXPWY
+入口
+ENTRANCE
+</code></pre>
+<p><strong>Assessment:</strong> The main message, <strong>高速加油站</strong> and <strong>前方 10 km</strong>, is recovered. Text from a smaller neighboring sign is also included, and the distance is split across lines.</p>
+<h2>5. A bilingual restaurant menu</h2>
+<p>Hard: two columns of small Chinese and English dish names with prices.</p>
+<p><img src="/blog/ocr-tests/menu_queens.jpg" alt="A bilingual restaurant menu, the real image uploaded for OCR" loading="lazy" decoding="async"></p>
+<p><em>Image: <a href="https://commons.wikimedia.org/wiki/File:Menu_of_a_Taiwanese_restaurant_in_Queens_New_York_01.jpg">File:Menu of a Taiwanese restaurant in Queens New York 01.jpg</a> by H.R. Tsua, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Cropped from the source photograph.</em></p>
+<p><strong>Manda's result:</strong></p>
+<pre><code class="language-text">各式滷味 Taiwanese Appetiters
+1. 豆干 Bean Curd.
+2. 海带 Seaweed. $3.95
+3. 豬耳 Pig ear $3.95
+4. 维胗 Chicken Gizzards. $5.95
+5. 牛肚 Tripe.. $4.95
+6. 牛筋 Tendon $6.95
+7. 香腸 Sausage $6.95
+8. 大腸 Pig Intestine $6.95
+9. 豬舌 Pig Tongue. $6.95
+10. 牛腱 Beef.. $6.95
+11. 油豆腐 Fried Bean Curd. $6.95
+12. 三拼 Combination Any 3. $3.95
+$9.95
+凉菜 Cold Appetizers
+15. 凉拌豬耳絲 Shredded Pork Ear.
+16. 蒜泥海带絲 Shredded Seaweed w. Garlic. $6.95
+17. 麻辣牛肚 Beef Tripe in Chili Sauce... .$5.50
+18. 凉拌黄瓜 Cucumber. .$7.95
+19. 醉雞 Chicken in Wine Sauce. $5.95
+20. 拌土豆絲 Shredded Potato $8.95
+21. 金针菇老醋拌雲耳 Straw Mushroom &amp; Tree Mushroom $4.95
+23. 烤赵 Marinated Gluten $6.95
+$6.95
+</code></pre>
+<p><strong>Assessment:</strong> Most numbered dishes and their English names are legible. Some dish characters are wrong, and several prices are missing, detached, or attached to the wrong row; check the image before relying on an order or price.</p>
+<h2>6. A street-name sign</h2>
+<p>Hard: angled white Chinese characters on a blue roadside sign.</p>
+<p><img src="/blog/ocr-tests/street_tawan.jpg" alt="A street-name sign, the real image uploaded for OCR" loading="lazy" decoding="async"></p>
+<p><em>Image: <a href="https://commons.wikimedia.org/wiki/File:20240921_Street_sign_of_Tawan_Road.jpg">File:20240921 Street sign of Tawan Road.jpg</a> by Windmemories, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Cropped from the source photograph.</em></p>
+<p><strong>Manda's result:</strong></p>
+<pre><code class="language-text">北塔湾路南
+N Tawan Rd. S
+</code></pre>
+<p><strong>Assessment:</strong> The street name <strong>塔湾路</strong> is recovered, with its English name. The <strong>北</strong> and <strong>南</strong> direction markers are concatenated with the Chinese street name instead of being placed as on the sign.</p>
+<h2>7. A large no-smoking sign</h2>
+<p>Harder than it looks: prominent black characters, a pictogram, and English below.</p>
+<p><img src="/blog/ocr-tests/no_smoking.jpg" alt="A large no-smoking sign, the real image uploaded for OCR" loading="lazy" decoding="async"></p>
+<p><em>Image: <a href="https://commons.wikimedia.org/wiki/File:%E5%9A%B4%E7%A6%81%E5%90%B8%E7%85%99%E6%A8%99%E5%BF%97_No_Smoking_sign.jpg">No Smoking sign</a> by 茅野ふたば, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Cropped from the source photograph.</em></p>
+<p><strong>Manda's result:</strong></p>
+<pre><code class="language-text">嚴禁吸煙
+No Smoking
+</code></pre>
+<p><strong>Assessment:</strong> Exact for the visible sign text: <strong>嚴禁吸煙</strong> and <strong>No Smoking</strong>.</p>
+<h2>8. A page from a modern book</h2>
+<p>Medium: a photographed page of horizontal Simplified Chinese prose and dialogue, with a slight curve near the binding.</p>
+<p><img src="/blog/ocr-tests/book_adeshimiao.jpg" alt="A page from a modern Chinese prose book, the real image uploaded for OCR" loading="lazy" decoding="async"></p>
+<p><em>Image: page 61 of 《爱的十秒》 by 吴韦材, from an <a href="https://epigrambookshop.sg/cdn/shop/products/1.49_ai_de_shi_miao_Wu_Wei_Cai_04_3984x2988.jpg?v=1603761656">Epigram Bookshop photograph</a>. Cropped to one page and rotated from the source photograph.</em></p>
+<p><strong>Manda's result:</strong></p>
+<pre><code class="language-text">得宽阔，而当一个人老到心态能自处于平淡，那剩下的，
+就只是安静度日这回事吧了。
+房里不只冷，房里还沉静。静得听到壁上时钟的秒
+针。
+十秒。
+十秒那概念是多长？十秒就是一辈子？
+一辈子，那又多长？就算风扯云涌难舍难割，一辈子
+也不过就浓缩在这十秒罢了。
+有人，轻轻推门进来。
+是位把哀伤神情偷偷隐藏在哀伤底下的女子。
+女子见病人醒着，迅速用笑脸相迎—“爸，醒了？
+还觉得怎样？喝点水么？”
+病人缓缓摇头，“今天不忙了么？”
+“不忙。今天不忙。”
+“看你天天就这样耗下去，你这份挨人受气的工作，
+就能给你需要的精神安慰么？一个女人家，实实在在找个
+归宿好，你也老大不小了。”
+谊女句句听在心里，却只是坐到床缘。
+她忍着情绪，望住他，“你放心吧，爸，我会打算
+的。”
+“你哪会打算。”病人想半坐起来，她把他扶起。
+“爸，你大我20年，我也40出头了。”
+“可你还是没长脑袋。”说到要点病人又似有冲动的
+样子，“我常说的，要真正懂得保护自己。你跟他根本没
+有可能，而你明知道这一切，却还不能自拔。”
+“爸，其实我了然一切。这时候只是这时候的事，我 61
+</code></pre>
+<p><strong>Assessment:</strong> The prose is largely readable and follows the page's line order. A few characters are wrong, such as <strong>吧</strong> for <strong>罢</strong> and <strong>谊女</strong> for the printed <strong>这女</strong>; the page number is joined to the final line. The excerpt starts and ends mid-sentence because this is one page of a longer story.</p>
+<h2>9. Text on a candy package</h2>
+<p>Very hard: small type on packaging; the source photo was rotated upright before upload.</p>
+<p><img src="/blog/ocr-tests/packaging_mentos.jpg" alt="Text on a candy package, the real image uploaded for OCR" loading="lazy" decoding="async"></p>
+<p><em>Image: <a href="https://commons.wikimedia.org/wiki/File:Chinese_Mentos_box.jpg">File:Chinese Mentos box.jpg</a> by Popolon, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>. Cropped from the source photograph and rotated upright.</em></p>
+<p><strong>Manda's result:</strong></p>
+<pre><code class="language-text">mentos 清新薄荷味
+无糖薄荷糖
+透爽口气 30
+分钟
+净含量：35克·有助于宜人口气长达30分钟约50粒
+</code></pre>
+<p><strong>Assessment:</strong> The brand, flavor, product type, weight, and much of the promotional copy are readable. Tiny package text contains character errors, and some phrases are out of order.</p>
+<h2>10. An old newspaper scan</h2>
+<p>Very hard: low-resolution historical print with dense vertical Chinese text.</p>
+<p><img src="/blog/ocr-tests/newspaper_old.jpg" alt="An old newspaper scan, the real image uploaded for OCR" loading="lazy" decoding="async"></p>
+<p><em>Image: <a href="https://commons.wikimedia.org/wiki/File:Beiyang_official_newspaper_1903.jpg">File:Beiyang official newspaper 1903.jpg</a> by Beiyang official newspaper. Public domain; full scan.</em></p>
+<p><strong>Manda's result:</strong></p>
+<pre><code class="language-text">報官洋北
+訓物件R零民上载总一年之中四時人部电有那空酒合客的時然廣美段食不可日冠桥出疑一切顾四只安本会属厘器具一改美器派月端爵只零中平类學人软修款察次食不可大秀侧的下些传食博不峰之国大抵温做是领类能限了心想考分外震同办子种著些市数有位额一约禁指现差常公的想考不要点了码兵的人家知通罚有定灭奥与权费聖的衡節命以结财用世品台光緒二十九年二月十七日
+e 第三十六册
+</code></pre>
+<p><strong>Assessment:</strong> Unreliable. The scan's vertical, degraded print produces long strings of incorrect characters; this output should not be used as a transcription.</p>
+<h2>What this tells us</h2>
+<p>Manda reads short signs accurately in these examples and recovers most of the notice, food label, road sign, and candy packaging. The book page becomes readable, editable prose with a few character errors. The restaurant menu yields many dish names, but its prices and row structure need closer checking.</p>
+<p>Small type and crowded layouts can produce wrong characters, misplaced prices, and scrambled descriptions. The old newspaper is a failure case. <strong>Compare extracted text with the image before relying on it</strong>, especially for prices, directions, or study material. You can correct the text in the editor before opening it in the reader.</p>
+<p>To try your own image, open <a href="/new-text">Import Text</a>, choose <strong>Upload → Upload Image</strong>, and select a photo or scan. A close, sharp, evenly lit crop helps. OCR runs in your browser; the first use loads the recognition models and may take longer.</p>
+</div></article></main></div></div></div>
+    <script>
+      ;(function () {
+        // App data lives in IndexedDB (async, unavailable pre-paint), so the
+        // theme is mirrored to this localStorage key by useSettings.
+        var theme
+        try {
+          theme = localStorage.getItem('manda-theme')
+        } catch (e) {}
+        var dark =
+          theme === 'dark' ||
+          (theme !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches)
+        if (dark) document.documentElement.classList.add('dark')
+
+        var base = document.documentElement.dataset.pwaLaunch
+        if (base) {
+          // Restore the normal bootstrap spinner in place of prerendered HTML.
+          // React replaces it on mount; there is no persistent overlay to clear.
+          var root = document.getElementById('root')
+          var loader = document.createElement('div')
+          loader.id = 'boot-loader'
+          loader.appendChild(document.createElement('div'))
+          root.replaceChildren(loader)
+          root.removeAttribute('data-mounted')
+          try {
+            // Select the initial route without another request or history entry.
+            history.replaceState(
+              history.state,
+              '',
+              base + 'dashboard' + location.search + location.hash,
+            )
+          } catch (e) {
+            // App.tsx still redirects the root if history is unavailable.
+          }
+          delete document.documentElement.dataset.pwaLaunch
+        }
+      })()
+    </script>
+    <script>
+      // Startup diagnostics only. React owns the mounted tree; a background
+      // rejection must not replace it or interpret diagnostic text as HTML.
+      function showStartupError(title, detail) {
+        var root = document.getElementById('root')
+        if (!root || root.dataset.mounted === 'true') return
+        var box = document.createElement('pre')
+        box.style.cssText = 'white-space:pre-wrap;padding:16px;color:#c00'
+        box.textContent = title + '\n' + detail
+        root.replaceChildren(box)
+      }
+      window.addEventListener('error', function (e) {
+        if (!e.filename || e.message === 'Script error.') return
+        showStartupError('JS Error', (e.message || 'unknown') + '\n' + e.filename + ':' + e.lineno)
+      })
+      window.addEventListener('unhandledrejection', function (e) {
+        showStartupError('Unhandled Promise Rejection', e.reason?.message || String(e.reason))
+      })
+    </script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('./sw.js').catch(function () {})
+        })
+      }
+    </script>
+  
+
+</body></html>

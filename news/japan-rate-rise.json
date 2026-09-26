@@ -1,0 +1,33 @@
+{
+  "name": "Japan Raises Rate",
+  "category": "Business",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/japan-rate-rise.webp",
+  "simplified": "日本银行9月18日把基准利率从1%提高到1.25%。这使利率达到31年来最高水平。\n\n银行的九名决策成员以7比2通过这项决定。报道说，这次调整此前已被市场普遍预期。\n\n日本银行行长植田和男说，日本经济正在缓慢恢复。他也提到，通货膨胀率接近银行的2%目标。\n\n银行表示，今后是否继续提高利率，将取决于物价、工资和其他风险的发展。",
+  "traditional": "日本銀行9月18日把基準利率從1%提高到1.25%。這使利率達到31年來最高水平。\n\n銀行的九名決策成員以7比2通過這項決定。報道說，這次調整此前已被市場普遍預期。\n\n日本銀行行長植田和男說，日本經濟正在緩慢恢復。他也提到，通貨膨脹率接近銀行的2%目標。\n\n銀行表示，今後是否繼續提高利率，將取決於物價、工資和其他風險的發展。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/japan-economy-interest-rates-inflation-67e71246d3af41bcfc61aa788f9959c7",
+      "title": "Japan’s central bank raises benchmark interest rate to 1.25%, the highest in 31 years",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-18T03:20:26Z",
+      "accessedAt": "2026-09-18T16:25:00+08:00"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-09-18/japan-interest-rates-rise-to-counter-inflation-middle-east/107168238",
+      "title": "Japan raises interest rates to new 31-year high to counter rising inflation",
+      "outlet": "ABC News",
+      "publishedAt": "2026-09-18T13:32:00+10:00",
+      "accessedAt": "2026-09-18T16:25:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
+      "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-18T07:14:13Z",
+      "accessedAt": "2026-09-18T16:25:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-BHe-jwch.js";import{C as t,v as n,y as r}from"./storage-CcPXkZr9.js";var i=e(t(),1);function a(e,t,a=JSON.stringify){return[(0,i.useMemo)(t,[(0,i.useSyncExternalStore)(r,()=>n.getItem(e)),t]),(0,i.useCallback)(r=>{let i=typeof r==`function`?r(t()):r;n.setItem(e,a(i))},[e,t,a])]}export{a as t};

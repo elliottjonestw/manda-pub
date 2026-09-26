@@ -1,0 +1,33 @@
+{
+  "name": "Saudi Arabia Reports Riyadh Attack",
+  "category": "World",
+  "date": "2026-09-20",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/riyadh-air-attack.webp",
+  "simplified": "沙特阿拉伯9月20日证实，也门胡塞武装曾试图以一枚弹道导弹袭击首都利雅得。胡塞武装同时宣称使用导弹和无人机攻击当地的“敏感地点”。\n\n当地民防部门在夜间向利雅得和附近的哈杰尔居民发送空袭警报。之后，机场附近出现了浓烟，现场也有人听到至少一声爆炸。\n\n报道没有确认机场建筑受损，也没有报告人员伤亡。胡塞武装的说法与沙特方面已确认的导弹拦截信息并不完全相同。\n\n因此，这起事件的部分细节仍未得到独立核实。各方后续说明可能会改变目前对袭击范围的判断。",
+  "traditional": "沙特阿拉伯9月20日證實，也門胡塞武裝曾試圖以一枚彈道導彈襲擊首都利雅得。胡塞武裝同時宣稱使用導彈和無人機攻擊當地的「敏感地點」。\n\n當地民防部門在夜間向利雅得和附近的哈傑爾居民發送空襲警報。之後，機場附近出現了濃煙，現場也有人聽到至少一聲爆炸。\n\n報道沒有確認機場建築受損，也沒有報告人員傷亡。胡塞武裝的說法與沙特方面已確認的導彈攔截資訊並不完全相同。\n\n因此，這起事件的部分細節仍未得到獨立核實。各方後續說明可能會改變目前對襲擊範圍的判斷。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-19T23:49:26Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://news.sky.com/story/houthis-claim-drone-attack-on-saudi-arabias-capital-after-smoke-seen-rising-near-airport-13589978",
+      "title": "Houthis claim drone attack on Saudi Arabia's capital after smoke near airport",
+      "outlet": "Sky News",
+      "publishedAt": "2026-09-20T04:21:00Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://apnews.com/article/b1286cad816dd3e553f50f6dd5205972",
+      "title": "Saudi Arabia confirms Houthis tried to attack its capital with a ballistic missile",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-19T20:10:52Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    }
+  ],
+  "tocflLevel": "5"
+}

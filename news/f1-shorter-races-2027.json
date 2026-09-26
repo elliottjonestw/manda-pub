@@ -1,0 +1,33 @@
+{
+  "name": "F1 Approves Shorter Races",
+  "category": "Sport",
+  "date": "2026-09-22",
+  "hskLevel": "HSK 5",
+  "tocflLevel": "4",
+  "image": "/news/images/f1-shorter-races-2027.webp",
+  "simplified": "一级方程式赛车委员会9月21日同意，从2027年起缩短大奖赛的标准最长距离。距离将从305公里降到290公里。\n\n报道说，这项改变和2027年的动力单元规则调整有关。最终规则仍须国际汽联世界汽车运动理事会批准。\n\n委员会也同意改变比赛被雨天或事故打断时的时间规则。原来的三小时总时限将改为更灵活的“硬停止时间”。\n\n国际汽联表示，新安排的目标是让观众在比赛受干扰时，仍有更好的机会看到完整的比赛。不同赛道的停止时间会因当地情况而不同。",
+  "traditional": "一級方程式賽車委員會9月21日同意，從2027年起縮短大獎賽的標準最長距離。距離將從305公里降到290公里。\n\n報道說，這項改變和2027年的動力單元規則調整有關。最終規則仍須國際汽聯世界汽車運動理事會批准。\n\n委員會也同意改變比賽被雨天或事故打斷時的時間規則。原來的三小時總時限將改為更靈活的「硬停止時間」。\n\n國際汽聯表示，新安排的目標是讓觀眾在比賽受干擾時，仍有更好的機會看到完整的比賽。不同賽道的停止時間會因當地情況而不同。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo",
+      "title": "Formula 1 reduces maximum distance of races by 15km among changes for 2027",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-21T17:16:13Z",
+      "accessedAt": "2026-09-22T09:26:00+08:00"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-09-22/formula-1-shorter-races-2027-world-championship/107179748",
+      "title": "Formula 1 agrees to shorter races in 2027",
+      "outlet": "ABC News",
+      "publishedAt": "2026-09-21T22:06:59Z",
+      "accessedAt": "2026-09-22T09:26:00+08:00"
+    },
+    {
+      "url": "https://www.crash.net/f1/news/1105059/1/f1-approves-plan-rule-change-grands-prix-length-2027",
+      "title": "F1 plan for rule change to grands prix length in 2027 approved",
+      "outlet": "Crash.net",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-09-22T09:45:00+08:00"
+    }
+  ]
+}

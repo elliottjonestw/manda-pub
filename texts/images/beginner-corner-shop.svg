@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="A small shop with a striped awning, bread and notebooks">
+  <rect width="640" height="360" fill="#f7e8d6"/>
+  <circle cx="543" cy="63" r="106" fill="#edd1aa"/>
+  <path d="M0 298h640v62H0Z" fill="#d2b49a"/>
+  <g stroke="#675240" stroke-width="7" stroke-linejoin="round">
+    <path d="M139 106h362v199H139Z" fill="#fff7e9"/>
+    <path d="M123 111l27-54h340l27 54Z" fill="#db8c68"/>
+    <path d="M187 111l17-54h56l-6 54m66 0V57h56l11 54m64 0-16-54h55l27 54" fill="#fff7e9" stroke="none"/>
+    <path d="M123 111h394v26q-32 27-66 0-32 27-64 0-34 27-67 0-33 27-66 0-33 27-67 0-32 27-64 0Z" fill="#db8c68"/>
+    <rect x="167" y="171" width="191" height="102" rx="5" fill="#cee0db"/>
+    <path d="M384 171h88v134h-88Z" fill="#aec6bb"/>
+    <path d="M184 230q0-33 28-33t28 33v17h-56Z" fill="#dfb77e"/>
+    <path d="M190 218l10-8m12 8 10-8" fill="none" stroke-width="4"/>
+    <path d="M265 204h24v44h-24Zm30-11h24v55h-24Zm30 21h17v34h-17Z" fill="#7199b8" stroke-width="4"/>
+    <path d="M150 305h341" fill="none"/>
+  </g>
+  <circle cx="454" cy="242" r="5" fill="#675240"/>
+</svg>

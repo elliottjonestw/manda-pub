@@ -1,0 +1,33 @@
+{
+  "name": "Spaun Wins BMW PGA Championship",
+  "category": "Sport",
+  "date": "2026-09-22",
+  "hskLevel": "HSK 5",
+  "tocflLevel": null,
+  "image": "/news/images/spaun-bmw-pga-win.webp",
+  "simplified": "J.J.斯鲍恩9月20日在温特沃思赢得BMW PGA锦标赛。这是他第一次参加这项赛事。\n\n报道说，他在最后一轮打出67杆，并在最后阶段取得领先。西班牙球员曼努埃尔·埃尔维拉在第18洞失误后，斯鲍恩保住了优势。\n\n斯鲍恩成为第三位赢得这项赛事的美国球员。此前，阿诺德·帕尔默和比利·霍舍尔也曾获胜。\n\n赛事在英格兰萨里郡举行。多家高尔夫媒体把这场最后一轮形容为竞争十分接近的比赛。",
+  "traditional": "J.J.斯鮑恩9月20日在溫特沃思贏得BMW PGA錦標賽。這是他第一次參加這項賽事。\n\n報道說，他在最後一輪打出67桿，並在最後階段取得領先。西班牙球員曼努埃爾·埃爾維拉在第18洞失誤後，斯鮑恩保住了優勢。\n\n斯鮑恩成為第三位贏得這項賽事的美國球員。此前，阿諾德·帕爾默和比利·霍舍爾也曾獲勝。\n\n賽事在英格蘭薩里郡舉行。多家高爾夫媒體把這場最後一輪形容為競爭十分接近的比賽。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/golf/videos/cm4g50pr405eo",
+      "title": "Spaun wins PGA Championship after final round of 67",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-20T17:29:36Z",
+      "accessedAt": "2026-09-22T09:29:00+08:00"
+    },
+    {
+      "url": "https://www.golfmonthly.com/news/live/bmw-pga-championship-live-updates-rory-mcilroy-one-of-several-big-names-in-contention-at-wentworth",
+      "title": "JJ Spaun Wins BMW PGA Championship After Manuel Elvira's 18th-Hole Collapse",
+      "outlet": "Golf Monthly",
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "accessedAt": "2026-09-22T09:29:00+08:00"
+    },
+    {
+      "url": "https://golf.com/news/jj-spaun-wins-bmw-pga-after-us-team-snub/?amp=1",
+      "title": "J.J. Spaun wins BMW PGA after U.S. team snub",
+      "outlet": "GOLF.com",
+      "publishedAt": "2026-09-20",
+      "accessedAt": "2026-09-22T09:45:00+08:00"
+    }
+  ]
+}

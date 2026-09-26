@@ -1,0 +1,33 @@
+{
+  "name": "LA28 Reveals Triathlon Course",
+  "category": "Sport",
+  "date": "2026-09-24",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/la28-venice-triathlon.webp",
+  "simplified": "2028年洛杉矶奥运会和残奥会的铁人三项比赛，将在威尼斯海滩举行。组织者9月23日公布了初步路线，终点设在太平洋海岸附近。\n\n奥运会女子个人赛定在2028年7月15日举行，将产生该届奥运会最早颁发的一批奖牌。男子个人赛在次日举行，混合接力赛则安排在7月20日。\n\n个人赛的运动员会从沙滩直接进入海水，而不是从浮台出发。路线还包括海边自行车道和附近街道；游泳、自行车和跑步转换区将设在海滩旁。\n\n这些路线仍须接受运行测试。世界铁人三项联盟计划在2027年7月于同一地点举行测试赛，让组织者检验路线和赛事安排。",
+  "traditional": "2028年洛杉磯奧運會和殘奧會的鐵人三項比賽，將在威尼斯海灘舉行。組織者9月23日公布了初步路線，終點設在太平洋海岸附近。\n\n奧運會女子個人賽定在2028年7月15日舉行，將產生該屆奧運會最早頒發的一批獎牌。男子個人賽在次日舉行，混合接力賽則安排在7月20日。\n\n個人賽的運動員會從沙灘直接進入海水，而不是從浮台出發。路線還包括海邊自行車道和附近街道；游泳、自行車和跑步轉換區將設在海灘旁。\n\n這些路線仍須接受運行測試。世界鐵人三項聯盟計劃在2027年7月於同一地點舉行測試賽，讓組織者檢驗路線和賽事安排。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/sport/2026/sep/23/la-2028-olympics-venice-beach-triathlon-course",
+      "title": "LA 2028 triathlon course will see athletes race from Venice Beach into Pacific",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-23T15:14:00+01:00",
+      "accessedAt": "2026-09-24T16:12:00+08:00"
+    },
+    {
+      "url": "https://www.investing.com/news/general-news/olympicsla28-unveils-venice-beach-triathlon-courses-for-2028-olympics-4912913",
+      "title": "Olympics-LA28 unveils Venice Beach triathlon courses for 2028 Olympics",
+      "outlet": "Reuters via Investing.com",
+      "publishedAt": "2026-09-23 08:03 (timezone not stated on page)",
+      "accessedAt": "2026-09-24T16:12:00+08:00"
+    },
+    {
+      "url": "https://www.nbcsports.com/olympics/news/la-2028-triathlon-course-map",
+      "title": "Triathlon courses, maps detailed for 2028 LA Olympics, Paralympics",
+      "outlet": "NBC Sports",
+      "publishedAt": "2026-09-23 08:59 (timezone not stated on page)",
+      "accessedAt": "2026-09-24T16:12:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

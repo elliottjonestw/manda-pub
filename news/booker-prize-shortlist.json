@@ -1,0 +1,33 @@
+{
+  "name": "Booker Prize Announces Shortlist",
+  "category": "Culture",
+  "date": "2026-09-25",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/booker-prize-shortlist.webp",
+  "simplified": "英国布克奖公布了2026年的入围名单。评审团从163部投稿小说中选出六部作品，获奖者将在11月9日公布。\n\n入围作品包括M·约翰·哈里森的《The End of Everything》、马龙·詹姆斯的《The Disappearers》、卢克·肯纳德的《Black Bag》、丽贝卡·佩里的《May We Feed the King》、伊丽莎白·斯特劳特的《The Things We Never Say》和道格拉斯·斯图尔特的《John of John》。\n\n报道指出，詹姆斯和斯图尔特以前都赢过布克奖；斯特劳特曾经入围。哈里森、肯纳德和佩里则是第一次进入这份名单。\n\n评审团由历史学家玛丽·比尔德主持。新闻报道和布克奖资料都说明，这六部作品来自此前公布的13部小说长名单。",
+  "traditional": "英國布克獎公布了2026年的入圍名單。評審團從163部投稿小說中選出六部作品，獲獎者將在11月9日公布。\n\n入圍作品包括M·約翰·哈里森的《The End of Everything》、馬龍·詹姆斯的《The Disappearers》、盧克·肯納德的《Black Bag》、麗貝卡·佩里的《May We Feed the King》、伊麗莎白·斯特勞特的《The Things We Never Say》和道格拉斯·斯圖爾特的《John of John》。\n\n報導指出，詹姆斯和斯圖爾特以前都贏過布克獎；斯特勞特曾經入圍。哈里森、肯納德和佩里則是第一次進入這份名單。\n\n評審團由歷史學家瑪麗·比爾德主持。新聞報導和布克獎資料都說明，這六部作品來自此前公布的13部小說長名單。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo",
+      "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-22",
+      "accessedAt": "2026-09-25T16:06:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/books/live/2026/sep/23/booker-prize-2026-ask-our-books-team-anything-about-this-years-contenders",
+      "title": "Booker prize 2026: ask our books team anything about this year’s contenders",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-23T03:32:00-04:00",
+      "accessedAt": "2026-09-25T16:13:00+08:00"
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/101320-2026-booker-prize-shortlist-announced.html",
+      "title": "2026 Booker Prize Shortlist Announced",
+      "outlet": "Publishers Weekly",
+      "publishedAt": "2026-09-23",
+      "accessedAt": "2026-09-25T16:06:00+08:00"
+    }
+  ],
+  "tocflLevel": null
+}

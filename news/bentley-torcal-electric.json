@@ -1,0 +1,33 @@
+{
+  "name": "Bentley Reveals First Electric Car",
+  "category": "Business",
+  "date": "2026-09-25",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/bentley-torcal-electric.webp",
+  "simplified": "英国豪华汽车制造商宾利公布了第一款完全由电力驱动的汽车，名字是Torcal。这是一辆运动型多用途车，也是该公司新的第四个车型系列。\n\n多家新闻机构报道，这款车9月23日在伦敦发布。宾利说，Torcal将在英国克鲁的工厂生产。\n\n报道中的起价为17.3万英镑，单次充电的官方续航里程最高为375英里。汽车还使用由鼓声组成的人工声音，代替传统发动机的声音。\n\n宾利此前推迟了首款电动车的推出时间，也放弃在2030年前只生产电动车的目标。报道没有把Torcal的发布说成已经实现了这一目标。",
+  "traditional": "英國豪華汽車製造商賓利公布了第一款完全由電力驅動的汽車，名字是Torcal。這是一輛運動型多用途車，也是該公司新的第四個車型系列。\n\n多家新聞機構報導，這款車9月23日在倫敦發布。賓利說，Torcal將在英國克魯的工廠生產。\n\n報導中的起價為17.3萬英鎊，單次充電的官方續航里程最高為375英里。汽車還使用由鼓聲組成的人工聲音，代替傳統發動機的聲音。\n\n賓利此前推遲了首款電動車的推出時間，也放棄在2030年前只生產電動車的目標。報導沒有把Torcal的發布說成已經實現了這一目標。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c65ymznkr291o",
+      "title": "Bentley unveils its first fully electric car",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-23T19:21:10Z",
+      "accessedAt": "2026-09-25T16:06:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/sep/23/bentley-launches-first-fully-electric-car-fake-engine-sounds",
+      "title": "Bentley launches first fully electric car – with fake engine sounds to replace classic growl",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-23T14:15:00-04:00",
+      "accessedAt": "2026-09-25T16:06:00+08:00"
+    },
+    {
+      "url": "https://www.investing.com/news/stock-market-news/bentley-tests-wealthy-buyers-interest-in-going-electric-with-first-ev-4913741",
+      "title": "Bentley tests wealthy buyers’ interest in going electric with first EV",
+      "outlet": "Reuters via Investing.com",
+      "publishedAt": "2026-09-23",
+      "accessedAt": "2026-09-25T16:06:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

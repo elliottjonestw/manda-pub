@@ -1,0 +1,33 @@
+{
+  "name": "US Flights Resume After Outage",
+  "category": "Transport",
+  "date": "2026-09-22",
+  "hskLevel": "HSK 6",
+  "tocflLevel": "4",
+  "image": "/news/images/us-air-traffic-outage.webp",
+  "simplified": "9月21日，美国东北部很多飞机晚点，也有一些飞机取消。纽约附近的几个机场一度不让飞机降落。\n\n美国联邦航空局说，一个通信线路出了问题。后来，工人发现一条备用光纤也被施工意外切断。\n\n这两个问题影响了机场和空中交通中心的联系。美国媒体报道，很多旅客的行程受到影响。\n\n当天晚上，交通部门说线路已经修好，机场开始恢复运行。官方说，恢复飞行前，必须先确认空域安全。",
+  "traditional": "9月21日，美國東北部很多飛機晚點，也有一些飛機取消。紐約附近的幾個機場一度不讓飛機降落。\n\n美國聯邦航空局說，一個通訊線路出了問題。後來，工人發現一條備用光纖也被施工意外切斷。\n\n這兩個問題影響了機場和空中交通中心的聯繫。美國媒體報道，很多旅客的行程受到影響。\n\n當天晚上，交通部門說線路已經修好，機場開始恢復運行。官方說，恢復飛行前，必須先確認空域安全。",
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/newark-airport-ground-stop-flights-delayed-faa-equipment-outage/",
+      "title": "Flights at Newark, JFK, LaGuardia airports set to resume following equipment outage, FAA says",
+      "outlet": "CBS News",
+      "publishedAt": "2026-09-21T23:13:00Z",
+      "accessedAt": "2026-09-22T09:20:00+08:00"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-09-22/thousands-of-us-flights-disrupted-as-cable-is-cut/107179606",
+      "title": "US flights in chaos as communications fail and cable accidentally cut",
+      "outlet": "ABC News",
+      "publishedAt": "2026-09-21T21:23:59Z",
+      "accessedAt": "2026-09-22T09:20:00+08:00"
+    },
+    {
+      "url": "https://apnews.com/article/85e2321733ff604f7a5e93ce136945b9",
+      "title": "Flights disrupted across the US Northeast due to technical problems at a key air traffic center",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-21T18:55:20Z",
+      "accessedAt": "2026-09-22T09:20:00+08:00"
+    }
+  ]
+}

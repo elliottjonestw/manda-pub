@@ -1,0 +1,33 @@
+{
+  "name": "Bournemouth Win in Europe",
+  "category": "Football",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/bournemouth-europe-win.webp",
+  "simplified": "伯恩茅斯队9月17日在西班牙客场以2比1战胜皇家社会队，取得队史首场欧洲比赛胜利。\n\n贾斯廷·克鲁伊维特在第11分钟得分。拉扬在9分钟后头球破门，伯恩茅斯上半场以2比0领先。\n\n塞尔希奥·戈麦斯在第57分钟为皇家社会队追回一球。伯恩茅斯在余下时间守住领先。\n\n这是伯恩茅斯首次参加欧洲赛事。多家报道将这场客场胜利称为俱乐部的重要时刻。",
+  "traditional": "伯恩茅斯隊9月17日在西班牙客場以2比1戰勝皇家社會隊，取得隊史首場歐洲比賽勝利。\n\n賈斯廷·克魯伊維特在第11分鐘得分。拉揚在9分鐘後頭球破門，伯恩茅斯上半場以2比0領先。\n\n塞爾希奧·戈麥斯在第57分鐘為皇家社會隊追回一球。伯恩茅斯在餘下時間守住領先。\n\n這是伯恩茅斯首次參加歐洲賽事。多家報道將這場客場勝利稱為俱樂部的重要時刻。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/football/2026/sep/17/real-sociedad-bournemouth-europa-league-match-report",
+      "title": "Kluivert and Rayan rock Real Sociedad as Bournemouth win on European bow",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-17T23:14:00+02:00",
+      "accessedAt": "2026-09-18T16:23:00+08:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/report/577757",
+      "title": "Real Sociedad 1-2 Bournemouth",
+      "outlet": "Sky Sports",
+      "publishedAt": "2026-09-17T23:44:00+01:00",
+      "accessedAt": "2026-09-18T16:23:00+08:00"
+    },
+    {
+      "url": "https://www.tntsports.co.uk/football/europa-league/2026-2027/live-real-sociedad-bournemouth_mtc21878832/live-commentary.shtml",
+      "title": "Real Sociedad v AFC Bournemouth: Cherries edge European debut",
+      "outlet": "TNT Sports",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-18T16:23:00+08:00"
+    }
+  ],
+  "tocflLevel": null
+}

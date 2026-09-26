@@ -1,0 +1,33 @@
+{
+  "name": "England Clinch T20 Series",
+  "category": "Cricket",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/england-t20-series.webp",
+  "simplified": "9月17日，英格兰队在加的夫举行的第二场二十轮板球国际赛中，以6个球门的优势战胜斯里兰卡队。斯里兰卡队先得145分，失去9个球门。\n\n英格兰队随后以146分、失去4个球门完成追赶，只用了12.1轮。汤姆·班顿以24球得到52分，没有出局。\n\n多家报道说，利亚姆·道森取得3个球门，帮助限制斯里兰卡队的得分。英格兰击球手在这场比赛中打出10个六分球。\n\n英格兰队因此在三场系列赛中以2比0领先，并提前赢得系列赛。最后一场比赛仍将举行。",
+  "traditional": "9月17日，英格蘭隊在加的夫舉行的第二場二十輪板球國際賽中，以6個球門的優勢戰勝斯里蘭卡隊。斯里蘭卡隊先得145分，失去9個球門。\n\n英格蘭隊隨後以146分、失去4個球門完成追趕，只用了12.1輪。湯姆·班頓以24球得到52分，沒有出局。\n\n多家報道說，利亞姆·道森取得3個球門，幫助限制斯里蘭卡隊的得分。英格蘭擊球手在這場比賽中打出10個六分球。\n\n英格蘭隊因此在三場系列賽中以2比0領先，並提前贏得系列賽。最後一場比賽仍將舉行。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cm70dnrke6klo",
+      "title": "England vs Sri Lanka: Tom Banton and Liam Dawson impress as hosts secure T20 series win in Cardiff",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-18T16:20:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/sport/2026/sep/17/england-sri-lanka-second-t20-international-report",
+      "title": "Tom Banton’s six-hitting wins T20 for England after Dawson derails Sri Lanka",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-17T17:05:00-04:00",
+      "accessedAt": "2026-09-18T16:20:00+08:00"
+    },
+    {
+      "url": "https://www.skysports.com/cricket/news/12123/13589035/england-vs-sri-lanka-jos-buttler-breaks-t20-runs-record-as-harry-brooks-side-clinch-series-win-with-game-to-spare",
+      "title": "England vs Sri Lanka: England clinch series win with game to spare",
+      "outlet": "Sky Sports",
+      "publishedAt": "2026-09-17T23:30:00+01:00",
+      "accessedAt": "2026-09-18T16:20:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

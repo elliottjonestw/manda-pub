@@ -1,0 +1,33 @@
+{
+  "name": "Media Groups Sue White House",
+  "category": "Media",
+  "date": "2026-09-22",
+  "hskLevel": "HSK 7–9",
+  "tocflLevel": "5",
+  "image": "/news/images/media-white-house-lawsuit.webp",
+  "simplified": "CNN、MS NOW和Politico在9月21日提起诉讼，挑战白宫禁止它们进入白宫范围的决定。三家媒体说，记者先前被拒绝进入，并且证件被停用。\n\n原告认为，这项行政禁令滥用权力，也回避司法审查。它们说，禁令会削弱宪法所保护的言论自由，并请求司法救济。\n\n白宫禁令由总统唐纳德·特朗普在9月18日宣布。他指责这些媒体发布不实报道；三家媒体否认这一说法。\n\n原告要求法院尽快作出裁决，防止行政权力继续被滥用。案件尚未由法院作出裁决。",
+  "traditional": "CNN、MS NOW和Politico在9月21日提起訴訟，挑戰白宮禁止它們進入白宮範圍的決定。三家媒體說，記者先前被拒絕進入，並且證件被停用。\n\n原告認為，這項行政禁令濫用權力，也迴避司法審查。它們說，禁令會削弱憲法所保護的言論自由，並請求司法救濟。\n\n白宮禁令由總統唐納德·特朗普在9月18日宣布。他指責這些媒體發布不實報道；三家媒體否認這一說法。\n\n原告要求法院盡快作出裁決，防止行政權力繼續被濫用。案件尚未由法院作出裁決。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-21T00:16:06Z",
+      "accessedAt": "2026-09-22T09:24:00+08:00"
+    },
+    {
+      "url": "https://apnews.com/article/72f9acf68244ca70e9078d9d3661c722",
+      "title": "News outlets sue Trump over lost White House access, citing First Amendment",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-21T10:32:34Z",
+      "accessedAt": "2026-09-22T09:24:00+08:00"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/cnn-ms-now-and-politico-to-sue-over-white-house-ban-ce785adbdd8bf621",
+      "title": "CNN, MS NOW and Politico sue Trump over White House ban",
+      "outlet": "Reuters via MarketScreener",
+      "publishedAt": "2026-09-21T10:40:00Z",
+      "accessedAt": "2026-09-22T09:24:00+08:00"
+    }
+  ]
+}
