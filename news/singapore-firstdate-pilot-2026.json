@@ -1,0 +1,33 @@
+{
+  "name": "Singapore Tests FirstDate Matching Pilot",
+  "category": "Technology",
+  "date": "2026-10-01",
+  "hskLevel": "HSK 3",
+  "image": "/news/images/singapore-firstdate-pilot-2026.webp",
+  "simplified": "新加坡的政府科技局开始了一个新的交友活动，名字是 FirstDate。现在，这个活动只给二十一岁到三十五岁的政府工作人员使用。\n\n想参加的人要先回答一些问题。问题和他们的兴趣、习惯、想法有关。系统每次会给一个可能合适的人。\n\n两个人收到消息后，都有三天时间决定要不要认识对方。只有两个人都说可以，系统才会给他们联系方法。\n\n这是一个正在试用的活动，不是给所有人开放的服务。政府科技局还没有说以后会不会让更多人参加。",
+  "traditional": "新加坡的政府科技局開始了一個新的交友活動，名字是 FirstDate。現在，這個活動只給二十一歲到三十五歲的政府工作人員使用。\n\n想參加的人要先回答一些問題。問題和他們的興趣、習慣、想法有關。系統每次會給一個可能合適的人。\n\n兩個人收到消息後，都有三天時間決定要不要認識對方。只有兩個人都說可以，系統才會給他們聯絡方法。\n\n這是一個正在試用的活動，不是給所有人開放的服務。政府科技局還沒有說以後會不會讓更多人參加。",
+  "sources": [
+    {
+      "url": "https://www.straitstimes.com/singapore/community/govtech-launches-dating-pilot-to-match-public-officers?ai-allowed=1",
+      "title": "GovTech launches dating pilot to match public officers",
+      "outlet": "The Straits Times",
+      "publishedAt": "2026-09-30T16:55:00+08:00",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cqzjzr893yv4o",
+      "title": "Singapore launches matchmaking service for government workers",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-30T09:52:00Z",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    },
+    {
+      "url": "https://www.asiaone.com/lifestyle/singapore-dating-pilot-govtech",
+      "title": "It's a match! GovTech rolls out dating pilot",
+      "outlet": "AsiaOne",
+      "publishedAt": "2026-09-30T09:50:00+08:00",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    }
+  ],
+  "tocflLevel": "3"
+}

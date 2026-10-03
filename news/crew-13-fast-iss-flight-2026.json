@@ -1,0 +1,33 @@
+{
+  "name": "Crew-13 Reaches Space Station Fast",
+  "category": "Science",
+  "date": "2026-10-02",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/crew-13-fast-iss-flight-2026.webp",
+  "simplified": "十月一日，四名宇航员从美国佛罗里达州出发，前往国际空间站。几个小时后，他们安全到达了空间站。\n\n这次任务叫 Crew-13。杰西卡·沃特金斯是这次飞行的指挥官。美联社说，她成为第一位带领太空团队进入轨道的非洲裔美国女性。\n\n从起飞到到达，飞行用了大约八小时。这创下了美国前往国际空间站最快飞行的新纪录。\n\n这四名宇航员计划在空间站工作大约六个月。他们将参加科学实验，也会帮助维护空间站。",
+  "traditional": "十月一日，四名太空人從美國佛羅里達州出發，前往國際太空站。幾個小時後，他們安全到達了太空站。\n\n這次任務叫 Crew-13。潔西卡·沃特金斯是這次飛行的指揮官。美聯社說，她成為第一位帶領太空團隊進入軌道的非洲裔美國女性。\n\n從起飛到到達，飛行用了大約八小時。這創下了美國前往國際太空站最快飛行的新紀錄。\n\n這四名太空人計畫在太空站工作大約六個月。他們將參加科學實驗，也會幫助維護太空站。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/d885ec0dcb9fab8bbf8977103118caa0",
+      "title": "Astronauts arrive at International Space Station on the quickest US express flight yet",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-10-01T15:12:13Z",
+      "accessedAt": "2026-10-02T16:13:00+08:00"
+    },
+    {
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
+      "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
+      "outlet": "NPR",
+      "publishedAt": "2026-10-01T11:21:33-04:00",
+      "accessedAt": "2026-10-02T16:13:00+08:00"
+    },
+    {
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-is-go-to-launch-nasas-crew-13-astronaut-mission-to-the-iss-on-oct-1",
+      "title": "SpaceX is 'go' to launch NASA's Crew-13 astronaut mission to the ISS on Oct. 1",
+      "outlet": "Space.com",
+      "publishedAt": "2026-09-30T22:47:20Z",
+      "accessedAt": "2026-10-02T16:13:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

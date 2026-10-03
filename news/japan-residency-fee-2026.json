@@ -1,0 +1,33 @@
+{
+  "name": "Japan Raises Residency Application Fees",
+  "category": "Society",
+  "date": "2026-10-01",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/japan-residency-fee-2026.webp",
+  "simplified": "日本10月1日把永久居留申请的行政规费从1万日元调高至20万日元。BBC与法新社的报道均确认，作为新的行政规范，该费率调整已经实施。\n\n非永久居留者办理居留资格变更或延期时，费用改按期限分级：三个月或以下为1万日元，五年或以上为7.5万日元。\n\n永久居留的资格审核还将涉及稳定收入、养老金记录和日语能力；相关规范会分阶段适用。因此，费用变动不应与尚未全面生效的审核标准混为一谈。\n\n这项制度调整既不会自动批准申请，也不预设拒绝结果。报道提到，经济困难者及被指定的难民可依有关减免规范申请，具体资格仍由有关机关审核。",
+  "traditional": "日本10月1日把永久居留申請的行政規費從1萬日圓調高至20萬日圓。BBC與法新社的報導均確認，作為新的行政規範，該費率調整已經實施。\n\n非永久居留者辦理居留資格變更或延期時，費用改按期限分級：三個月或以下為1萬日圓，五年或以上為7.5萬日圓。\n\n永久居留的資格審核還將涉及穩定收入、年金紀錄和日語能力；相關規範會分階段適用。因此，費用變動不應與尚未全面生效的審核標準混為一談。\n\n這項制度調整既不會自動批准申請，也不預設拒絕結果。報導提到，經濟困難者及被指定的難民可依有關減免規範申請，具體資格仍由有關機關審核。",
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/c6y8z8xeg8j1o",
+      "title": "Japan raises permanent residency fee by 20 times",
+      "outlet": "BBC News",
+      "publishedAt": "2026-10-01T02:57:43Z",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    },
+    {
+      "url": "https://www.thejapantimes.jp/Politics/740734-japan-tightens-rules-for-foreigners-wanting-permanent-residency.html",
+      "title": "Japan tightens rules for foreigners wanting permanent residency",
+      "outlet": "The Japan Times / AFP",
+      "publishedAt": "2026-10-01",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    },
+    {
+      "url": "https://www.japantimes.co.jp/news/2026/07/03/japan/society/residence-permit-fees/",
+      "title": "Japan plans to sharply raise fees for residence permits from October",
+      "outlet": "The Japan Times",
+      "publishedAt": "2026-07-03",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    }
+  ],
+  "tocflLevel": "5"
+}

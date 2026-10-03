@@ -1,0 +1,33 @@
+{
+  "name": "Indonesia Receives Carrier",
+  "category": "World",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/indonesia-carrier-arrival.webp",
+  "simplified": "印尼9月18日在雅加达迎接前意大利海军舰艇朱塞佩·加里波第号。报道将它称为印尼第一艘航空母舰；它在2024年退役。\n\n报道说，这艘舰将在下周正式编入印尼海军。印尼方面计划把它用作直升机、无人机和海上行动的平台。\n\n政府认为舰艇能协助海上安全和灾害应对，例如火灾后的救援。不过，分析人士和反对人士质疑改装与长期维护的成本。\n\n报道指出，印尼财政部在2025年批准4.5亿美元融资，但一些议员担心总支出更高。舰艇到港已经发生，未来的具体用途和开支仍需观察。",
+  "traditional": "印尼9月18日在雅加達迎接前義大利海軍艦艇朱塞佩·加里波第號。報導將它稱為印尼第一艘航空母艦；它在2024年退役。\n\n報導說，這艘艦將在下週正式編入印尼海軍。印尼方面計畫把它用作直升機、無人機和海上行動的平台。\n\n政府認為艦艇能協助海上安全和災害應對，例如火災後的救援。不過，分析人士和反對人士質疑改裝與長期維護的成本。\n\n報導指出，印尼財政部在2025年批准4.5億美元融資，但一些議員擔心總支出更高。艦艇到港已經發生，未來的具體用途和開支仍需觀察。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/indonesia-italy-giuseppe-garibaldi-aircraft-carrier-c1c9ecd45035786af8ce78d57140ec1d",
+      "title": "Indonesia welcomes its first aircraft carrier, prompting debate over cost and military ambitions",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-18T02:41:33Z",
+      "accessedAt": "2026-09-18T16:44:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi",
+      "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
+      "outlet": "The Guardian / Associated Press",
+      "publishedAt": "2026-09-18T00:04:00-04:00",
+      "accessedAt": "2026-09-18T16:44:00+08:00"
+    },
+    {
+      "url": "https://maritime-executive.com/article/indonesia-takes-delivery-of-a-free-aircraft-carrier",
+      "title": "Indonesia Takes Delivery of a \"Free\" Aircraft Carrier",
+      "outlet": "The Maritime Executive",
+      "publishedAt": "2026-09-17T22:06:00-04:00",
+      "accessedAt": "2026-09-18T16:44:00+08:00"
+    }
+  ],
+  "tocflLevel": "5"
+}

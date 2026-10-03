@@ -1,0 +1,33 @@
+{
+  "name": "Alcaraz Saves Match Points",
+  "category": "Sport",
+  "date": "2026-09-27",
+  "hskLevel": "HSK 3",
+  "image": "/news/images/alcaraz-laver-cup-2026.webp",
+  "simplified": "9月26日，西班牙网球运动员卡洛斯·阿尔卡拉斯在伦敦比赛。他和美国选手泰勒·弗里茨打了三盘。最后，阿尔卡拉斯赢了。\n\n比赛中，弗里茨有两个可以赢球的机会。阿尔卡拉斯没有输。他发了一个好球，也用了小球。\n\n最后的比分是6比3、4比6和13比11。这场比赛以后，欧洲队以7比5领先世界队。\n\n拉沃尔杯还有最后一天。星期天的每场比赛有三分，先到13分的队会赢。",
+  "traditional": "9月26日，西班牙網球運動員卡洛斯·阿爾卡拉斯在倫敦比賽。他和美國選手泰勒·弗里茨打了三盤。最後，阿爾卡拉斯贏了。\n\n比賽中，弗里茨有兩個可以贏球的機會。阿爾卡拉斯沒有輸。他發了一個好球，也用了小球。\n\n最後的比數是6比3、4比6和13比11。這場比賽以後，歐洲隊以7比5領先世界隊。\n\n拉沃爾盃還有最後一天。星期天的每場比賽有三分，先到13分的隊會贏。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cm5yddy3wv90o",
+      "title": "Alcaraz wins after saving match points as Europe lead Laver Cup",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-27T06:15:26Z",
+      "accessedAt": "2026-09-27T16:01:50+08:00"
+    },
+    {
+      "url": "https://www.nbcsports.com/tennis/news/alcarazs-drop-shots-secure-a-revenge-win-over-fritz-that-evens-the-laver-cup-at-5-5",
+      "title": "Alcaraz’s drop shots secure a revenge win over Fritz that evens the Laver Cup at 5-5",
+      "outlet": "Associated Press via NBC Sports",
+      "publishedAt": "2026-09-26T17:54:00-04:00",
+      "accessedAt": "2026-09-27T16:01:50+08:00"
+    },
+    {
+      "url": "https://www.afp.com/pt/node/3843805",
+      "title": "Alcaraz saves match points to keep Europe ahead in Laver Cup",
+      "outlet": "Agence France-Presse",
+      "publishedAt": "2026-09-27T00:41:00Z",
+      "accessedAt": "2026-09-27T16:01:50+08:00"
+    }
+  ],
+  "tocflLevel": "3"
+}

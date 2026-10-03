@@ -1,0 +1,40 @@
+{
+  "name": "Nvidia Introduces AI Agent Safety Tools",
+  "category": "Technology",
+  "date": "2026-09-29",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/nvidia-agent-safety-2026.webp",
+  "simplified": "英伟达9月28日发布一个新的AI安全平台，名为Open Agent Safety Platform。公司说，它用来帮助管理会自己执行任务的AI代理。\n\n平台包括OpenShell和Sentry两个部分。前者为代理设定工作环境，后者持续观察代理的活动。\n\n如果系统发现代理想要超过设定范围，Sentry可以把它暂停或隔离。英伟达说，这些工具能让开发者较早发现不安全的行为。\n\n多家报道把这次发布放在近期AI代理安全事件的背景下。这个平台是软件工具的发布，不代表已经解决所有AI安全风险。",
+  "traditional": "輝達9月28日發布一個新的AI安全平台，名為Open Agent Safety Platform。公司說，它用來幫助管理會自己執行任務的AI代理。\n\n平台包括OpenShell和Sentry兩個部分。前者為代理設定工作環境，後者持續觀察代理的活動。\n\n如果系統發現代理想要超過設定範圍，Sentry可以把它暫停或隔離。輝達說，這些工具能讓開發者較早發現不安全的行為。\n\n多家報導把這次發布放在近期AI代理安全事件的背景下。這個平台是軟體工具的發布，不代表已經解決所有AI安全風險。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/3c4d7c1cfde82851c0577d1fa29b8621",
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-28T10:52:04Z",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    },
+    {
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-releases-aisafety-softwareit-says-could-have-stopped-hugging-face-hack-4919614",
+      "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack",
+      "outlet": "Reuters via Investing.com",
+      "publishedAt": "2026-09-28",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    },
+    {
+      "url": "https://www.semafor.com/article/09/28/2026/nvidia-unveils-tools-to-keep-rogue-ai-agents-in-check",
+      "title": "Nvidia unveils tools to keep rogue AI agents in check",
+      "outlet": "Semafor",
+      "publishedAt": "2026-09-28T22:26:00Z",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    },
+    {
+      "url": "https://www.euronews.com/2026/09/28/nvidia-launches-platform-to-quarantine-rogue-ai-agents-in-milliseconds",
+      "title": "Nvidia launches platform to quarantine rogue AI agents in 'milliseconds'",
+      "outlet": "Euronews",
+      "publishedAt": "2026-09-28T12:46:00+02:00",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

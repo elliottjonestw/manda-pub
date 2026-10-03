@@ -1,0 +1,33 @@
+{
+  "name": "Ireland Fines Google Over Location Data",
+  "category": "Technology",
+  "date": "2026-09-22",
+  "hskLevel": "HSK 4",
+  "tocflLevel": "4",
+  "image": "/news/images/google-location-fine.webp",
+  "simplified": "爱尔兰一个保护个人信息的部门对谷歌罚款4.03亿欧元。这个部门说，谷歌处理部分用户位置数据的方法不符合欧盟规则。\n\n调查看了网页活动、位置记录和位置准确度这些功能。调查的时间是2018年到2020年。\n\n部门说，公司要合法、公平和清楚地处理数据。位置数据能让人知道一个人去过哪里，也可能有私人信息。\n\n谷歌说，近年已经做了一些改变，来更好地保护数据。报道没有说罚款什么时候能走完法律程序。",
+  "traditional": "愛爾蘭一個保護個人資訊的部門對谷歌罰款4.03億歐元。這個部門說，谷歌處理部分用戶位置資料的方法不符合歐盟規則。\n\n調查看了網頁活動、位置記錄和位置準確度這些功能。調查的時間是2018年到2020年。\n\n部門說，公司要合法、公平和清楚地處理資料。位置資料能讓人知道一個人去過哪裡，也可能有私人資訊。\n\n谷歌說，近年已經做了一些改變，來更好地保護資料。報道沒有說罰款什麼時候能走完法律程序。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo",
+      "title": "Google fined €403m by Irish data watchdog over location tracking",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-21T12:30:54Z",
+      "accessedAt": "2026-09-22T09:22:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
+      "title": "Google is fined more than €400m by Irish regulator over its use of location data",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-21T10:57:00Z",
+      "accessedAt": "2026-09-22T09:45:00+08:00"
+    },
+    {
+      "url": "https://www.irishtimes.com/business/2026/09/21/irish-data-protection-watchdog-fines-google-403m-over-gdpr-breaches/",
+      "title": "Irish data protection watchdog fines Google €403m over GDPR breaches",
+      "outlet": "The Irish Times",
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "accessedAt": "2026-09-22T09:22:00+08:00"
+    }
+  ]
+}

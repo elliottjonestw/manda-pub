@@ -1,0 +1,40 @@
+{
+  "name": "Hodgkinson Wins Athlos",
+  "category": "Athletics",
+  "date": "2026-09-19",
+  "hskLevel": "HSK 4",
+  "image": "/news/images/hodgkinson-athlos-win.webp",
+  "simplified": "9月18日，英国运动员基利·霍奇金森在伦敦举行的Athlos比赛中，赢得了女子800米比赛。她的成绩是1分56秒40。\n\n这次比赛在伦敦的StoneX体育场举行。这是Athlos第一次来到伦敦，参赛者都是女运动员。\n\n霍奇金森穿着一件黑色、有帽子的跑步服上场。多家报道说，她很快就领先，并以明显优势赢得比赛。\n\n这是她2026年的最后一场比赛。赛后，她说这场比赛很有意思，也想先休息一段时间。",
+  "traditional": "9月18日，英國運動員基利·霍奇金森在倫敦舉行的Athlos比賽中，贏得了女子800米比賽。她的成績是1分56秒40。\n\n這次比賽在倫敦的StoneX體育場舉行。這是Athlos第一次來到倫敦，參賽者都是女運動員。\n\n霍奇金森穿著一件黑色、有帽子的跑步服上場。多家報道說，她很快就領先，並以明顯優勢贏得比賽。\n\n這是她2026年的最後一場比賽。賽後，她說這場比賽很有意思，也想先休息一段時間。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo",
+      "title": "Athlos London: Keely Hodgkinson powers to victory in speed suit at all-female event",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-18T22:22:44.298Z (updated 2026-09-18T23:00:14.891Z)",
+      "accessedAt": "2026-09-19T16:02:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/sport/2026/sep/18/keely-hodgkinson-shows-off-catwoman-style-to-steal-athlos-london-event",
+      "title": "Keely Hodgkinson shows off Catwoman style to steal Athlos London event",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-18T21:33:25Z (updated 2026-09-19T07:34:51Z)",
+      "accessedAt": "2026-09-19T16:02:00+08:00"
+    },
+    {
+      "url": "https://www.irishtimes.com/sport/athletics/2026/09/18/rhasidat-adeleke-finishes-season-in-style-with-fourth-place-over-200m-at-london-athlos-meeting/",
+      "title": "Rhasidat Adeleke finishes season in style with fourth place over 200m at London Athlos meeting",
+      "outlet": "The Irish Times",
+      "publishedAt": "2026-09-18T20:57:23.036Z",
+      "accessedAt": "2026-09-19T16:02:00+08:00"
+    },
+    {
+      "url": "https://www.skysports.com/athletics/news/12040/13589458/keely-hodgkinson-wins-final-race-of-2026-season-at-athlos-in-london-in-full-length-hooded-nike-speed-suit",
+      "title": "Keely Hodgkinson wins final race of 2026 season at Athlos in London in full-length, hooded Nike speed suit",
+      "outlet": "Sky Sports",
+      "publishedAt": "2026-09-18T20:30:00Z (updated 2026-09-18T22:56:00Z)",
+      "accessedAt": "2026-09-19T16:02:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

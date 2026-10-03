@@ -1,0 +1,33 @@
+{
+  "name": "Woman Rescued in Malawi",
+  "category": "World",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/malawi-rescue.webp",
+  "simplified": "马拉维警方说，47岁的努斯拉特·奥斯曼已经获救。她此前在南部城市布兰太尔被绑架。\n\n美联社报道，警察总长说奥斯曼目前安全。她的家人也向当地媒体证实她获救的消息。\n\n报道说，她在9月11日中午左右被带走。警方当时正在寻找涉嫌参与绑架的几名男子。\n\n警方表示，案件仍在调查中。目前公开报道没有说明绑架的动机。",
+  "traditional": "馬拉維警方說，47歲的努斯拉特·奧斯曼已經獲救。她此前在南部城市布蘭太爾被綁架。\n\n美聯社報道，警察總長說奧斯曼目前安全。她的家人也向當地媒體證實她獲救的消息。\n\n報道說，她在9月11日中午左右被帶走。警方當時正在尋找涉嫌參與綁架的幾名男子。\n\n警方表示，案件仍在調查中。目前公開報道沒有說明綁架的動機。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/malawi-kidnap-rescue-nusrat-osman-police-8609017f1e134bd9c224b477cce9384e",
+      "title": "A British woman who was kidnapped in Malawi has been rescued, police say",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-17T19:22:26Z",
+      "accessedAt": "2026-09-18T16:26:00+08:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmlyrzz2gpw4o",
+      "title": "British woman rescued in Malawi shootout that left four suspected kidnappers dead",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-18T03:41:00+01:00",
+      "accessedAt": "2026-09-18T16:26:00+08:00"
+    },
+    {
+      "url": "https://news.sky.com/story/british-woman-kidnapped-in-malawi-rescued-and-reunited-with-family-13589169",
+      "title": "British woman kidnapped in Malawi rescued and reunited with family",
+      "outlet": "Sky News",
+      "publishedAt": "2026-09-18T06:08:00+01:00",
+      "accessedAt": "2026-09-18T16:26:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}
