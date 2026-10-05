@@ -1,0 +1,40 @@
+{
+  "name": "Starship Reaches Orbit for First Time",
+  "category": "Science",
+  "date": "2026-09-29",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/starship-first-orbit-2026.webp",
+  "simplified": "9月28日，SpaceX的星舰火箭第一次进入地球轨道。火箭从美国得州升空，工作人员之后确认它已入轨。\n\n上升时，一个发动机提前关闭，但飞行继续。控制人员认为，其他系统还能完成这次飞行的主要部分。\n\n火箭约三小时后在太平洋北部落下。原先的计划更长，SpaceX后来为了安全提前结束飞行。\n\n以前的星舰飞行没有围着地球飞。这次成功是该火箭计划的一个重要进展。",
+  "traditional": "9月28日，SpaceX的星艦火箭第一次進入地球軌道。火箭從美國得州升空，工作人員之後確認它已入軌。\n\n上升時，一個發動機提前關閉，但飛行繼續。控制人員認為，其他系統還能完成這次飛行的主要部分。\n\n火箭約三小時後在太平洋北部落下。原先的計畫更長，SpaceX後來為了安全提前結束飛行。\n\n以前的星艦飛行沒有圍著地球飛。這次成功是該火箭計畫的一個重要進展。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/262d3c58d56bf7a525b49115d6c5dfe8",
+      "title": "SpaceX's supersized Starship launches into orbit for the first time but flight ends early",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-28T12:50:36Z",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
+      "title": "‘Starship is in orbit’: cheers go up as huge SpaceX rocket circles Earth for first time",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-28T14:44:00Z",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/spacex-launches-starship-on-giant-rockets-first-flight-to-orbit/",
+      "title": "SpaceX launches Starship on giant rocket's first flight to orbit",
+      "outlet": "CBS News",
+      "publishedAt": "2026-09-28T13:36:00Z",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
+      "title": "SpaceX's Starship rocket reaches orbit for the first time",
+      "outlet": "TechCrunch",
+      "publishedAt": "2026-09-28T13:19:00Z",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    }
+  ],
+  "tocflLevel": "5"
+}

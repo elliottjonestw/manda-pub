@@ -1,0 +1,35 @@
+[
+  {
+    "filename": "消失的明信片.epub",
+    "title": "The Missing Postcard",
+    "titleChinese": "消失的明信片",
+    "author": "The Manda Team",
+    "cover": "消失的明信片.webp",
+    "hskLevel": "HSK 4",
+    "tocflLevel": "3",
+    "genre": "Contemporary fiction",
+    "characterCount": 47301
+  },
+  {
+    "filename": "回家的路.epub",
+    "title": "The Road Home",
+    "titleChinese": "回家的路",
+    "author": "The Manda Team",
+    "cover": "回家的路.webp",
+    "hskLevel": "HSK 4",
+    "tocflLevel": "3",
+    "genre": "Contemporary fiction",
+    "characterCount": 20058
+  },
+  {
+    "filename": "七分钟后的声音.epub",
+    "title": "The Voice Seven Minutes Ahead",
+    "titleChinese": "七分钟后的声音",
+    "author": "The Manda Team",
+    "cover": "七分钟后的声音.png",
+    "hskLevel": "HSK 5",
+    "tocflLevel": "4",
+    "genre": "Science-fiction mystery",
+    "characterCount": 8736
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "name": "Ross Smith Wins Darts Final",
+  "category": "Sport",
+  "date": "2026-09-22",
+  "hskLevel": "HSK 3",
+  "tocflLevel": "3",
+  "image": "/news/images/ross-smith-darts-final.webp",
+  "simplified": "9月20日，罗斯·史密斯在阿姆斯特丹比赛。他赢了，拿到第一名。\n\n最后，他11比5赢了普赖斯。开始时，两个人的分数很接近。\n\n后来，史密斯一直赢。他最后连赢了六次。\n\n这是他第二次赢这个大的比赛。以前，他也在欧洲比赛中赢过。",
+  "traditional": "9月20日，羅斯·史密斯在阿姆斯特丹比賽。他贏了，拿到第一名。\n\n最後，他11比5贏了普賴斯。開始時，兩個人的分數很接近。\n\n後來，史密斯一直贏。他最後連贏了六次。\n\n這是他第二次贏這個大的比賽。以前，他也在歐洲比賽中贏過。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/darts/articles/cmx2z19n25w7o",
+      "title": "Ross Smith wins World Series of Darts Finals",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-20T21:14:00Z",
+      "accessedAt": "2026-09-22T09:27:00+08:00"
+    },
+    {
+      "url": "https://www.skysports.com/darts/news/12285/13590270/world-series-of-darts-finals-ross-smith-thrashes-gerwyn-price-in-final-after-luke-littlers-dream-of-clean-sweep-ends",
+      "title": "Ross Smith thrashes Gerwyn Price in World Series of Darts Finals final",
+      "outlet": "Sky Sports",
+      "publishedAt": "2026-09-21T07:38:00Z",
+      "accessedAt": "2026-09-22T09:27:00+08:00"
+    },
+    {
+      "url": "https://www.sportinglife.com/darts/news/smith-triumphs-in-amsterdam/234400",
+      "title": "Darts results: Ross Smith beats Gerwyn Price to win the World Series of Darts Finals",
+      "outlet": "Sporting Life",
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "accessedAt": "2026-09-22T09:27:00+08:00"
+    }
+  ]
+}

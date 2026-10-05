@@ -1,0 +1,33 @@
+{
+  "name": "California Turtle Nests",
+  "category": "Nature",
+  "date": "2026-09-24",
+  "hskLevel": "HSK 4",
+  "image": "/news/images/california-turtle-nests.webp",
+  "simplified": "美国加州有两个海边，最近发现海龟在沙里下蛋。这是美国西海岸第一次有记录的海龟下蛋。\n\n第一只橄榄龟在9月16日来到锡尔比奇。三天后，另一只橄榄龟在亨廷顿海滩下蛋。研究人员后来发现，这是两只不同的海龟。\n\n这两种海龟平时在更南边的热带海边下蛋。现在，两个地方都围起来了，工作人员会保护海龟蛋。\n\n专家说，现在还不能知道这种情况会不会再发生。海龟蛋一般要45到60天才会孵出来。人们被要求不要靠近这些地方。",
+  "traditional": "美國加州有兩個海邊，最近發現海龜在沙裡下蛋。這是美國西海岸第一次有記錄的海龜下蛋。\n\n第一隻橄欖龜在9月16日來到錫爾比奇。三天後，另一隻橄欖龜在亨廷頓海灘下蛋。研究人員後來發現，這是兩隻不同的海龜。\n\n這兩種海龜平時在更南邊的熱帶海邊下蛋。現在，兩個地方都圍起來了，工作人員會保護海龜蛋。\n\n專家說，現在還不能知道這種情況會不會再發生。海龜蛋一般要45到60天才會孵出來。人們被要求不要靠近這些地方。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/us-news/2026/sep/23/sea-turtle-nesting-california-beaches",
+      "title": "In historic first, tropical turtles spotted nesting on California beaches",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-23T17:05:00-04:00",
+      "accessedAt": "2026-09-24T16:11:00+08:00"
+    },
+    {
+      "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/09/22/agency-says-sea-turtle-eggs-laid-on-california-beaches-are-a-first-for-the-us-west-coast",
+      "title": "Agency says sea turtle eggs laid on California beaches are a first for the US West Coast",
+      "outlet": "Associated Press via NY1",
+      "publishedAt": "2026-09-22T20:53:00-04:00",
+      "accessedAt": "2026-09-24T16:11:00+08:00"
+    },
+    {
+      "url": "https://www.latimes.com/science/story/2026-09-22/sea-turtle-laying-eggs-at-huntington-beach-is-first-known-instance-of-nesting-on-west-coast",
+      "title": "Sea turtles laying eggs at Huntington Beach and Seal Beach are first known cases of nesting on West Coast",
+      "outlet": "Los Angeles Times",
+      "publishedAt": "2026-09-22T09:32:00-07:00",
+      "accessedAt": "2026-09-24T16:11:00+08:00"
+    }
+  ],
+  "tocflLevel": "3"
+}

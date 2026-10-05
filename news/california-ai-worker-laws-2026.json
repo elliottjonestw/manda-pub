@@ -1,0 +1,33 @@
+{
+  "name": "California Signs AI Worker Protections",
+  "category": "Technology",
+  "date": "2026-10-01",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/california-ai-worker-laws-2026.webp",
+  "simplified": "加州州长加文·纽森9月30日签署多项有关人工智能与劳动场所的法律。AP、Bloomberg Law 和 CalMatters 分别报道了同一批措施。\n\n其中一项规定禁止雇主只依靠人工智能或算法工具，作出纪律处分或解雇决定；另一项要求，当大规模裁员由人工智能或自动化技术造成时，雇主必须在通知中披露相关情况。\n\n新法也限制雇主利用生物识别资料推断员工情绪，并限制若干人工智能监控做法。不同法案的生效时间和适用范围并不完全相同。\n\n这些规定是在州层级设立的劳动保障，并不是对所有人工智能系统的一般禁令。报道所能确认的是已签署的法律内容，实际执行仍须依各项法案的生效日期进行。",
+  "traditional": "加州州長加文·紐森9月30日簽署多項有關人工智慧與勞動場所的法律。AP、Bloomberg Law 和 CalMatters 分別報導了同一批措施。\n\n其中一項規定禁止雇主只依靠人工智慧或演算法工具，作出紀律處分或解僱決定；另一項要求，當大規模裁員由人工智慧或自動化技術造成時，雇主必須在通知中揭露相關情況。\n\n新法也限制雇主利用生物辨識資料推斷員工情緒，並限制若干人工智慧監控做法。不同法案的生效時間和適用範圍並不完全相同。\n\n這些規定是在州層級設立的勞動保障，並不是對所有人工智慧系統的一般禁令。報導所能確認的是已簽署的法律內容，實際執行仍須依各項法案的生效日期進行。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/1aa4935e3ee79519ae8b2458b2b9ebc1",
+      "title": "California Gov. Gavin Newsom signs laws to protect workers from AI risks",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-30T22:45:12Z",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    },
+    {
+      "url": "https://news.bloomberglaw.com/business-and-practice/new-california-law-requires-that-humans-decide-firings-not-ai",
+      "title": "New California Law Requires That Humans Decide Firings, Not AI",
+      "outlet": "Bloomberg Law",
+      "publishedAt": "2026-09-30T23:17:00Z",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    },
+    {
+      "url": "https://calmatters.org/economy/technology/2026/09/on-ai-newsom-gives-labor-only-some-of-what-it-demanded/",
+      "title": "On AI, Newsom gives labor only some of what it demanded",
+      "outlet": "CalMatters",
+      "publishedAt": "2026-09-30",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

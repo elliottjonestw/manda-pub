@@ -1,0 +1,33 @@
+{
+  "name": "Hurricane Polo Makes Landfall in Mexico",
+  "category": "Nature",
+  "date": "2026-10-01",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/hurricane-polo-landfall-2026.webp",
+  "simplified": "飓风 Polo 9月29日到了墨西哥太平洋边的陆地。BBC和美联社说，那时的风速约为每小时175公里。\n\n风暴经过南下加利福尼亚州北边的海边。它到以前，当地已经下大雨，海边也有积水。一些居民被建议到安全的地方去。\n\n美国国家飓风中心警告，部分区域可能会下150到300毫米的雨，也可能有洪水和泥石流。这些资料说明当时风暴的过程、风险和可能影响。\n\n报道还没有公布受灾区域的损害程度。资料暂时不能代表全部损失，也不能预计最终情况。后来，Polo 继续向东北移动，风也慢慢变小。",
+  "traditional": "颶風 Polo 9月29日到了墨西哥太平洋邊的陸地。BBC和美聯社說，那時的風速約為每小時175公里。\n\n風暴經過南下加利福尼亞州北邊的海邊。它到以前，當地已經下大雨，海邊也有積水。一些居民被建議到安全的地方去。\n\n美國國家颶風中心警告，部分區域可能會下150到300毫米的雨，也可能有洪水和土石流。這些資料說明當時風暴的過程、風險和可能影響。\n\n報導還沒有公布受災區域的損害程度。資料暫時不能代表全部損失，也不能預計最終情況。後來，Polo 繼續向東北移動，風也慢慢變小。",
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cw8d3z5y7958o",
+      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-29T10:34:00Z",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    },
+    {
+      "url": "https://apnews.com/article/db57554d97c70cd44b99df9ff0a41668",
+      "title": "Hurricane Polo makes landfall in Mexico with life-threatening winds and flooding",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-29T08:52:59Z",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    },
+    {
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5983317/hurricane-polo-hurricane-nolo",
+      "title": "Hurricane Polo is approaching Mexico, while Hurricane Nolo threatens Hawaii",
+      "outlet": "NPR",
+      "publishedAt": "2026-09-28",
+      "accessedAt": "2026-10-01T17:30:48+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "South West Water Receives £7.86m Fine",
+  "category": "Environment",
+  "date": "2026-10-01",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/south-west-water-fine-2026.webp",
+  "simplified": "英国一家水务公司因为多次污水排放，被法院罚款786万英镑。判决在9月29日于普利茅斯裁判法院作出。\n\n报道说，南西水务公司承认了18项指控。有关事件发生在2015年1月至2021年7月，地点包括英格兰西南部的海滩、河流和湖泊。\n\n英国环境署负责调查和起诉。法院听到，有一次公共假期期间，未经处理的污水从港口墙流出，工程人员十小时后才到场。\n\n公司在判决后为过去发生的事道歉，并说已经作出改进。本文只报道法院的罚款和已承认的指控，不推断这些改进的效果。",
+  "traditional": "英國一家水務公司因為多次污水排放，被法院罰款786萬英鎊。判決在9月29日於普利茅斯裁判法院作出。\n\n報導說，南西水務公司承認了18項指控。有關事件發生在2015年1月至2021年7月，地點包括英格蘭西南部的海灘、河流和湖泊。\n\n英國環境署負責調查和起訴。法院聽到，有一次公共假期期間，未經處理的污水從港口牆流出，工程人員十小時後才到場。\n\n公司在判決後為過去發生的事道歉，並說已經作出改進。本文只報導法院的罰款和已承認的指控，不推斷這些改進的效果。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/environment/2026/sep/29/south-west-water-record-fine-sewage-spills-cornwall-devon",
+      "title": "South West Water fined £8m for hundreds of sewage spills in Cornwall and Devon",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-29T17:19:00+02:00",
+      "accessedAt": "2026-10-01T17:16:00+08:00"
+    },
+    {
+      "url": "https://news.sky.com/story/south-west-water-fined-almost-8m-for-sewage-spillages-at-devon-and-cornwall-beauty-spots-13593336",
+      "title": "South West Water fined almost £8m for sewage spillages at Devon and Cornwall beauty spots",
+      "outlet": "Sky News",
+      "publishedAt": "2026-09-29T16:56:00+01:00",
+      "accessedAt": "2026-10-01T17:16:00+08:00"
+    },
+    {
+      "url": "https://www.itv.com/news/westcountry/2026-09-29/south-west-water-fined-more-than-7m-for-horrendous-sewage-spills",
+      "title": "South West Water fined more than £7m for 'horrendous' sewage spills",
+      "outlet": "ITV News",
+      "publishedAt": "2026-09-29T13:13:00+01:00",
+      "accessedAt": "2026-10-01T17:16:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

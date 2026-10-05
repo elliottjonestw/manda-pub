@@ -1,0 +1,33 @@
+{
+  "name": "Paramount Reaches Warner Settlement",
+  "category": "Business",
+  "date": "2026-09-22",
+  "hskLevel": "HSK 6",
+  "tocflLevel": "5",
+  "image": "/news/images/paramount-warner-settlement.webp",
+  "simplified": "派拉蒙斯凯丹斯9月21日与美国12个州的总检察长达成和解。这些州此前曾因竞争问题起诉，试图阻止该公司收购华纳兄弟探索。\n\n多家媒体说，和解消除了交易面临的一项重要障碍，但收购仍要完成最后步骤。加州总检察长罗布·邦塔说，这项和解并不代表支持合并。\n\n按公开的和解条件，派拉蒙承诺增加美国电影制作，并在一段时间内分别谈判部分有线频道的发行。\n\n公司还承诺设立机制，关注CBS新闻和CNN的编辑独立性。各州将组成委员会监督公司是否遵守和解条件。",
+  "traditional": "派拉蒙斯凱丹斯9月21日與美國12個州的總檢察長達成和解。這些州此前曾因競爭問題起訴，試圖阻止該公司收購華納兄弟探索。\n\n多家媒體說，和解消除了交易面臨的一項重要障礙，但收購仍要完成最後步驟。加州總檢察長羅布·邦塔說，這項和解並不代表支持合併。\n\n按公開的和解條件，派拉蒙承諾增加美國電影製作，並在一段時間內分別談判部分有線頻道的發行。\n\n公司還承諾設立機制，關注CBS新聞和CNN的編輯獨立性。各州將組成委員會監督公司是否遵守和解條件。",
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/paramount-skydance-antitrust-deal-warner-bros-discovery/",
+      "title": "Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase",
+      "outlet": "CBS News",
+      "publishedAt": "2026-09-21T23:58:00Z",
+      "accessedAt": "2026-09-22T09:23:00+08:00"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-09-22/paramount-settles-with-us-states-clearing-way-warner-bros-merger/107179504",
+      "title": "Paramount settles with US states, clearing way for Warner Bros merger",
+      "outlet": "ABC News",
+      "publishedAt": "2026-09-21T20:54:22Z",
+      "accessedAt": "2026-09-22T09:45:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger",
+      "title": "Paramount settles lawsuits with 12 US states, clearing way for Warner merger",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-21T16:52:49Z",
+      "accessedAt": "2026-09-22T09:23:00+08:00"
+    }
+  ]
+}
