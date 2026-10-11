@@ -1,0 +1,33 @@
+{
+  "name": "French Students Protest for School Funding",
+  "category": "Society",
+  "date": "2026-10-07",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/france-school-protests-2026.webp",
+  "simplified": "10月6日，法国多地的高中学生举行游行，要求增加学校资源。教师、家长和工会成员也参加了部分示威活动。\n\n美联社援引政府数据说，当天全国有超过25万人参加集会。这个运动从巴黎地区的一所高中开始，后来扩大到更多城市。\n\n学生提出的问题包括师资不足、班级拥挤和校舍状况。法国政府表示，会处理学生提出的一些合理关切。\n\n部分地点发生了警民冲突，警方使用催泪瓦斯控制人群。本文只记录已获多家报道证实的游行与教育诉求。",
+  "traditional": "10月6日，法國多地的高中學生舉行遊行，要求增加學校資源。教師、家長和工會成員也參加了部分示威活動。\n\n美聯社援引政府數據說，當天全國有超過25萬人參加集會。這個運動從巴黎地區的一所高中開始，後來擴大到更多城市。\n\n學生提出的問題包括師資不足、班級擁擠和校舍狀況。法國政府表示，會處理學生提出的一些合理關切。\n\n部分地點發生了警民衝突，警方使用催淚瓦斯控制人群。本文只記錄已獲多家報導證實的遊行與教育訴求。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/dd78a1a2b80d4c84a92bcdde6f96e988",
+      "title": "French riot police fire tear gas as more than 250,000 rally nationwide for school funding",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-10-06T08:24:50+00:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "outlet": "BBC News",
+      "publishedAt": "2026-10-06T18:03:19+00:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+      "outlet": "NPR",
+      "publishedAt": "2026-10-06",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

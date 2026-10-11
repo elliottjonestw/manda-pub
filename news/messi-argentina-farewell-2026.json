@@ -1,0 +1,33 @@
+{
+  "name": "Messi Plays Final Argentina Match",
+  "category": "Sport",
+  "date": "2026-10-07",
+  "hskLevel": "HSK 4",
+  "image": "/news/images/messi-argentina-farewell-2026.webp",
+  "simplified": "10月6日，莱昂内尔·梅西最后一次代表阿根廷队比赛。阿根廷在布宜诺斯艾利斯和贝宁踢了一场比赛。\n\n这场比赛在阿根廷的首都举行。足球方面把它当成给梅西的告别活动，很多观众到现场参加。\n\n报道说，这是梅西第208次代表阿根廷队。他为球队踢了21年，这段足球历史包括一个世界杯和两次美洲杯。\n\n比赛结束后，梅西不再代表阿根廷队。不过，他还可以选择为俱乐部比赛。",
+  "traditional": "10月6日，萊昂內爾·梅西最後一次代表阿根廷隊比賽。阿根廷在布宜諾斯艾利斯和貝寧踢了一場比賽。\n\n這場比賽在阿根廷的首都舉行。足球方面把它當成給梅西的告別活動，很多觀眾到現場參加。\n\n報導說，這是梅西第208次代表阿根廷隊。他為球隊踢了21年，這段足球歷史包括一個世界盃和兩次美洲盃。\n\n比賽結束後，梅西不再代表阿根廷隊。不過，他還可以選擇為俱樂部比賽。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/d399457f18032c45a996ef953565d535",
+      "title": "Argentina bids Messi farewell in final national team match, ending an era",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-10-06T18:32:57+00:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://news.sky.com/story/messi-scores-in-emotional-farewell-game-for-argentina-13595970",
+      "title": "Messi scores in emotional farewell game for Argentina",
+      "outlet": "Sky News",
+      "publishedAt": "2026-10-07",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/football/live/2026/oct/06/lionel-messi-farewell-match-live-updates-analysis-argentina-benin",
+      "title": "Lionel Messi farewell match live – updates and analysis from Argentina v Benin",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-10-06",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "US Senate Passes College Sports Bill",
+  "category": "Sport",
+  "date": "2026-09-29",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/us-college-sports-act-2026.webp",
+  "simplified": "美国参议院9月28日通过Protect College Sports Act。这项法案想为大学体育建立全国规则。\n\n参议院以77票对22票通过法案。报道说，法案涉及学生运动员的姓名、形象和肖像收入，也涉及转学资格。\n\n支持者认为，大学体育近年因为运动员收入和频繁转学而变得不稳定。批评者则说，法案没有充分保护运动员。\n\n法案还没有成为法律。它仍须经过众议院审议，之后才可能送交总统签署。",
+  "traditional": "美國參議院9月28日通過Protect College Sports Act。這項法案想為大學體育建立全國規則。\n\n參議院以77票對22票通過法案。報導說，法案涉及學生運動員的姓名、形象和肖像收入，也涉及轉學資格。\n\n支持者認為，大學體育近年因為運動員收入和頻繁轉學而變得不穩定。批評者則說，法案沒有充分保護運動員。\n\n法案還沒有成為法律。它仍須經過眾議院審議，之後才可能送交總統簽署。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/a63e3f4e0be41fb95062b2bc5e646f9f",
+      "title": "Senate passes college sports bill that would rein in athlete payments and transfers",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-28T16:12:01Z",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/senate-approves-bill-regulate-college-sports-ncaa/",
+      "title": "Senate approves sweeping bill to regulate college sports, despite opposition from some Democrats",
+      "outlet": "CBS News",
+      "publishedAt": "2026-09-29T02:10:00Z",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    },
+    {
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5977851/protect-college-sports-act-senate-bill-vote",
+      "title": "The Senate passes the Protect College Sports Act, but the bill's future is unclear",
+      "outlet": "NPR",
+      "publishedAt": "2026-09-29T02:16:00Z",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    },
+    {
+      "url": "https://www.cbssports.com/college-football/news/protect-college-sports-act-passes-senate/",
+      "title": "Protect College Sports Act passes Senate: Historic bill faces uncertainty in House",
+      "outlet": "CBS Sports",
+      "publishedAt": "2026-09-29T02:17:00Z",
+      "accessedAt": "2026-09-29T18:16:30+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

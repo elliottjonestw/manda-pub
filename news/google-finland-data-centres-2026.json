@@ -1,0 +1,33 @@
+{
+  "name": "Finland Halts Work on Google Data Centres",
+  "category": "Technology",
+  "date": "2026-10-07",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/google-finland-data-centres-2026.webp",
+  "simplified": "芬兰监管机构要求暂时停止两座计划中的 Google 数据中心工程，理由是环境影响评估程序尚未完成。该行政监管命令涉及穆霍斯和卡亚尼两个地点。\n\n这些工程属于 Google 在芬兰北部多处地点的130亿欧元投资计划。报道说，代表 Google 的公司已在穆霍斯清理约330公顷森林。\n\n监管机构要求公司最迟于10月23日停止会明显改变环境的准备性措施，并在下周提交书面解释。监管机构的行政评估预计在今年晚些时候完成。\n\nGoogle 表示理解外界的担忧，并会研究监管机构的结论、遵循监管程序。公司也说，已进行自然调查，并计划在穆霍斯植树。",
+  "traditional": "芬蘭監管機構要求暫時停止兩座計劃中的 Google 資料中心工程，理由是環境影響評估程序尚未完成。該行政監管命令涉及穆霍斯和卡亞尼兩個地點。\n\n這些工程屬於 Google 在芬蘭北部多處地點的130億歐元投資計劃。報導說，代表 Google 的公司已在穆霍斯清理約330公頃森林。\n\n監管機構要求公司最遲於10月23日停止會明顯改變環境的準備性措施，並在下週提交書面解釋。監管機構的行政評估預計在今年晚些時候完成。\n\nGoogle 表示理解外界的擔憂，並會研究監管機構的結論、遵循監管程序。公司也說，已進行自然調查，並計劃在穆霍斯植樹。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-10-06T14:02:00-04:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o",
+      "title": "Finland orders halt to work on two Google data centres",
+      "outlet": "BBC News",
+      "publishedAt": "2026-10-06T17:15:46+00:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports",
+      "title": "Google AI data center project investigated after Finnish forest demolished",
+      "outlet": "Tom's Hardware",
+      "publishedAt": "2026-10-06",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

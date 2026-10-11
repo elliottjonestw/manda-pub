@@ -1,0 +1,33 @@
+{
+  "name": "US Reports Caribbean Boat Strike",
+  "category": "World",
+  "date": "2026-09-20",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/caribbean-boat-strike.webp",
+  "simplified": "美国军方说，9月19日在加勒比海对一艘被指涉嫌贩毒的船只发动袭击，造成4人死亡。该消息在编辑日期内被多家英语媒体报道。\n\n军方没有公开船只的出发地、死者身份，或证明船上载有毒品的证据。美国政府把这类行动称为打击贩毒的一部分。\n\n美联社和路透社都报道了军方的声明。两家媒体都指出，公开资料仍然有限。\n\n因此，本文只记录军方所称的行动和死亡人数，不把有关船只或人员的指控当作已经独立证实的事实。",
+  "traditional": "美國軍方說，9月19日在加勒比海對一艘被指涉嫌販毒的船隻發動襲擊，造成4人死亡。該消息在編輯日期內被多家英語媒體報道。\n\n軍方沒有公開船隻的出發地、死者身分，或證明船上載有毒品的證據。美國政府把這類行動稱為打擊販毒的一部分。\n\n美聯社和路透社都報道了軍方的聲明。兩家媒體都指出，公開資料仍然有限。\n\n因此，本文只記錄軍方所稱的行動和死亡人數，不把有關船隻或人員的指控當作已經獨立證實的事實。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/95f3d4ae10f8e2a4a193f601101898d9",
+      "title": "US military says it killed four in strike on alleged drug-smuggling boat in the Caribbean",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-20T00:38:15Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/us-says-it-killed-four-people-in-strike-on-vessel-in-caribbean-ce785adad18ff624",
+      "title": "US says it killed four in strike on vessel in the Caribbean",
+      "outlet": "Reuters via MarketScreener",
+      "publishedAt": "2026-09-20T00:20:00Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/4-killed-u-s-strike-drug-boat-caribbean/",
+      "title": "4 killed in U.S. strike on alleged drug-smuggling boat in Caribbean",
+      "outlet": "CBS News",
+      "publishedAt": "2026-09-20T03:55:34Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    }
+  ],
+  "tocflLevel": "5"
+}

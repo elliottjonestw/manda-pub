@@ -1,0 +1,33 @@
+{
+  "name": "Jaguar Unveils Type 01 Electric Car",
+  "category": "Technology",
+  "date": "2026-10-07",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/jaguar-type-01-2026.webp",
+  "simplified": "英国汽车公司捷豹在纽约发布了新的电动车 Type 01。这是该公司重新定位品牌两年后的第一款量产车。\n\n这辆车计划在2027年开始生产，并在同年下半年交付给首批买家。它将由英国的工厂制造。\n\n报道显示，Type 01 长超过5.2米，宽约2米。它没有传统的后窗，而是使用摄像头帮助驾驶者看后方。\n\n捷豹希望这款价格较高的车型吸引较年轻、收入较高的消费者。公司面对的是竞争激烈的电动车市场。",
+  "traditional": "英國汽車公司捷豹在紐約發布了新的電動車 Type 01。這是該公司重新定位品牌兩年後的第一款量產車。\n\n這輛車計劃在2027年開始生產，並在同年下半年交付給首批買家。它將由英國的工廠製造。\n\n報導顯示，Type 01 長超過5.2米，寬約2米。它沒有傳統的後窗，而是使用攝影機幫助駕駛者看後方。\n\n捷豹希望這款價格較高的車型吸引較年輕、收入較高的消費者。公司面對的是競爭激烈的電動車市場。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/business/2026/oct/07/jaguar-launch-type-01-electric-vehicle",
+      "title": "Jaguar targets young Americans with Type 01 EV",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-10-06T20:00:00-04:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o",
+      "title": "From 'woke' ridicule to real car - new electric Jaguar unveiled",
+      "outlet": "BBC News",
+      "publishedAt": "2026-10-07T01:59:24+00:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://news.sky.com/story/jaguar-unveils-new-electric-car-two-years-after-rebrand-backfired-13595969",
+      "title": "Jaguar unveils new electric car - two years after rebrand backfired",
+      "outlet": "Sky News",
+      "publishedAt": "2026-10-07",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Swiss Glaciers Lose 5.5% of Ice",
+  "category": "Nature",
+  "date": "2026-10-01",
+  "hskLevel": "HSK 4",
+  "image": "/news/images/swiss-glacier-loss-2026.webp",
+  "simplified": "瑞士冰川监测网10月1日发布年度报告。报告说，瑞士冰川在2026年前八个月失去了5.5%的冰量，这是有记录以来第二大的年度减少。\n\n研究人员说，冬天的降雪较少，夏天又出现热浪，所以冰川融化得很快。报告还说，许多冰川的平均厚度减少了2.5到4米。\n\n从2021年开始，瑞士冰川已经失去19.4%的冰量。科学家认为，一些较小的冰川今年已经消失。\n\n这项数据来自瑞士冰川监测网和瑞士科学机构。报道没有把这次变化说成已经完成的长期预测，而是说明了今年测到的结果。",
+  "traditional": "瑞士冰川監測網10月1日發布年度報告。報告說，瑞士冰川在2026年前八個月失去了5.5%的冰量，這是有記錄以來第二大的年度減少。\n\n研究人員說，冬天的降雪較少，夏天又出現熱浪，所以冰川融化得很快。報告還說，許多冰川的平均厚度減少了2.5到4米。\n\n從2021年開始，瑞士冰川已經失去19.4%的冰量。科學家認為，一些較小的冰川今年已經消失。\n\n這項數據來自瑞士冰川監測網和瑞士科學機構。報導沒有把這次變化說成已經完成的長期預測，而是說明了今年測到的結果。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o",
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "outlet": "BBC News",
+      "publishedAt": "2026-10-01T00:08:23Z",
+      "accessedAt": "2026-10-01T17:15:00+08:00"
+    },
+    {
+      "url": "https://apnews.com/article/switzerland-glacier-melt-glamos-e847da14ad64ce6a3f188c05636e4b73",
+      "title": "Swiss glaciers lose over 5% of ice volume in 2026",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-30T23:11:58Z",
+      "accessedAt": "2026-10-01T17:15:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-10-01T04:00:00+01:00",
+      "accessedAt": "2026-10-01T17:15:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

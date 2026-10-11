@@ -1,0 +1,33 @@
+{
+  "name": "A New Tiger Cat",
+  "category": "Nature",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/tilcayo-tiger-cat.webp",
+  "simplified": "研究人员近日在《当代生物学》公布一项研究，确认玻利维亚云雾林里的一种小型野猫是新物种。它的学名是Leopardus tilcayo，当地人称它为Tilcayo。\n\n这种猫属于虎猫类。报道说，它的身体约长46厘米，体重约1.4公斤，比普通家猫小。\n\n研究团队利用遗传资料和博物馆标本来分辨这种猫。他们分析了38只猫的DNA，其中包括8件博物馆标本。\n\n研究结果显示，虎猫实际上有5个在遗传上不同的物种。不过，研究人员说，目前对Tilcayo的生活习性还了解不多。",
+  "traditional": "研究人員近日在《當代生物學》公布一項研究，確認玻利維亞雲霧林裡的一種小型野貓是新物種。它的學名是Leopardus tilcayo，當地人稱它為Tilcayo。\n\n這種貓屬於虎貓類。報道說，它的身體約長46厘米，體重約1.4公斤，比普通家貓小。\n\n研究團隊利用遺傳資料和博物館標本來分辨這種貓。他們分析了38隻貓的DNA，其中包括8件博物館標本。\n\n研究結果顯示，虎貓實際上有5個在遺傳上不同的物種。不過，研究人員說，目前對Tilcayo的生活習性還了解不多。",
+  "sources": [
+    {
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "title": "Meet the First New Cat Species Discovered in 100 Years",
+      "outlet": "National Geographic",
+      "publishedAt": "2026-09-17 (time not displayed)",
+      "accessedAt": "2026-09-18T15:20:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+      "title": "New cat species identified for first time in more than a century in Bolivia",
+      "outlet": "The Guardian (Reuters)",
+      "publishedAt": "2026-09-17T16:43:00-04:00",
+      "accessedAt": "2026-09-18T15:20:00+08:00"
+    },
+    {
+      "url": "https://www.karmactive.com/leopardus-tilcayo-new-cat-species-bolivia-yungas-andes-current-biology-2026/",
+      "title": "Scientists named the first new cat species in over a century—it was hiding in museum specimens from Bolivia's Andes",
+      "outlet": "Karmactive",
+      "publishedAt": "2026-09-18 (time not displayed)",
+      "accessedAt": "2026-09-18T15:20:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

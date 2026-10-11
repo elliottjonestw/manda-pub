@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Two school bags beside an open book">
+  <rect width="640" height="360" fill="#e7edf9"/>
+  <circle cx="508" cy="75" r="110" fill="#d2dcf3"/>
+  <circle cx="85" cy="340" r="145" fill="#d2dcf3"/>
+  <path d="M0 286 Q320 256 640 286V360H0Z" fill="#b5c5e6"/>
+  <ellipse cx="320" cy="284" rx="218" ry="24" fill="#9aaed7" opacity=".45"/>
+  <g stroke="#334567" stroke-width="7" stroke-linejoin="round">
+    <path d="M145 140v-24a25 25 0 0 1 50 0v24" fill="none"/>
+    <rect x="108" y="132" width="127" height="144" rx="27" fill="#e6a877"/>
+    <rect x="128" y="205" width="87" height="50" rx="13" fill="#f3c9a7"/>
+    <path d="M439 140v-24a25 25 0 0 1 50 0v24" fill="none"/>
+    <rect x="402" y="132" width="127" height="144" rx="27" fill="#739c9a"/>
+    <rect x="422" y="205" width="87" height="50" rx="13" fill="#b1d0c6"/>
+    <path d="M222 205q48-20 98 3 50-23 98-3v91q-50-19-98 2-50-21-98-2Z" fill="#fffaf0"/>
+    <path d="M320 208v90" fill="none"/>
+  </g>
+  <g stroke="#aab8cc" stroke-width="5" stroke-linecap="round">
+    <path d="M241 228q29-7 58 2m-58 17q29-7 58 2m-58 17q29-7 58 2M341 230q29-9 58-2m-58 21q29-9 58-2m-58 21q29-9 58-2" fill="none"/>
+  </g>
+  <path d="M286 103h68v39h-28l-17 14v-14h-23Z" fill="#fffaf0"/>
+  <g fill="#739c9a"><circle cx="304" cy="122" r="4"/><circle cx="320" cy="122" r="4"/><circle cx="336" cy="122" r="4"/></g>
+</svg>

@@ -1,0 +1,33 @@
+{
+  "name": "England Beat New Zealand Late",
+  "category": "Sport",
+  "date": "2026-09-27",
+  "hskLevel": "HSK 4",
+  "image": "/news/images/england-black-ferns-2026.webp",
+  "simplified": "9月26日，英格兰女子橄榄球队在伦敦以26比19战胜新西兰队。这场比赛属于WXV全球系列赛。\n\n比赛到了加时阶段时，双方仍然以19比19平手。英格兰队的佐伊·哈里森不久前错过一次罚球机会。\n\n新西兰队想把球带回前场，哈里森看准传球后成功拦截。她带球跑到得分区，完成决定胜负的一次达阵。\n\n报道说，现场有59,871名观众。英格兰的连续不败纪录因此增加到41场国际比赛。",
+  "traditional": "9月26日，英格蘭女子橄欖球隊在倫敦以26比19戰勝紐西蘭隊。這場比賽屬於WXV全球系列賽。\n\n比賽到了加時階段時，雙方仍然以19比19平手。英格蘭隊的佐伊·哈里森不久前錯過一次罰球機會。\n\n紐西蘭隊想把球帶回前場，哈里森看準傳球後成功攔截。她帶球跑到得分區，完成決定勝負的一次達陣。\n\n報導說，現場有59,871名觀眾。英格蘭的連續不敗紀錄因此增加到41場國際比賽。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje3r46ll3lwo",
+      "title": "England's Harrison scores last-gasp try to beat Black Ferns",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-26T16:12:27Z",
+      "accessedAt": "2026-09-27T16:01:50+08:00"
+    },
+    {
+      "url": "https://www.aol.co.uk/articles/zoe-harrison-rescues-red-roses-161855000.html",
+      "title": "Zoe Harrison rescues Red Roses with thrilling last-gasp try against New Zealand",
+      "outlet": "The Guardian via AOL",
+      "publishedAt": "2026-09-26T19:00:00Z",
+      "accessedAt": "2026-09-27T16:01:50+08:00"
+    },
+    {
+      "url": "https://sports.yahoo.com/articles/harrison-try-gives-red-roses-162007873.html",
+      "title": "Harrison’s late try gives Red Roses victory over New Zealand in Twickenham thriller",
+      "outlet": "The Telegraph via Yahoo Sports",
+      "publishedAt": "2026-09-26T16:20:00Z",
+      "accessedAt": "2026-09-27T16:01:50+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

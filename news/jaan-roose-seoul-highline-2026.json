@@ -1,0 +1,33 @@
+{
+  "name": "Jaan Roose Completes Seoul Highline",
+  "category": "Sport",
+  "date": "2026-10-03",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/jaan-roose-seoul-highline-2026.webp",
+  "simplified": "十月一日，爱沙尼亚走绳运动员扬·鲁斯在首尔市中心完成了一次高空走绳表演。多家报道说，这是当地首次在市中心高楼之间举行这类表演。\n\n鲁斯在离地约120米处走过一条160米长的绳带。这条绳带连接两座建筑，他全程使用安全绳。\n\n他到达对面后又返回起点，整个来回大约用了27分钟。途中，他还做了几个平衡动作。\n\n鲁斯曾三次获得走绳世界冠军。报道指出，城市环境中的准备工作特别复杂，因为主办方必须评估两座建筑之间设置绳带是否可行。",
+  "traditional": "十月一日，愛沙尼亞走繩運動員揚·魯斯在首爾市中心完成了一次高空走繩表演。多家報導說，這是當地首次在市中心高樓之間舉行這類表演。\n\n魯斯在離地約120米處走過一條160米長的繩帶。這條繩帶連接兩座建築，他全程使用安全繩。\n\n他到達對面後又返回起點，整個來回大約用了27分鐘。途中，他還做了幾個平衡動作。\n\n魯斯曾三次獲得走繩世界冠軍。報導指出，城市環境中的準備工作特別複雜，因為主辦方必須評估兩座建築之間設置繩帶是否可行。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
+      "title": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-10-01T06:04:17Z",
+      "accessedAt": "2026-10-03T16:06:00+08:00"
+    },
+    {
+      "url": "https://www.koreajoongangdaily.com/lifestyle/koreas-first-highline-a-miracle-for-estonian-slackliner-jaan-roose/12899973",
+      "title": "Korea's first highline a 'miracle' for Estonian slackliner Jaan Roose",
+      "outlet": "Korea JoongAng Daily",
+      "publishedAt": "2026-10-01T17:37:00+09:00",
+      "accessedAt": "2026-10-03T16:06:00+08:00"
+    },
+    {
+      "url": "https://www.koreatimes.co.kr/amp/southkorea/society/20261001/cover-story-120-meters-above-seoul-slackliner-stuns-crowds",
+      "title": "120 meters above Seoul, slackliner stuns crowds",
+      "outlet": "The Korea Times",
+      "publishedAt": "2026-10-01T15:45:00+09:00",
+      "accessedAt": "2026-10-03T16:06:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

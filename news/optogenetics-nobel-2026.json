@@ -1,0 +1,33 @@
+{
+  "name": "Three Scientists Share Medicine Nobel",
+  "category": "Science",
+  "date": "2026-10-07",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/optogenetics-nobel-2026.webp",
+  "simplified": "2026年诺贝尔生理学或医学奖授予卡尔·戴瑟罗特、彼得·黑格曼和格奥尔格·纳格尔，以表彰他们对光控离子通道和光遗传学的发现。\n\n三人的研究促成一种可利用光控制活体脑内神经细胞的技术。相关蛋白质在光照下会让离子进入细胞，从而产生电信号。\n\n报道显示，这项技术让研究人员能更精确地研究神经回路与行为、记忆之间的关系。它也为一些神经系统疾病的研究打开了新路径。\n\n奖项由瑞典卡罗琳斯卡医学院的诺贝尔大会于10月5日公布。三位得主将平分1200万瑞典克朗奖金。",
+  "traditional": "2026年諾貝爾生理學或醫學獎授予卡爾·戴瑟羅特、彼得·黑格曼和格奧爾格·納格爾，以表彰他們對光控離子通道和光遺傳學的發現。\n\n三人的研究促成一種可利用光控制活體腦內神經細胞的技術。相關蛋白質在光照下會讓離子進入細胞，從而產生電信號。\n\n報導顯示，這項技術讓研究人員能更精確地研究神經迴路與行為、記憶之間的關係。它也為一些神經系統疾病的研究打開了新路徑。\n\n獎項由瑞典卡羅琳斯卡醫學院的諾貝爾大會於10月5日公布。三位得主將平分1200萬瑞典克朗獎金。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/2efe9ee7eae9d808fd49a6da1f53ceba",
+      "title": "Nobel medicine prize goes to 3 scientists for shining light on brain activity",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-10-05T07:01:36+00:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+      "outlet": "NPR",
+      "publishedAt": "2026-10-05T06:11:33-04:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner",
+      "title": "Nobel prize in medicine 2026 awarded for research into mysteries of brain",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-10-05T05:52:00-04:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

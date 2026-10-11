@@ -1,0 +1,1 @@
+import{G as e}from"./GlobalSearch-CNXk21UP.js";import{r as t}from"./wordIdentity-DZ9Bc6Jq.js";function n(n){let r=t(n);return e(n.traditional||n.simplified).find(e=>t(e)===r)??e(n.simplified).find(e=>t(e)===r)}function r(e){return e?.words.flatMap(([e,t])=>{let r=n({simplified:e,traditional:t});return r?[r]:[]})??[]}export{n,r as t};

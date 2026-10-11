@@ -1,0 +1,33 @@
+{
+  "name": "WHO Says Plague Risk Is Very Low",
+  "category": "Health",
+  "date": "2026-10-07",
+  "hskLevel": "HSK 4",
+  "image": "/news/images/russia-plague-risk-2026.webp",
+  "simplified": "世界卫生组织说，俄罗斯一名实验室工作人员死亡后，其他国家面对的风险很低。有关部门还在调查这名工作人员的死因。\n\n这名工作人员在10月2日去世。她在俄罗斯伊尔库茨克的一家研究机构工作。\n\n一些报道曾说，她可能感染了肺鼠疫。不过，俄罗斯方面说，目前没有确认当地出现这种疾病的病例。\n\n世界卫生组织表示，已了解有关情况。它说，没有发现更大范围暴发的证据。",
+  "traditional": "世界衛生組織說，俄羅斯一名實驗室工作人員死亡後，其他國家面對的風險很低。有關部門還在調查這名工作人員的死因。\n\n這名工作人員在10月2日去世。她在俄羅斯伊爾庫茨克的一家研究機構工作。\n\n一些報導曾說，她可能感染了肺鼠疫。不過，俄羅斯方面說，目前沒有確認當地出現這種疾病的病例。\n\n世界衛生組織表示，已了解有關情況。它說，沒有發現更大範圍暴發的證據。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/5aa82b8bc3d8300c551cd0e1bf91e32c",
+      "title": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-10-06T12:16:43+00:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who",
+      "title": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-10-06T08:38:00-04:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    },
+    {
+      "url": "https://news.sky.com/story/ukhsa-says-risk-of-plague-very-low-after-russian-laboratory-worker-dies-of-suspected-pneumonic-plague-13595782",
+      "title": "UKHSA says risk of plague 'very low' after Russian laboratory worker dies",
+      "outlet": "Sky News",
+      "publishedAt": "2026-10-06T14:40:00+01:00",
+      "accessedAt": "2026-10-07T10:40:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

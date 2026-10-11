@@ -1,0 +1,33 @@
+{
+  "name": "Emmy Awards Move to Prime Video",
+  "category": "Culture",
+  "date": "2026-10-07",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/emmys-prime-video-2026.webp",
+  "simplified": "电视学院和亚马逊宣布，艾美奖将从2027年开始在 Prime Video 上全球播出。这项合作将持续六年。\n\n过去几十年，艾美奖由几家美国电视台轮流播出。新协议会让这个颁奖礼有一个固定的平台。\n\n报道说，观众不需要订阅 Prime Video，也可以免费收看。该服务计划在240多个国家和地区直播。\n\n双方没有公布交易金额。它们说，希望让更多地方的观众观看电视节目和创作者获得的奖项。",
+  "traditional": "電視學院和亞馬遜宣布，艾美獎將從2027年開始在 Prime Video 上全球播出。這項合作將持續六年。\n\n過去幾十年，艾美獎由幾家美國電視台輪流播出。新協議會讓這個頒獎禮有一個固定的平台。\n\n報導說，觀眾不需要訂閱 Prime Video，也可以免費收看。該服務計畫在240多個國家和地區直播。\n\n雙方沒有公布交易金額。它們說，希望讓更多地方的觀眾觀看電視節目和創作者獲得的獎項。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/emmys-awards-prime-video-amazon-television-academy-71d31be97a3e17d6289b6de36cd8f530",
+      "title": "Emmy Awards to move to Prime Video in 2027 in 6-year deal between Amazon and the Television Academy",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-10-06T17:46:58Z",
+      "accessedAt": "2026-10-07T19:20:00+08:00"
+    },
+    {
+      "url": "https://www.axios.com/2026/10/06/emmys-will-move-to-amazon-prime",
+      "title": "Emmys will move to Amazon Prime",
+      "outlet": "Axios",
+      "publishedAt": "2026-10-06T17:46:58Z",
+      "accessedAt": "2026-10-07T19:20:00+08:00"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+      "outlet": "TechCrunch",
+      "publishedAt": "2026-10-06T14:37:00-07:00",
+      "accessedAt": "2026-10-07T19:20:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

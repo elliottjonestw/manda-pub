@@ -1,0 +1,33 @@
+{
+  "name": "Manchester City Beats Arsenal 4-2",
+  "category": "Sport",
+  "date": "2026-10-05",
+  "hskLevel": "HSK 4",
+  "image": "/news/images/man-city-arsenal-wsl-2026.webp",
+  "simplified": "10月4日，曼城女足在英格兰女子超级联赛中以4比2战胜阿森纳女足。比赛在曼彻斯特的伊蒂哈德球场举行。\n\n阿森纳先两次进球，进球的是丽莎·鲍姆和阿莱西亚·鲁索。曼城的劳伦·亨普在上半场追平比分，后来又进了一球。\n\n替补上场的克斯滕·卡斯帕里也为曼城进球。卡迪贾·肖在比赛快结束时进球，帮助曼城赢得比赛。\n\n曼城已经赢了本赛季开始后的五场联赛，现在回到积分榜第一名。阿森纳五场比赛只赢了一场，和曼城相差10分。",
+  "traditional": "10月4日，曼城女足在英格蘭女子超級聯賽中以4比2戰勝阿森納女足。比賽在曼徹斯特的伊蒂哈德球場舉行。\n\n阿森納先兩次進球，進球的是麗莎·鮑姆和阿萊西亞·魯索。曼城的勞倫·亨普在上半場追平比分，後來又進了一球。\n\n替補上場的克斯滕·卡斯帕里也為曼城進球。卡迪賈·肖在比賽快結束時進球，幫助曼城贏得比賽。\n\n曼城已經贏了本賽季開始後的五場聯賽，現在回到積分榜第一名。阿森納五場比賽只贏了一場，和曼城相差10分。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/football/2026/oct/04/manchester-city-arsenal-wsl-match-report",
+      "title": "Shaw seals Manchester City's thrilling 4-2 win over Arsenal to keep up 100% WSL run",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-10-04T14:07:00-04:00",
+      "accessedAt": "2026-10-05T18:47:57+08:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/13594349/man-city-4-2-arsenal-wsl-champions-come-from-behind-in-thriller-to-ramp-up-pressure-on-renee-slegers-and-the-gunners",
+      "title": "Man City 4-2 Arsenal: WSL champions come from behind in thriller to ramp up pressure on Renee Slegers and the Gunners",
+      "outlet": "Sky Sports",
+      "publishedAt": "2026-10-04T18:34:00+01:00",
+      "accessedAt": "2026-10-05T18:47:57+08:00"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sport/football/live/cm2dwyk2gg3nt",
+      "title": "Man City top table after thrilling comeback win over Arsenal",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-10-04",
+      "accessedAt": "2026-10-05T18:47:57+08:00"
+    }
+  ],
+  "tocflLevel": null
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Hōlei Sea Arch Collapses in Hawaii",
+  "category": "Nature",
+  "date": "2026-10-03",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/holei-sea-arch-collapse-2026.webp",
+  "simplified": "夏威夷火山国家公园的霍雷海蚀拱已经倒塌。这座由火山岩形成的海边地标大约有550年历史，高约27米。\n\n公园方面在十月一日证实了这个消息。工作人员不知道它在何时倒塌，但在九月二十三日关闭公园前，它还在那里。\n\n公园在九月二十八日重新开放时，这座拱已经消失。强烈的海浪长期侵蚀岩石，而它本来就不稳定。\n\n国家公园管理局提醒游客远离不稳定的悬崖边。报道没有把这次变化归因于某一场风暴。",
+  "traditional": "夏威夷火山國家公園的霍雷海蝕拱已經倒塌。這座由火山岩形成的海邊地標大約有550年歷史，高約27米。\n\n公園方面在十月一日證實了這個消息。工作人員不知道它在何時倒塌，但在九月二十三日關閉公園前，它還在那裡。\n\n公園在九月二十八日重新開放時，這座拱已經消失。強烈的海浪長期侵蝕岩石，而它本來就不穩定。\n\n國家公園管理局提醒遊客遠離不穩定的懸崖邊。報導沒有把這次變化歸因於某一場風暴。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo",
+      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "outlet": "BBC News",
+      "publishedAt": "2026-10-02T21:00:41Z",
+      "accessedAt": "2026-10-03T16:06:00+08:00"
+    },
+    {
+      "url": "https://kesq.com/entertainment/cnn-style/2026/10/02/hawaiis-famed-holei-sea-arch-has-collapsed/",
+      "title": "Hawaii's famed Hōlei Sea Arch has collapsed",
+      "outlet": "CNN via KESQ",
+      "publishedAt": "2026-10-02T06:57:00-07:00",
+      "accessedAt": "2026-10-03T16:06:00+08:00"
+    },
+    {
+      "url": "https://www.hawaiipublicradio.org/local-news/2026-10-01/the-holei-sea-arch-has-collapsed",
+      "title": "The Hōlei Sea Arch has collapsed",
+      "outlet": "Hawaiʻi Public Radio",
+      "publishedAt": "2026-10-01T09:38:00-10:00",
+      "accessedAt": "2026-10-03T16:06:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

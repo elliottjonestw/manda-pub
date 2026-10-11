@@ -1,0 +1,33 @@
+{
+  "name": "Rangers Beat Celtic Again",
+  "category": "Sport",
+  "date": "2026-09-22",
+  "hskLevel": "HSK 3",
+  "tocflLevel": "4",
+  "image": "/news/images/rangers-celtic-derby.webp",
+  "simplified": "9月20日，流浪者队在苏格兰足球比赛中1比0赢了凯尔特人队。纳德里进了一个球。\n\n比赛在凯尔特人主场举行。上半场，流浪者队已经领先。\n\n后来，凯尔特人有机会把分数变成一样，但是没有成功。流浪者队的守门员也救了几个球。\n\n这是两队一周里第二次比赛。流浪者队又赢了，凯尔特人队在联赛的领先变小。",
+  "traditional": "9月20日，流浪者隊在蘇格蘭足球比賽中1比0贏了凱爾特人隊。納德里進了一個球。\n\n比賽在凱爾特人主場舉行。上半場，流浪者隊已經領先。\n\n後來，凱爾特人有機會把分數變成一樣，但是沒有成功。流浪者隊的守門員也救了幾個球。\n\n這是兩隊一週裡第二次比賽。流浪者隊又贏了，凱爾特人隊在聯賽的領先變小。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/videos/cwn74pkz6d6xo",
+      "title": "Rangers beat Celtic again thanks to Naderi goal",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-21T09:00:55Z",
+      "accessedAt": "2026-09-22T09:28:00+08:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/13584496/celtic-0-1-rangers-ryan-naderi-hands-gers-second-old-firm-win-in-seven-days-to-cut-hoops-premiership-lead",
+      "title": "Celtic 0-1 Rangers: Ryan Naderi hands Gers second Old Firm win",
+      "outlet": "Sky Sports",
+      "publishedAt": "2026-09-20T21:14:00Z",
+      "accessedAt": "2026-09-22T09:28:00+08:00"
+    },
+    {
+      "url": "https://sportpul.com/en/football/news/2026/09/20/ryan-naderi-strikes-as-rangers-beat-celtic-again_19562/",
+      "title": "Ryan Naderi strikes as Rangers beat Celtic again",
+      "outlet": "Sportpul",
+      "publishedAt": "2026-09-20",
+      "accessedAt": "2026-09-22T09:45:00+08:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Nigeria Opens Custody Inquiry",
+  "category": "World",
+  "date": "2026-09-19",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/nigeria-custody-inquiry.webp",
+  "simplified": "尼日利亚尼日尔州有37名因涉嫌非法采矿而被拘留的人死亡，引发了调查和抗议。有关报道于9月18日发表，按台北时间属于9月19日的新闻。\n\n这些人被关押在尼日利亚安全与民防队的设施内。官员最初提到可能有疾病，但也说仍须透过医学检查确定死因；因此，报道不把任何一种说法当成结论。\n\n尼日利亚内政部长已暂停该州民防队指挥官的职务，州政府也表示会调查事件。美联社、卫报和半岛电视台都报道，遇难者家属和当地居民要求获得解释。\n\n抗议期间，警方使用催泪瓦斯，州政府实施了宵禁。事件的核心问题仍在调查中：37人在拘留期间死亡的确切原因，以及相关机构是否履行了保护被拘留者的责任。",
+  "traditional": "尼日利亞尼日爾州有37名因涉嫌非法採礦而被拘留的人死亡，引發了調查和抗議。有關報道於9月18日發表，按台北時間屬於9月19日的新聞。\n\n這些人被關押在尼日利亞安全與民防隊的設施內。官員最初提到可能有疾病，但也說仍須透過醫學檢查確定死因；因此，報道不把任何一種說法當成結論。\n\n尼日利亞內政部長已暫停該州民防隊指揮官的職務，州政府也表示會調查事件。美聯社、衛報和半島電視台都報道，遇難者家屬和當地居民要求獲得解釋。\n\n抗議期間，警方使用催淚瓦斯，州政府實施了宵禁。事件的核心問題仍在調查中：37人在拘留期間死亡的確切原因，以及相關機構是否履行了保護被拘留者的責任。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/222ac9d300c15c628ebcdacfea01f86a",
+      "title": "Nigeria investigates deaths of 37 people in custody after arrests at illegal mining sites",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-18T09:58:27Z",
+      "accessedAt": "2026-09-19T16:12:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
+      "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-18T16:49:00+01:00",
+      "accessedAt": "2026-09-19T16:12:00+08:00"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/9/18/nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects",
+      "title": "Nigerian police probe death in custody of 37 illegal mining suspects",
+      "outlet": "Al Jazeera",
+      "publishedAt": "2026-09-18 (page date; timezone not stated)",
+      "accessedAt": "2026-09-19T16:12:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

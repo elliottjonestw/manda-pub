@@ -1,0 +1,1 @@
+function e(e){try{return encodeURIComponent(decodeURIComponent(e))}catch{return encodeURIComponent(e)}}function t(t,n){let r=n.replace(/^\/+/,``).split(`/`).map(e).join(`/`);return`${t.endsWith(`/`)?t:`${t}/`}${r}`}function n(e,n){return t(e,`epub-books/${n}`)}export{t as n,n as t};

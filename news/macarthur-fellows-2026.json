@@ -1,0 +1,33 @@
+{
+  "name": "MacArthur Names 20 New Fellows",
+  "category": "Culture",
+  "date": "2026-10-01",
+  "hskLevel": "HSK 4",
+  "image": "/news/images/macarthur-fellows-2026.webp",
+  "simplified": "麦克阿瑟基金会9月29日公布了2026年的20位研究员。他们来自艺术、科学和社会研究等不同领域。\n\n每位研究员会在五年内得到80万美元。这笔钱没有规定用途，获奖者可以自己决定怎样使用。\n\n报道说，研究员不能申请这个奖项，也不参加评选过程。基金会会经过多年的推荐和讨论，最后选出人选。\n\n今年的名单包括音乐家、艺术家、科学家和研究人员。本文只说明基金会公布的人数、奖金和选择方式，不评价个人作品或研究成果。",
+  "traditional": "麥克阿瑟基金會9月29日公布了2026年的20位研究員。他們來自藝術、科學和社會研究等不同領域。\n\n每位研究員會在五年內得到80萬美元。這筆錢沒有規定用途，獲獎者可以自己決定怎樣使用。\n\n報導說，研究員不能申請這個獎項，也不參加評選過程。基金會會經過多年的推薦和討論，最後選出人選。\n\n今年的名單包括音樂家、藝術家、科學家和研究人員。本文只說明基金會公布的人數、獎金和選擇方式，不評價個人作品或研究成果。",
+  "sources": [
+    {
+      "url": "https://apnews.com/article/macarthur-foundation-fellows-genius-grant-list-bea43976f1d35d706b49dadfdc8ed8fd",
+      "title": "The MacArthur Foundation’s ‘genius’ fellows: The full 2026 class list",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-29T16:06:59Z",
+      "accessedAt": "2026-10-01T17:18:00+08:00"
+    },
+    {
+      "url": "https://www.wlrn.org/npr-breaking-news/2026-09-29/meet-the-20-scholars-and-artists-whove-just-won-macarthur-fellowships",
+      "title": "Meet the 20 scholars and artists who've just won MacArthur Fellowships",
+      "outlet": "NPR",
+      "publishedAt": "2026-09-29T12:01:00-04:00",
+      "accessedAt": "2026-10-01T17:18:00+08:00"
+    },
+    {
+      "url": "https://www.washingtonpost.com/nation/2026/09/29/macarthur-foundation-names-20-recipients-genius-grants/",
+      "title": "MacArthur Foundation names 20 recipients for the ‘genius grants’",
+      "outlet": "The Washington Post",
+      "publishedAt": "2026-09-29T11:01:00-04:00",
+      "accessedAt": "2026-10-01T17:18:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

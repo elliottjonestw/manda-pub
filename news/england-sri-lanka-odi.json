@@ -1,0 +1,40 @@
+{
+  "name": "England Beats Sri Lanka in ODI",
+  "category": "Sport",
+  "date": "2026-09-23",
+  "hskLevel": "HSK 4",
+  "tocflLevel": "4",
+  "image": "/news/images/england-sri-lanka-odi.webp",
+  "simplified": "9月22日，英格兰队和斯里兰卡队打了一场板球比赛。比赛在英国的切斯特勒街举行。\n\n英格兰队以89分的优势赢了第一场一天比赛。威尔·杰克斯在比赛中打球，也投球。\n\n杰克斯得到46分，还拿到五个出局。他被选为这场比赛最好的球员。\n\n两队还会再比赛。英格兰队现在在这个系列中领先。",
+  "traditional": "9月22日，英格蘭隊和斯里蘭卡隊打了一場板球比賽。比賽在英國的切斯特勒街舉行。\n\n英格蘭隊以89分的優勢贏了第一場一天比賽。威爾·傑克斯在比賽中打球，也投球。\n\n傑克斯得到46分，還拿到五個出局。他被選為這場比賽最好的球員。\n\n兩隊還會再比賽。英格蘭隊現在在這個系列中領先。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo",
+      "title": "Jacks stars as England grind out win over Sri Lanka",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-22T19:08:52Z",
+      "accessedAt": "2026-09-23T16:06:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/sport/2026/sep/22/first-blood-to-england-in-odi-series-after-will-jacks-helps-see-off-sri-lanka",
+      "title": "First blood to England in ODI series after Will Jacks helps see off Sri Lanka",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-22T21:00:00Z",
+      "accessedAt": "2026-09-23T16:06:00+08:00"
+    },
+    {
+      "url": "https://www.skysports.com/cricket/news/13590865/england-vs-sri-lanka-harry-brook-hails-outstanding-will-jacks-for-growing-in-new-role-after-spinner-takes-five-for-in-first-odi",
+      "title": "England beat Sri Lanka after Jacks five-for",
+      "outlet": "Sky Sports",
+      "publishedAt": "2026-09-22T23:42:00Z",
+      "accessedAt": "2026-09-23T16:06:00+08:00"
+    },
+    {
+      "url": "https://www.ipl.com/cricket/news/england-vs-sri-lanka-1st-odi-will-jacks-five-wicket-haul-helps-england-win-by-89-runs/",
+      "title": "Will Jacks' five-wicket haul helps England win by 89 runs",
+      "outlet": "IPL",
+      "publishedAt": "2026-09-23T00:00:00Z",
+      "accessedAt": "2026-09-23T16:06:00+08:00"
+    }
+  ]
+}

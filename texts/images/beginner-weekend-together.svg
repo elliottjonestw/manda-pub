@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="A park lake with trees, a path and a bench">
+  <rect width="640" height="360" fill="#dfefed"/>
+  <circle cx="460" cy="82" r="39" fill="#efc97f"/>
+  <path d="M0 182Q128 120 250 170T640 161v199H0Z" fill="#a2c3ac"/>
+  <path d="M0 259q156-64 323-33t317 4v130H0Z" fill="#739f8b"/>
+  <ellipse cx="331" cy="253" rx="174" ry="54" fill="#9ac9cc"/>
+  <path d="M191 254h70m42 18h95m-19-40h61" fill="none" stroke="#d6e9e5" stroke-width="6" stroke-linecap="round"/>
+  <path d="M461 185q-75 10-37 38t-23 85q-29 23-59 52h88q33-27 34-44 12-38-12-79t27-51Z" fill="#e9d7b7"/>
+  <g stroke="#42685b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M106 91v146m447-119v135" fill="none"/>
+    <path d="M57 152q-12-30 12-46-8-36 32-45 38-6 46 26 35 16 22 47 20 40-16 50-20 10-45-2-43 18-51-30Z" fill="#85ad8c"/>
+    <path d="M515 171q-16-29 8-45-1-30 27-37 34-5 44 26 23 10 18 33 14 30-10 40-22 8-46-3-32 11-41-14Z" fill="#85ad8c"/>
+    <path d="M71 278h113v28H71Zm9 29v23m96-23v23M83 277v-26h90v26" fill="#c6a67b"/>
+  </g>
+  <path d="M229 92q14-14 28 0 14-14 28 0" fill="none" stroke="#6b9391" stroke-width="5" stroke-linecap="round"/>
+</svg>

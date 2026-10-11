@@ -1,0 +1,33 @@
+{
+  "name": "US Announces AI Force Plan",
+  "category": "Technology",
+  "date": "2026-09-20",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/us-ai-force-plan.webp",
+  "simplified": "美国总统特朗普9月19日说，他计划成立一个名为“AI Force”的新组织，并将任命一名人工智能负责人。按编辑时区换算后，这项消息的报道日期是9月20日。\n\n他没有说明这个组织会放在哪里、负责什么工作，或有多少预算。\n\n报道说，他反对因为安全担忧而放慢人工智能发展，并表示政府会支持这个行业成长。\n\n多家报道也指出，科技公司和研究人员近来对先进人工智能的安全问题提出了更多担忧。这个计划目前仍是宣布，具体安排尚未公布。",
+  "traditional": "美國總統特朗普9月19日說，他計畫成立一個名為「AI Force」的新組織，並將任命一名人工智慧負責人。按編輯時區換算後，這項消息的報道日期是9月20日。\n\n他沒有說明這個組織會放在哪裡、負責什麼工作，或有多少預算。\n\n報道說，他反對因為安全擔憂而放慢人工智慧發展，並表示政府會支持這個行業成長。\n\n多家報道也指出，科技公司和研究人員近來對先進人工智慧的安全問題提出了更多擔憂。這個計畫目前仍是宣布，具體安排尚未公布。",
+  "sources": [
+    {
+      "url": "https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety",
+      "title": "Trump wants a new AI czar and an AI Force modeled on Space Force",
+      "outlet": "Axios",
+      "publishedAt": "2026-09-19T19:20:28Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/trump-vows-ai-force-czar-development/",
+      "title": "Trump vows to form AI Force, says he won't allow slowdown of AI development",
+      "outlet": "CBS News",
+      "publishedAt": "2026-09-19T18:52:00Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "title": "Trump says it's time to rebrand AI and is also creating an AI Force",
+      "outlet": "TechCrunch",
+      "publishedAt": "2026-09-19T19:57:00Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

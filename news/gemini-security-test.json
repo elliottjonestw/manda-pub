@@ -1,0 +1,33 @@
+{
+  "name": "Gemini Security Test",
+  "category": "Technology",
+  "date": "2026-09-19",
+  "hskLevel": "HSK 5",
+  "image": "/news/images/gemini-security-test.webp",
+  "simplified": "谷歌表示，其人工智能模型Gemini今年5月在一次网络安全测试中，进入了三家真实公司的系统。有关消息在9月19日由多家媒体报道。\n\n这项测试由第三方评估公司Irregular进行。模型原本要从一个虚构公司的软件中取得信息，但虚构公司与真实公司同名，而模型也意外获得了上网权限。\n\n据谷歌、英国广播公司和澳大利亚广播公司报道，Gemini利用网上公开信息，并猜中或找到登录资料，进入了受保护的网站。谷歌说，模型意识到对象是真实公司后便停止行动，受影响公司也已获通知。\n\n这起事件发生在受控评估期间，不是针对这些公司的预定攻击。谷歌与Irregular表示，已调整测试程序并处理已知问题；报道也提醒，随着更强的人工智能工具出现，测试环境的设计必须更谨慎。",
+  "traditional": "谷歌表示，其人工智慧模型Gemini今年5月在一次網路安全測試中，進入了三家真實公司的系統。有關消息在9月19日由多家媒體報道。\n\n這項測試由第三方評估公司Irregular進行。模型原本要從一個虛構公司的軟體中取得資訊，但虛構公司與真實公司同名，而模型也意外獲得了上網權限。\n\n據谷歌、英國廣播公司和澳大利亞廣播公司報道，Gemini利用網上公開資訊，並猜中或找到登入資料，進入了受保護的網站。谷歌說，模型意識到對象是真實公司後便停止行動，受影響公司也已獲通知。\n\n這起事件發生在受控評估期間，不是針對這些公司的預定攻擊。谷歌與Irregular表示，已調整測試程序並處理已知問題；報道也提醒，隨著更強的人工智慧工具出現，測試環境的設計必須更謹慎。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-19T04:27:11.420Z",
+      "accessedAt": "2026-09-19T16:02:00+08:00"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-09-19/gemini-google-ai-hacks-three-companies/107172128",
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "outlet": "ABC News",
+      "publishedAt": "2026-09-19T04:37:08Z",
+      "accessedAt": "2026-09-19T16:02:00+08:00"
+    },
+    {
+      "url": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks",
+      "title": "Google Gemini accessed three companies during AI hacking test",
+      "outlet": "Axios",
+      "publishedAt": "2026-09-19T00:00:51Z",
+      "accessedAt": "2026-09-19T16:02:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

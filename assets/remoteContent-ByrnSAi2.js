@@ -1,0 +1,1 @@
+import{Z as e}from"./GlobalSearch-CNXk21UP.js";import{i as t}from"./license-CLqgKGFF.js";var n=`https://mandachinese.com/`;function r(){return t()&&typeof navigator<`u`&&navigator.onLine!==!1}function i(e){return r()?[n,e]:[e]}async function a(t,n=4e3){return e(t,{timeoutMs:n})}export{r as i,i as n,a as r,n as t};

@@ -1,0 +1,33 @@
+{
+  "name": "Palace’s European Start",
+  "category": "Football",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/palace-europa-debut.webp",
+  "simplified": "水晶宫队9月17日在主场以4比0击败波兹南莱赫队，赢得队史第一场欧联杯比赛。\n\n耶雷米·皮诺在第10分钟率先得分。克里斯·理查兹随后头球破门。\n\n约尔根·斯特兰德·拉森利用点球扩大比分。替补上场的埃迪·恩凯蒂亚在第89分钟攻入第四球。\n\n这场比赛在塞尔赫斯特公园球场举行，是水晶宫队首次参加欧联杯。",
+  "traditional": "水晶宮隊9月17日在主場以4比0擊敗波茲南萊赫隊，贏得隊史第一場歐聯盃比賽。\n\n耶雷米·皮諾在第10分鐘率先得分。克里斯·理查茲隨後頭球破門。\n\n約爾根·斯特蘭德·拉森利用點球擴大比分。替補上場的埃迪·恩凱蒂亞在第89分鐘攻入第四球。\n\n這場比賽在塞爾赫斯特公園球場舉行，是水晶宮隊首次參加歐聯盃。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/football/2026/sep/17/crystal-palace-lech-poznan-europa-league-match-report",
+      "title": "Pino kickstarts Crystal Palace’s Europa League rout of Lech Poznan",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-17T23:03:00+02:00",
+      "accessedAt": "2026-09-18T16:22:00+08:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11706/13588937/crystal-palace-4-0-lech-poznan-eagles-breeze-past-polish-champions-to-record-victory-on-first-europa-league-outing",
+      "title": "Crystal Palace 4-0 Lech Poznan",
+      "outlet": "Sky Sports",
+      "publishedAt": "2026-09-17T23:32:00+01:00",
+      "accessedAt": "2026-09-18T16:22:00+08:00"
+    },
+    {
+      "url": "https://readcrystalpalace.com/2026/09/17/crystal-palace-4-0-lech-poznan-europa-league-debut-match-report/",
+      "title": "Crystal Palace 4-0 Lech Poznań: Dream Europa League Debut",
+      "outlet": "Read Crystal Palace",
+      "publishedAt": "2026-09-17T22:41:00+01:00",
+      "accessedAt": "2026-09-18T16:22:00+08:00"
+    }
+  ],
+  "tocflLevel": null
+}

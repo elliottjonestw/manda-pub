@@ -1,0 +1,33 @@
+{
+  "name": "Google Tests AI Hardware in Orbit",
+  "category": "Technology",
+  "date": "2026-10-02",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/google-suncatcher-orbit-2026.webp",
+  "simplified": "谷歌十月一日把一颗实验卫星送入轨道。这是“太阳捕手”计划的第一项在轨测试，目的是研究人工智能计算设备能否在太空中稳定工作。\n\n这颗原型卫星由谷歌与 Planet 公司合作制造，并随 SpaceX 的拼车发射任务升空。谷歌随后确认，团队已与卫星建立联系，它正在按预期运行。\n\n卫星带有四个谷歌张量处理器。接下来的数周，研究人员会观察这些芯片在发射震动、辐射和极端温度下的表现。\n\n这项任务仍是长期研究的一小步，并不等于已经在太空建成数据中心。它收集的数据将用于改进后续设计。",
+  "traditional": "Google 十月一日把一顆實驗衛星送入軌道。這是「太陽捕手」計畫的第一項在軌測試，目的是研究人工智慧運算設備能否在太空中穩定工作。\n\n這顆原型衛星由 Google 與 Planet 公司合作製造，並隨 SpaceX 的拼車發射任務升空。Google 隨後確認，團隊已與衛星建立聯繫，它正在按預期運行。\n\n衛星帶有四個 Google 張量處理器。接下來的數週，研究人員會觀察這些晶片在發射震動、輻射和極端溫度下的表現。\n\n這項任務仍是長期研究的一小步，並不等於已經在太空建成資料中心。它收集的資料將用於改進後續設計。",
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+      "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
+      "outlet": "NPR",
+      "publishedAt": "2026-10-01T14:41:07-04:00",
+      "accessedAt": "2026-10-02T16:13:00+08:00"
+    },
+    {
+      "url": "https://www.space.com/space-exploration/satellites/spacex-launching-prototype-google-ai-satellite-next-week",
+      "title": "SpaceX launching prototype Google AI satellite next week",
+      "outlet": "Space.com",
+      "publishedAt": "2026-09-25T10:00:00Z",
+      "accessedAt": "2026-10-02T16:13:00+08:00"
+    },
+    {
+      "url": "https://www.techradar.com/pro/google-is-launching-its-ai-chips-into-space-project-suncatcher-mvp-sports-four-tpus-and-will-be-delivered-by-a-spacex-rocket",
+      "title": "Google is launching its AI chips into space",
+      "outlet": "TechRadar Pro",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-10-02T16:13:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

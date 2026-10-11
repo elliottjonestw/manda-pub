@@ -1,0 +1,33 @@
+{
+  "name": "German States Hold Elections",
+  "category": "World",
+  "date": "2026-09-20",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/german-state-elections.webp",
+  "simplified": "德国柏林和梅克伦堡－前波美拉尼亚州9月20日举行州议会选举。约250万人可在柏林投票，约130万人可在梅克伦堡－前波美拉尼亚州投票。\n\n美联社和英国广播公司报道，这两场选举受到广泛关注，因为结果可能影响总理弗里德里希·默茨在党内的地位。\n\n报道指出，德国另类选择党在两个地区都被认为可能取得进展；梅克伦堡－前波美拉尼亚州的基督教民主联盟民调支持度尤其偏低。\n\n投票开始时，结果尚未产生。本文只描述选前形势和当日投票，不预测哪个政党会获胜或是否会改变联邦政府。",
+  "traditional": "德國柏林和梅克倫堡－前波美拉尼亞州9月20日舉行州議會選舉。約250萬人可在柏林投票，約130萬人可在梅克倫堡－前波美拉尼亞州投票。\n\n美聯社和英國廣播公司報道，這兩場選舉受到廣泛關注，因為結果可能影響總理弗里德里希·默茨在黨內的地位。\n\n報道指出，德國另類選擇黨在兩個地區都被認為可能取得進展；梅克倫堡－前波美拉尼亞州的基督教民主聯盟民調支持度尤其偏低。\n\n投票開始時，結果尚未產生。本文只描述選前形勢和當日投票，不預測哪個政黨會獲勝或是否會改變聯邦政府。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o",
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "outlet": "BBC News",
+      "publishedAt": "2026-09-20T07:57:32Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://apnews.com/article/7e2b99e72100fe2d4364045ae65db765",
+      "title": "Merz faces key test as two German states hold elections",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-20T06:52:49Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://www.dw.com/en/can-mecklenburg-western-pomerania-premier-schwesig-stop-far-right-afd-winning-state-election/a-79264225",
+      "title": "Can popular premier Schwesig hold off the far-right AfD?",
+      "outlet": "DW",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

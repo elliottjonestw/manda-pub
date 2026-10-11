@@ -1,0 +1,40 @@
+{
+  "name": "T. Rex Temperature",
+  "category": "Science",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 7–9",
+  "image": "/news/images/t-rex-temperature.webp",
+  "simplified": "一项9月16日发表在《科学进展》上的研究，首次估算了霸王龙的体温。研究人员从化石牙齿的牙釉质中寻找化学线索。\n\n他们分析了三颗霸王龙牙齿，得到的平均体温约为36.3摄氏度。研究结果的误差范围为上下约2.5摄氏度。\n\n牙釉质在动物体内形成时，会留下与体温有关的化学特征。研究团队利用这些特征来估算这种已经灭绝的恐龙的体温。\n\n多篇报道说，这一结果支持霸王龙是温血动物的看法。研究人员也提醒，不能把一个物种的结果直接推广到所有恐龙。",
+  "traditional": "一項9月16日發表在《科學進展》上的研究，首次估算了霸王龍的體溫。研究人員從化石牙齒的牙釉質中尋找化學線索。\n\n他們分析了三顆霸王龍牙齒，得到的平均體溫約為36.3攝氏度。研究結果的誤差範圍為上下約2.5攝氏度。\n\n牙釉質在動物體內形成時，會留下與體溫有關的化學特徵。研究團隊利用這些特徵來估算這種已經滅絕的恐龍的體溫。\n\n多篇報道說，這一結果支持霸王龍是溫血動物的看法。研究人員也提醒，不能把一個物種的結果直接推廣到所有恐龍。",
+  "sources": [
+    {
+      "url": "https://www.devdiscourse.com/article/international/3978816-reuters-science-news-summary",
+      "title": "Reuters Science News Summary",
+      "outlet": "Reuters (via Devdiscourse)",
+      "publishedAt": "2026-09-18T10:28:00+05:30",
+      "accessedAt": "2026-09-18T15:46:00+08:00"
+    },
+    {
+      "url": "https://apnews.com/article/2ee33ab4528dc358bc4b90861aa715e4",
+      "title": "T. rex was hot-blooded and about as warm as humans, fossil tooth study finds",
+      "outlet": "Associated Press",
+      "publishedAt": "2026-09-16T18:02:53Z",
+      "accessedAt": "2026-09-18T15:47:00+08:00"
+    },
+    {
+      "url": "https://www.latimes.com/science/story/2026-09-16/new-evidence-shows-that-you-are-only-slightly-hotter-than-t-rex",
+      "title": "New evidence shows that you are only slightly hotter than a T. rex",
+      "outlet": "Los Angeles Times",
+      "publishedAt": "2026-09-16T11:00:00-07:00",
+      "accessedAt": "2026-09-18T15:47:00+08:00"
+    },
+    {
+      "url": "https://www.livescience.com/animals/dinosaurs/scientists-finally-figured-out-the-temperature-of-t-rexs-blood-and-it-was-as-hot-as-ours",
+      "title": "Scientists finally figured out the temperature of T. rex's blood — and it was as hot as ours",
+      "outlet": "Live Science",
+      "publishedAt": "2026-09-16",
+      "accessedAt": "2026-09-18T15:47:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

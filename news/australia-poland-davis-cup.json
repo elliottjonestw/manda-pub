@@ -1,0 +1,33 @@
+{
+  "name": "Australia Beats Poland in Davis Cup",
+  "category": "Tennis",
+  "date": "2026-09-20",
+  "hskLevel": "HSK 3",
+  "image": "/news/images/australia-poland-davis-cup.webp",
+  "simplified": "9月20日，澳大利亚队和波兰队在布里斯班比赛。澳大利亚队赢了。最后的分数是3比1。\n\n德米纳尔也赢了。他的分数是6比3和6比3。\n\n在那以前，澳大利亚队先赢了两个人一起打的比赛。分数是7比6和6比3。\n\n明年，澳大利亚队会再比赛。他们想再去世界比赛。",
+  "traditional": "9月20日，澳大利亞隊和波蘭隊在布里斯班比賽。澳大利亞隊贏了。最後的分數是3比1。\n\n德米納爾也贏了。他的分數是6比3和6比3。\n\n在那以前，澳大利亞隊先贏了兩個人一起打的比賽。分數是7比6和6比3。\n\n明年，澳大利亞隊會再比賽。他們想再去世界比賽。",
+  "sources": [
+    {
+      "url": "https://www.abc.net.au/news/2026-09-20/de-minaur-fires-as-aussies-down-poland-davis-cup-tennis/107174202",
+      "title": "Alex de Minaur fires as Aussie pair completes 3-1 Davis Cup victory over Poland",
+      "outlet": "ABC News",
+      "publishedAt": "2026-09-20T07:21:12Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/sport/2026/sep/20/davis-cup-day-two-report-australia-poland-alex-de-minaur",
+      "title": "Alex de Minaur finds top gear to seal Australia’s Davis Cup win over Poland",
+      "outlet": "The Guardian / AAP",
+      "publishedAt": "2026-09-20T07:28:00Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-09-19/australia-poland-davis-cup-alex-de-minaur-james-duckworth/107172276",
+      "title": "Alex de Minaur wins first Davis Cup rubber, Poland takes second to level tie",
+      "outlet": "ABC News",
+      "publishedAt": "2026-09-19T04:53:00Z",
+      "accessedAt": "2026-09-20T19:08:00+08:00"
+    }
+  ],
+  "tocflLevel": "4"
+}

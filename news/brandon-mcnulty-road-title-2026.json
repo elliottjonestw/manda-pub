@@ -1,0 +1,33 @@
+{
+  "name": "McNulty Wins Road Race World Title",
+  "category": "Sport",
+  "date": "2026-09-28",
+  "hskLevel": "HSK 4",
+  "image": "/news/images/brandon-mcnulty-road-title-2026.webp",
+  "simplified": "9月27日，美国自行车运动员布兰登·麦克纳尔蒂在加拿大蒙特利尔赢了男子公路世界冠军。他今年28岁。这是美国选手33年来第一次赢这个比赛。\n\n比赛有273.4公里。麦克纳尔蒂在最后30公里开始一个人骑。他到最后一圈时领先50秒。\n\n最后，他比第二名的迈克尔·马修斯早13秒到终点。荷兰选手马蒂厄·范德普尔得了第三名。\n\n麦克纳尔蒂用了6小时17分钟完成比赛。他说，最后800米时，他非常累，也不相信自己会赢。",
+  "traditional": "9月27日，美國自行車運動員布蘭登·麥克納爾蒂在加拿大蒙特利爾贏了男子公路世界冠軍。他今年28歲。這是美國選手33年來第一次贏這個比賽。\n\n比賽有273.4公里。麥克納爾蒂在最後30公里開始一個人騎。他到最後一圈時領先50秒。\n\n最後，他比第二名的邁克爾·馬修斯早13秒到終點。荷蘭選手馬蒂厄·範德普爾得了第三名。\n\n麥克納爾蒂用了6小時17分鐘完成比賽。他說，最後800米時，他非常累，也不相信自己會贏。",
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no",
+      "title": "McNulty first US world road race winner in 33 years",
+      "outlet": "BBC Sport",
+      "publishedAt": "2026-09-27T20:33:42Z",
+      "accessedAt": "2026-09-28T16:04:53+08:00"
+    },
+    {
+      "url": "https://www.theguardian.com/sport/2026/sep/27/brandon-mcnulty-uci-world-championship-road-race-2026-lance-armstrong-cycling",
+      "title": "USA's McNulty transcends chaos of Montreal road race to claim 'miracle' world title",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-28T06:59:00+10:00",
+      "accessedAt": "2026-09-28T16:04:53+08:00"
+    },
+    {
+      "url": "https://www.nbcsports.com/olympics/news/brandon-mcnulty-world-championships-road-race-2026",
+      "title": "Brandon McNulty wins U.S.' first road race world title in 33 years",
+      "outlet": "NBC Sports",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-09-28T16:04:53+08:00"
+    }
+  ],
+  "tocflLevel": "3"
+}

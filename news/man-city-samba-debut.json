@@ -1,0 +1,33 @@
+{
+  "name": "Samba’s Dream Debut",
+  "category": "Football",
+  "date": "2026-09-18",
+  "hskLevel": "HSK 6",
+  "image": "/news/images/man-city-samba-debut.webp",
+  "simplified": "9月17日，曼彻斯特城队在英格兰联赛杯第三轮以5比0战胜诺维奇城队，进入第四轮。\n\n17岁的弗洛伊德·桑巴首次代表一线队出场，就攻入两球。他先以头球打开比分，下半场又射入球队的第四球。\n\n拉扬·谢尔基、阿兰和瑞安·麦凯杜也为曼城得分。阿兰同样是在首次出场时进球。\n\n报道说，曼城下一轮将在主场对阵布莱顿队。",
+  "traditional": "9月17日，曼徹斯特城隊在英格蘭聯賽盃第三輪以5比0戰勝諾維奇城隊，進入第四輪。\n\n17歲的弗洛伊德·桑巴首次代表一線隊出場，就攻入兩球。他先以頭球打開比分，下半場又射入球隊的第四球。\n\n拉揚·謝爾基、阿蘭和瑞安·麥凱杜也為曼城得分。阿蘭同樣是在首次出場時進球。\n\n報道說，曼城下一輪將在主場對陣布萊頓隊。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
+      "title": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-17T22:33:00+02:00",
+      "accessedAt": "2026-09-18T16:21:00+08:00"
+    },
+    {
+      "url": "https://www.skysports.com/football/news/11938/13588945/man-city-5-0-norwich-floyd-samba-enjoys-dream-debut-with-double-to-book-place-in-carabao-cup-fourth-round-for-enzo-marescas-side",
+      "title": "Man City 5-0 Norwich: Floyd Samba enjoys dream debut with double",
+      "outlet": "Sky Sports",
+      "publishedAt": "2026-09-17T22:18:00+01:00",
+      "accessedAt": "2026-09-18T16:21:00+08:00"
+    },
+    {
+      "url": "https://www.tntsports.co.uk/football/league-cup/2026-2027/live-manchester-city-norwich-city_mtc21876993/live-commentary.shtml",
+      "title": "Manchester City v Norwich City – Carabao Cup result",
+      "outlet": "TNT Sports",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-09-18T16:21:00+08:00"
+    }
+  ],
+  "tocflLevel": null
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Dolly Parton Day Is Celebrated",
+  "category": "Culture",
+  "date": "2026-09-26",
+  "hskLevel": "HSK 3",
+  "image": "/news/images/dolly-parton-day-2026.webp",
+  "simplified": "9月25日，美国很多城市庆祝“多莉·帕顿日”。这个日期写成9/25，和她的歌《9 to 5》一样。\n\n加利福尼亚州和俄亥俄州都说，这一天是多莉·帕顿日。一些城市有唱歌、跳舞和音乐活动。\n\n波特兰市也参加了。市政府说，当地人可以一起庆祝，也可以帮助多莉的儿童读书计划。\n\n这个计划给小孩子送书。报道说，俄勒冈州有八万多名孩子参加这个计划。",
+  "traditional": "9月25日，美國很多城市慶祝「多莉·帕頓日」。這個日期寫成9/25，和她的歌《9 to 5》一樣。\n\n加利福尼亞州和俄亥俄州都說，這一天是多莉·帕頓日。一些城市有唱歌、跳舞和音樂活動。\n\n波特蘭市也參加了。市政府說，當地人可以一起慶祝，也可以幫助多莉的兒童讀書計畫。\n\n這個計畫給小孩子送書。報導說，俄勒岡州有八萬多名孩子參加這個計畫。",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/music/2026/sep/25/dolly-parton-day-declared",
+      "title": "Dolly Parton Day declared in various cities and states across the US on 9/25",
+      "outlet": "The Guardian",
+      "publishedAt": "2026-09-25T19:54:00+02:00",
+      "accessedAt": "2026-09-26T16:02:51+08:00"
+    },
+    {
+      "url": "https://www.opb.org/article/2026/09/24/dolly-parton-oregon-9-to-5-day-september-25-country-music/",
+      "title": "Portland declares 9/25 Dolly Parton Day, a nod to ‘9 to 5’",
+      "outlet": "Oregon Public Broadcasting",
+      "publishedAt": "2026-09-24T17:40:00-07:00",
+      "accessedAt": "2026-09-26T16:02:51+08:00"
+    },
+    {
+      "url": "https://www.cbsnews.com/sanfrancisco/news/dolly-parton-day-celebration-san-francisco-union-square-california/",
+      "title": "California's inaugural Dolly Parton Day celebrated in San Francisco's Union Square",
+      "outlet": "CBS San Francisco",
+      "publishedAt": "2026-09-25T13:21:00-07:00",
+      "accessedAt": "2026-09-26T16:02:51+08:00"
+    }
+  ],
+  "tocflLevel": "3"
+}
